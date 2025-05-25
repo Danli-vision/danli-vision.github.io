@@ -33,9 +33,9 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
   <li><strong>Apr 2025</strong>: One paper is accepted by JAMA Ophthalmology. Congrats to Xinyuan.</li>
 
-  <li><strong>Mar 2025</strong>: One paper is published at Intelligent Medicine: <a href="https://www.sciencedirect.com/science/article/pii/S2667102625000294">LLMs in healthcare</a>. Congrats to Xiaolan.</li>
+  <li><strong>Mar 2025</strong>: One paper is published at Intelligent Medicine: <a href="https://www.sciencedirect.com/science/article/pii/S2667102625000294">Evaluating LLMs and agents in healthcare</a>. Congrats to Xiaolan.</li>
 
-  <li><strong>Jan 2025</strong>: One paper is published at International Journal of Surgery (IF=12.5): <a href="https://www.sciencedirect.com/science/article/pii/S2667102625000294">Retinal oculomics study</a>.</li>
+  <li><strong>Jan 2025</strong>: One paper is published at International Journal of Surgery (IF=12.5): <a href="https://journals.lww.com/international-journal-of-surgery/fulltext/2025/03000/retinal_oculomics_and_risk_of_incident_aortic.13.aspx">Retinal oculomics study</a>.</li>
 
   <li><strong>Jan 2025</strong>: One paper is published at Heart and covered by 90+ media outlets: <a href="https://heart.bmj.com/content/111/7/306.abstract">Retinal vascular fingerprints</a>. Big congrats to Mayi.</li>
 
@@ -43,13 +43,13 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
   <li><strong>Oct 2024</strong>: One paper published at MICCAI: <a href="https://doi.org/10.1007/978-3-031-72378-0_64">Fundus2Video</a>. Congrats to Weiyi.</li>
 
-  <li><strong>Oct 2024</strong>: One paper published at Nature Communications: <a href="https://www.nature.com/articles/s41467-024-53331-0">GWAS-by-subtraction</a>.</li>
+  <li><strong>Oct 2024</strong>: One paper published at Nature Communications: <a href="https://www.nature.com/articles/s41467-024-53331-0">GWAS & glaucoma & retinal vessel</a>.</li>
 
   <li><strong>Jun 2024</strong>: Two papers accepted by BJO. Congrats to Xiaolan and Pusheng.</li>
 
   <li><strong>May 2024</strong>: One paper published at npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-024-01101-z">FFA-GPT</a>. Congrats to Xiaolan.</li>
 
-  <li><strong>Feb 2024</strong>: One paper published at npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-024-01018-7">ICGA translation</a>. Congrats to Ruoyu.</li>
+  <li><strong>Feb 2024</strong>: One paper published at npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-024-01018-7">Non-invasive ICGA generation</a>. Congrats to Ruoyu.</li>
 </ul>
 
 </div>
