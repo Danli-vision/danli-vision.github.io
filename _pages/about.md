@@ -37,9 +37,9 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
   <li><strong>Jan 2025</strong>: One paper is published at International Journal of Surgery (IF=12.5): <a href="https://journals.lww.com/international-journal-of-surgery/fulltext/2025/03000/retinal_oculomics_and_risk_of_incident_aortic.13.aspx">Retinal oculomics study</a>.</li>
 
-  <li><strong>Jan 2025</strong>: One paper is published at Heart and covered by 90+ media outlets: <a href="https://heart.bmj.com/content/111/7/306.abstract">Retinal vascular fingerprints</a>. Big congrats to Mayi.</li>
+  <li><strong>Jan 2025</strong>: One paper is published at Heart and covered by 90+ media outlets: <a href="https://heart.bmj.com/content/111/7/306.abstract">Retinal vascular fingerprints</a>. Congrats to Mayi.</li>
 
-  <li><strong>Dec 2024</strong>: Two papers published at JMIR. Big congrats to Xiaolan and Ziwei.</li>
+  <li><strong>Dec 2024</strong>: Two papers published at JMIR. Congrats to Xiaolan and Ziwei.</li>
 
   <li><strong>Oct 2024</strong>: One paper published at MICCAI: <a href="https://doi.org/10.1007/978-3-031-72378-0_64">Fundus2Video</a>. Congrats to Weiyi.</li>
 
@@ -57,7 +57,7 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
 # 📝 Publications 
 
--  Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate), [ORCID](https://orcid.org/0000-0001-6094-137X), or [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57218407370).
+-  Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate) or [ORCID](https://orcid.org/0000-0001-6094-137X).
 
 
 # 🎖 Honors and Awards
