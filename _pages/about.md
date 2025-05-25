@@ -22,6 +22,7 @@ I am a Research Assistant Professor at the School of Optometry, The Hong Kong Po
 My research interests include generative AI, multimodal AI agents, ocular digital biomarkers, and human-AI collaboration.
 
 # 🔥 News
+<div style="max-height: 250px; overflow-y: auto; padding-right: 10px;">
 - *Pin on the Top*: We are looking for self-motivated PhD applicants/Interns/Research Assistants. If you are passionate about AI, digital innovation, or ophthalmology research, feel free to drop me an email. With millions of medical data, ample computing resources, and extensive collaborative networks, our lab provides an ideal environment to transform your ideas into real-world impact.
 
 - *May 2025*: One paper is published at APJO:[Digital twins in ophthalmology: Concepts, applications, and challenges](https://www.sciencedirect.com/science/article/pii/S2162098925000726?via%3Dihub). Congrats to Kezheng.
@@ -36,12 +37,12 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 - *Jun 2024*: Two papers got accepted by BJO. Congrats to Xiaolan and Pusheng.
 - *May 2024*: One paper published at npj Digit. Med.(IF=15.3). [FFA-GPT: an automated pipeline for fundus fluorescein angiography interpretation and question-answer](https://www.nature.com/articles/s41746-024-01101-z) Congrats to Xiaolan.
 - *Feb 2024*: One paper published at npj Digit. Med.(IF=15.3). [Translating color fundus photography to indocyanine green angiography using deep-learning for age-related macular degeneration screening](https://www.nature.com/articles/s41746-024-01018-7) Congrats to Ruoyu.
-
+</div>
 
 
 # 📝 Publications 
 
-Please refer to my Google Scholar, ORCID, or Scopus.
+-  Please refer to my Google Scholar, ORCID, or Scopus.
 
 
 # 🎖 Honors and Awards
