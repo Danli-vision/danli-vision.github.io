@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Danli Shi"
-description              : "Research Assistant Professor at PolyU. "
+description              : "Clinician. Researcher. Programmer."
 repository               : "Danli-vision/danli-vision.github.io"
 # google_scholar_stats_use_cdn : true
 
@@ -32,7 +32,8 @@ author:
   # researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   # github           : # e.g., "github username"
   linkedin         : # e.g., "linkedin username"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-6094-137X"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57218407370"
   # twitter          : 
 
 
