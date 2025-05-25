@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Danli Shi"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Research Assistant Professor at PolyU. "
 repository               : "Danli-vision/danli-vision.github.io"
 # google_scholar_stats_use_cdn : true
 
@@ -21,13 +21,14 @@ repository               : "Danli-vision/danli-vision.github.io"
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Danli Shi"
   avatar           : "images/SHI Danli_2025.jpg"
-  bio              : "Lorem ipsum College"
-  location         : "HK"
+  bio              : "The Hong Kong Polytechnic University"
+  Office           : "GH164"
+  email            : "danli.shi at polyu dot edu dot hk"
   # employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate"
+  
   # researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   # github           : # e.g., "github username"
   linkedin         : # e.g., "linkedin username"
