@@ -37,6 +37,7 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 - *Jun 2024*: Two papers got accepted by BJO. Congrats to Xiaolan and Pusheng.
 - *May 2024*: One paper published at npj Digit. Med.(IF=15.3). [FFA-GPT: an automated pipeline for fundus fluorescein angiography interpretation and question-answer](https://www.nature.com/articles/s41746-024-01101-z) Congrats to Xiaolan.
 - *Feb 2024*: One paper published at npj Digit. Med.(IF=15.3). [Translating color fundus photography to indocyanine green angiography using deep-learning for age-related macular degeneration screening](https://www.nature.com/articles/s41746-024-01018-7) Congrats to Ruoyu.
+
 </div>
 
 
