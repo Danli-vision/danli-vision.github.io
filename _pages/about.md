@@ -57,7 +57,7 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
 # 📝 Publications 
 
--  Please refer to my Google Scholar, ORCID, or Scopus.
+-  Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate), [ORCID](https://orcid.org/0000-0001-6094-137X), or [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57218407370).
 
 
 # 🎖 Honors and Awards
