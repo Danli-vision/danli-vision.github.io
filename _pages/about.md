@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Assistant Professor at the School of Optometry, The Hong Kong Polytechnic University. I completed my PhD at Zhongshan Ophthalmic Center, Sun Yat-sen University. Before that, I obtained both MS and BS degrees from Shanghai Jiao Tong University and completed my ophthalmology residency at Renji Hospital, affiliated with the Shanghai Jiao Tong University School of Medicine.
+I am a Research Assistant Professor at the School of Optometry, The Hong Kong Polytechnic University. I completed my PhD at Zhongshan Ophthalmic Center, Sun Yat-sen University, supervised by [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en). Before that, I obtained both MS and BS degrees from Shanghai Jiao Tong University and completed my ophthalmology residency at Renji Hospital, affiliated with the Shanghai Jiao Tong University School of Medicine.
 
 My research interests include generative AI, multimodal AI agents, ocular digital biomarkers, and human-AI collaboration.
 
