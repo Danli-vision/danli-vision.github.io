@@ -26,7 +26,7 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
 <ul>
   <li><strong>Pin on the Top</strong>: <br>
-  - One RA position is open, research direction: robotics.<br><br>
+  - One RA position is open, research direction: robotics.<br>
   - We are looking for self-motivated PhD applicants. If you are passionate about AI, digital innovation, or ophthalmology research, feel free to drop me an email. With millions of medical data, ample computing resources, and extensive collaborative networks, our lab provides an ideal environment to transform your ideas into real-world impact.</li>
 
   <li><strong>May 2025</strong>: One paper is published at APJO: <a href="https://www.sciencedirect.com/science/article/pii/S2162098925000726?via%3Dihub">Digital twins in ophthalmology</a>. Congrats to Kezheng.</li>
