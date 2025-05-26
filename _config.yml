@@ -25,12 +25,10 @@ author:
   avatar           : "images/SHI Danli_2025.jpg"
   bio              : "The Hong Kong Polytechnic University"
   Office           : "GH164"
-  email            : "danli.shi at polyu dot edu dot hk"
-  # employer         :
+  email            : "danli.shi@polyu.edu.hk"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate"
-  
-  # researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  # github           : # e.g., "github username"
+  wechat           : "images/wechat.jpg"
+  researchgate     : "https://www.researchgate.net/profile/Danli-Shi"
   linkedin         : # e.g., "linkedin username"
   orcid            : "https://orcid.org/0000-0001-6094-137X"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57218407370"
