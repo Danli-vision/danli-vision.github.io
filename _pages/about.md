@@ -63,4 +63,24 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 # 🎖 Honors and Awards
 - *Apr 2025* [Special Merit Award from French Inventors Federation and Europe-France Inventors, Gold Medal with Congratulations of the Jury, 50th International Exhibition of Inventions Geneva](https://www.polyu.edu.hk/media/media-releases/2025/0413_polyu-wins-36-accolades-at-international-exhibition-of-inventions-geneva/)
 
+# 🏢 Professional Activities
+- *Conference Co-organizer*
+  - Asia-Pacific Tele-Ophthalmology Society
+- *Guest Editor*
+  - BMJ open ophthalmology
+- *Community Service*
+  - Awards Officer, Women in MICCAI (WiM)
+- *Journal/Conference Reviews*
+  - npj Digital Medicine
+  - Nature computational science
+  - Progress in Retinal and Eye Research
+  - British Journal of Ophthalmology
+  - Ophthalmology Science
+  - JMIR
+  - Pattern Recognition Letters
+  - Expert Systems with Applications
+  - Biomedical Signal Processing and Control
+  - MICCAI
+
+
 
