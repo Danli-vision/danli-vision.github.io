@@ -19,13 +19,16 @@ redirect_from:
 
 I am a Research Assistant Professor at the School of Optometry, The Hong Kong Polytechnic University. I completed my PhD at Zhongshan Ophthalmic Center, Sun Yat-sen University, supervised by [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en). Before that, I obtained both MS and BS degrees from Shanghai Jiao Tong University and completed my ophthalmology residency at Renji Hospital, affiliated with the Shanghai Jiao Tong University School of Medicine.
 
-My research interests include generative AI, multimodal AI agents, ocular digital biomarkers, and human-AI collaboration.
+My research interests include generative AI, multimodal AI agents, ocular digital biomarkers, and autonomous clinic.
 
 # 🔥 News
-<div style="max-height: 250px; overflow-y: auto; padding-right: 10px;">
+<div style="max-height: 300px; overflow-y: auto; padding-right: 10px;">
 
 <ul>
-  <li><strong>Pin on the Top</strong>: We are looking for self-motivated PhD applicants/Interns/Research Assistants. If you are passionate about AI, digital innovation, or ophthalmology research, feel free to drop me an email. With millions of medical data, ample computing resources, and extensive collaborative networks, our lab provides an ideal environment to transform your ideas into real-world impact.</li>
+  <li><strong>Pin on the Top</strong>: 
+  One RA position is open, research direction: robotics.
+
+  We are looking for self-motivated PhD applicants. If you are passionate about AI, digital innovation, or ophthalmology research, feel free to drop me an email. With millions of medical data, ample computing resources, and extensive collaborative networks, our lab provides an ideal environment to transform your ideas into real-world impact.</li>
 
   <li><strong>May 2025</strong>: One paper is published at APJO: <a href="https://www.sciencedirect.com/science/article/pii/S2162098925000726?via%3Dihub">Digital twins in ophthalmology</a>. Congrats to Kezheng.</li>
 
@@ -47,9 +50,9 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
   <li><strong>Jun 2024</strong>: Two papers accepted by BJO. Congrats to Xiaolan and Pusheng.</li>
 
-  <li><strong>May 2024</strong>: One paper published at npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-024-01101-z">FFA-GPT</a>. Congrats to Xiaolan.</li>
+  <li><strong>May 2024</strong>: One paper published at npj Digital Medicine (IF=15.3): <a href="https://www.nature.com/articles/s41746-024-01101-z">FFA-GPT</a>. Congrats to Xiaolan.</li>
 
-  <li><strong>Feb 2024</strong>: One paper published at npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-024-01018-7">Non-invasive ICGA generation</a>. Congrats to Ruoyu.</li>
+  <li><strong>Feb 2024</strong>: One paper published at npj Digital Medicine (IF=15.3): <a href="https://www.nature.com/articles/s41746-024-01018-7">Non-invasive ICGA generation</a>. Congrats to Ruoyu.</li>
 </ul>
 
 </div>
