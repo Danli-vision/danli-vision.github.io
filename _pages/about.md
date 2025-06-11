@@ -29,9 +29,9 @@ My research interests include generative AI, multimodal AI agents, ocular digita
   - One RA position is open, research direction: robotics.<br>
   - We are looking for self-motivated PhD applicants. If you are passionate about AI, digital innovation, or ophthalmology research, feel free to drop me an email. With millions of medical data, ample computing resources, and extensive collaborative networks, our lab provides an ideal environment to transform your ideas into real-world impact.</li>
 
-  <li><strong>May 2025</strong>: One paper is accepted by npj Digital Medicine. Congrats to Yao, Xiaolan, Xinyuan.</li>
+  <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01754-4">Embodied artificial intelligence in ophthalmology</a>.  Congrats to Yao, Xiaolan, Xinyuan.</li>
 
-  <li><strong>May 2025</strong>: One paper is published at APJO: <a href="https://www.sciencedirect.com/science/article/pii/S2162098925000726?via%3Dihub">Digital twins in ophthalmology</a>. Congrats to Kezheng.</li>
+  <li><strong>June 2025</strong>: One paper is accepted by npj Digital Medicine: <a href="https://arxiv.org/abs/2409.06644">EyeCLIP multimodal vision-language foundation model</a>.</li>
 
   <li><strong>May 2025</strong>: One paper is accepted by JACC (IF=21.7).</li>
 
