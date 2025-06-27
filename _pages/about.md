@@ -29,13 +29,13 @@ My research interests include generative AI, multimodal AI agents, ocular digita
   - One RA position is open, research direction: robotics.<br>
   - We are looking for self-motivated PhD applicants. If you are passionate about AI, digital innovation, or ophthalmology research, feel free to drop me an email. With millions of medical data, ample computing resources, and extensive collaborative networks, our lab provides an ideal environment to transform your ideas into real-world impact.</li>
 
+  <li><strong>June 2025</strong>: One paper is published on JAMA Ophthalmology: <a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600">FFA SORA: Generation of Fundus Fluorescein Angiography Videos for Health Care Data Sharing</a>.Congrats to Xinyuan, Lili.</li>
+
+  <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01772-2">EyeCLIP multimodal vision-language foundation model</a>.</li>
+
   <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01754-4">Embodied artificial intelligence in ophthalmology</a>.  Congrats to Yao, Xiaolan, Xinyuan.</li>
 
-  <li><strong>June 2025</strong>: One paper is accepted by npj Digital Medicine: <a href="https://arxiv.org/abs/2409.06644">EyeCLIP multimodal vision-language foundation model</a>.</li>
-
   <li><strong>May 2025</strong>: One paper is accepted by JACC (IF=21.7).</li>
-
-  <li><strong>Apr 2025</strong>: One paper is accepted by JAMA Ophthalmology. Congrats to Xinyuan.</li>
 
   <li><strong>Mar 2025</strong>: One paper is published at Intelligent Medicine: <a href="https://www.sciencedirect.com/science/article/pii/S2667102625000294">Evaluating LLMs and agents in healthcare</a>. Congrats to Xiaolan.</li>
 
@@ -60,7 +60,6 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
 
 # 📝 Publications 
-
 -  Please refer to my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate) or [ORCID](https://orcid.org/0000-0001-6094-137X).
 
 
