@@ -29,6 +29,8 @@ My research interests include generative AI, multimodal AI agents, ocular digita
   - One RA position is open, research direction: robotics.<br>
   - We are looking for self-motivated PhD applicants. If you are passionate about AI, digital innovation, or ophthalmology research, feel free to drop me an email. With millions of medical data, ample computing resources, and extensive collaborative networks, our lab provides an ideal environment to transform your ideas into real-world impact.</li>
 
+  <li><strong>July 2025</strong>: One General Research Fund (GRF) has been granted by Research Grants Council of Hong Kong (HK$106W)
+
   <li><strong>June 2025</strong>: One paper is published on JAMA Ophthalmology: <a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600">FFA SORA: Generation of Fundus Fluorescein Angiography Videos for Health Care Data Sharing</a>.Congrats to Xinyuan, Lili.</li>
 
   <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01772-2">EyeCLIP multimodal vision-language foundation model</a>.</li>
