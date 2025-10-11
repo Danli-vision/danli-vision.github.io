@@ -25,11 +25,11 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
   <li><strong>July 2025</strong>: One General Research Fund (GRF) has been granted by Research Grants Council of Hong Kong (HK$106W).</li>
 
-  <li><strong>June 2025</strong>: One paper is published on JAMA Ophthalmology: <a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600">FFA SORA: Generation of Fundus Fluorescein Angiography Videos for Health Care Data Sharing</a>.Congrats to Xinyuan, Lili.</li>
+  <li><strong>June 2025</strong>: One paper published on JAMA Ophthalmology: <a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600">FFA SORA</a>.Congrats to Xinyuan, Lili.</li>
 
-  <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01772-2">EyeCLIP multimodal vision-language foundation model (supports 11 ophthalmic imaging modalities)</a> [<a href="https://github.com/Michi-3000/EyeCLIP/tree/main" style="text-decoration: none;">code</a>]</li>
+  <li><strong>June 2025</strong>: One paper published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01772-2">EyeCLIP multimodal vision-language foundation model (supports 11 modalities)</a> [<a href="https://github.com/Michi-3000/EyeCLIP/tree/main" style="text-decoration: none;">code</a>]</li>
 
-  <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01754-4">Embodied artificial intelligence in ophthalmology</a>.  Congrats to Yao, Xiaolan, Xinyuan.</li>
+  <li><strong>June 2025</strong>: One paper published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01754-4">Embodied AI in ophthalmology</a>.  Congrats to Yao, Xiaolan, Xinyuan.</li>
 
   <li><strong>May 2025</strong>: One paper is accepted by JACC (IF=21.7).</li>
 
@@ -37,7 +37,7 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
   <li><strong>Jan 2025</strong>: <a href="https://journals.lww.com/international-journal-of-surgery/fulltext/2025/03000/retinal_oculomics_and_risk_of_incident_aortic.13.aspx">Retinal oculomics study</a> published at International Journal of Surgery (IF=12.5)</li>
 
-  <li><strong>Jan 2025</strong>: <a href="https://heart.bmj.com/content/111/7/306.abstract">Retinal vascular fingerprints</a> published at Heart and covered by 90+ media outlets:. Congrats to Mayi.</li>
+  <li><strong>Jan 2025</strong>: <a href="https://heart.bmj.com/content/111/7/306.abstract">Retinal vascular fingerprints</a> published at Heart and covered by 90+ media outlets. Congrats to Mayi.</li>
 
   <li><strong>Dec 2024</strong>: <a href="https://www.jmir.org/2024/1/e60063">EyeGPT</a> and <a href="https://www.jmir.org/2024/1/e54047">Slit lamp-GPT</a> published at JMIR. Congrats to Xiaolan and Ziwei.</li>
 
