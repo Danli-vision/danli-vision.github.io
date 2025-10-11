@@ -41,7 +41,7 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
   <li><strong>Dec 2024</strong>: Two papers published at JMIR. Congrats to Xiaolan and Ziwei.</li>
 
-  <li><strong>Oct 2024</strong>: One paper published at MICCAI: <a href="https://doi.org/10.1007/978-3-031-72378-0_64">Fundus2Video</a>, <a href="https://github.com/Michi-3000/Fundus2Video" style="text-decoration: none; font-style: italic;">code</a>. Congrats to Weiyi.</li>
+  <li><strong>Oct 2024</strong>: One paper published at MICCAI: <a href="https://doi.org/10.1007/978-3-031-72378-0_64">Fundus2Video</a>, [<a href="https://github.com/Michi-3000/Fundus2Video" style="text-decoration: none;">code</a>]. Congrats to Weiyi.</li>
 
   <li><strong>Oct 2024</strong>: One paper published at Nature Communications: <a href="https://www.nature.com/articles/s41467-024-53331-0">GWAS & glaucoma & retinal vessel</a>.</li>
 
