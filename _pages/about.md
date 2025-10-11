@@ -28,7 +28,7 @@ My research interests include generative AI, multimodal AI agents, ocular digita
   <li><strong>Pin on the Top</strong>: 
   - We are looking for self-motivated PhD applicants. If you are passionate about AI, digital innovation, or ophthalmology research, feel free to drop me an email. With millions of medical data, ample computing resources, and extensive collaborative networks, our lab provides an ideal environment to transform your ideas into real-world impact.</li>
 
-  <li><strong>Oct 2025</strong>: Retinomics: A Window to Multidisease Prediction Using Retinal Biomarkers from Routine Eye Imaging<a href="https://github.com/Danli-vision/retinomics/tree/main">code</a>.</li>
+  <li><strong>Oct 2025</strong>: Retinomics: A Window to Multidisease Prediction Using Retinal Biomarkers from Routine Eye Imaging: <a href="https://github.com/Danli-vision/retinomics/tree/main">code</a>.</li>
 
   <li><strong>July 2025</strong>: One General Research Fund (GRF) has been granted by Research Grants Council of Hong Kong (HK$106W).</li>
 
