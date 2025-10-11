@@ -27,7 +27,7 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
   <li><strong>June 2025</strong>: One paper is published on JAMA Ophthalmology: <a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600">FFA SORA: Generation of Fundus Fluorescein Angiography Videos for Health Care Data Sharing</a>.Congrats to Xinyuan, Lili.</li>
 
-  <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01772-2">EyeCLIP multimodal vision-language foundation model (supports 11 ophthalmic imaging modalities)</a>, [<a href="https://github.com/Michi-3000/EyeCLIP/tree/main" style="text-decoration: none;">code</a>]</li>
+  <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01772-2">EyeCLIP multimodal vision-language foundation model (supports 11 ophthalmic imaging modalities)</a> [<a href="https://github.com/Michi-3000/EyeCLIP/tree/main" style="text-decoration: none;">code</a>]</li>
 
   <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01754-4">Embodied artificial intelligence in ophthalmology</a>.  Congrats to Yao, Xiaolan, Xinyuan.</li>
 
