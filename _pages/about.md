@@ -34,7 +34,7 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
   <li><strong>June 2025</strong>: One paper is published on JAMA Ophthalmology: <a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600">FFA SORA: Generation of Fundus Fluorescein Angiography Videos for Health Care Data Sharing</a>.Congrats to Xinyuan, Lili.</li>
 
-  <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01772-2">EyeCLIP multimodal vision-language foundation model</a>.</li>
+  <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01772-2">EyeCLIP multimodal vision-language foundation model (supports 11 ophthalmic imaging modalities)</a>, <a href="https://github.com/Michi-3000/EyeCLIP/tree/main">code</a></li>
 
   <li><strong>June 2025</strong>: One paper is published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01754-4">Embodied artificial intelligence in ophthalmology</a>.  Congrats to Yao, Xiaolan, Xinyuan.</li>
 
@@ -48,7 +48,7 @@ My research interests include generative AI, multimodal AI agents, ocular digita
 
   <li><strong>Dec 2024</strong>: Two papers published at JMIR. Congrats to Xiaolan and Ziwei.</li>
 
-  <li><strong>Oct 2024</strong>: One paper published at MICCAI: <a href="https://doi.org/10.1007/978-3-031-72378-0_64">Fundus2Video</a>. Congrats to Weiyi.</li>
+  <li><strong>Oct 2024</strong>: One paper published at MICCAI: <a href="https://doi.org/10.1007/978-3-031-72378-0_64">Fundus2Video</a>, <a href="https://github.com/Michi-3000/Fundus2Video">code</a>. Congrats to Weiyi.</li>
 
   <li><strong>Oct 2024</strong>: One paper published at Nature Communications: <a href="https://www.nature.com/articles/s41467-024-53331-0">GWAS & glaucoma & retinal vessel</a>.</li>
 
@@ -78,7 +78,8 @@ My research interests include generative AI, multimodal AI agents, ocular digita
   - Awards Officer, Women in MICCAI (WiM)
 - *Journal/Conference Reviews*
   - npj Digital Medicine
-  - Nature computational science
+  - Nature Computational Science
+  - Nature Communications
   - Progress in Retinal and Eye Research
   - British Journal of Ophthalmology
   - Ophthalmology Science
