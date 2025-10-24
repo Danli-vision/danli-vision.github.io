@@ -23,7 +23,7 @@ I am a Research Assistant Professor at the Academy for Artificial Intelligence a
 
 
 # 🔥 News
-<div style="max-height: 300px; overflow-y: auto; padding-right: 10px;">
+<div style="max-height: 350px; overflow-y: auto; padding-right: 10px;">
 
 <ul>
   <li><strong>Pin on the Top</strong>: 
