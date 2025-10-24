@@ -10,16 +10,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Assistant Professor at the Academy for Artificial Intelligence and the School of Optometry at The Hong Kong Polytechnic University. I completed my PhD at Zhongshan Ophthalmic Center, Sun Yat-sen University, supervised by [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en). Before that, I obtained both MS and BS degrees from Shanghai Jiao Tong University and completed my ophthalmology residency at Renji Hospital, affiliated with the Shanghai Jiao Tong University School of Medicine.
+I am a Research Assistant Professor at the Academy for Artificial Intelligence and the School of Optometry at The Hong Kong Polytechnic University. I completed my PhD at Zhongshan Ophthalmic Center, Sun Yat-sen University, supervised by [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en). Before that, I obtained both MS and BS degrees from Shanghai Jiao Tong University and completed my ophthalmology residency at Renji Hospital, affiliated with Shanghai Jiao Tong University School of Medicine.
 
-My research interests include generative AI, multimodal AI agents, ocular digital biomarkers, and autonomous clinic.
+My research interests include:
+-Generative AI: ([CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331),[CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7),[FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z),[EyeGPT](https://www.jmir.org/2024/1/e60063/),[EyeFound](https://arxiv.org/abs/2405.11338)[EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2))
+-AI agents:[Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002),[Ophthalmology](https://doi.org/10.1136/bjo-2024-326097),[ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2)
+-Ocular digital biomarkers:
+  --Retinal vessel: RMHAS series
+  --Choroidal vessel:[ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
+-Autonomous clinic
+
+
 
 # 🔥 News
 <div style="max-height: 400px; overflow-y: auto; padding-right: 10px;">
 
 <ul>
   <li><strong>Pin on the Top</strong>: 
-  - We are looking for self-motivated PhD applicants. If you are passionate about AI, digital innovation, or ophthalmology research, feel free to drop me an email. With millions of medical data, ample computing resources, and extensive collaborative networks, our lab provides an ideal environment to transform your ideas into real-world impact.</li>
+  - We are looking for self-motivated PhD applicants with a background in AI/CS/Medicine. Feel free to drop me an email.</li>
+
+  <li><strong>June 2025</strong>: One paper published on JACC (IF=22.3): <a href="https://www.jacc.org/doi/10.1016/j.jacc.2025.05.020">Effect of Intensive BP Lowering Treatment on Retinal Microvasculature: Secondary Analysis From ESPRIT</a>.</li>
 
   <li><strong>Oct 2025</strong>: Retinomics: A Window to Multidisease Prediction Using Retinal Biomarkers from Routine Eye Imaging [<a href="https://github.com/Danli-vision/retinomics/tree/main" style="text-decoration: none;">code</a>].</li>
 
@@ -30,8 +40,6 @@ My research interests include generative AI, multimodal AI agents, ocular digita
   <li><strong>June 2025</strong>: One paper published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01772-2">EyeCLIP multimodal vision-language foundation model (supports 11 modalities)</a> [<a href="https://github.com/Michi-3000/EyeCLIP/tree/main" style="text-decoration: none;">code</a>]</li>
 
   <li><strong>June 2025</strong>: One paper published on npj Digital Medicine: <a href="https://www.nature.com/articles/s41746-025-01754-4">Embodied AI in ophthalmology</a>.  Congrats to Yao, Xiaolan, Xinyuan.</li>
-
-  <li><strong>May 2025</strong>: One paper is accepted by JACC (IF=21.7).</li>
 
   <li><strong>Mar 2025</strong>: <a href="https://www.sciencedirect.com/science/article/pii/S2667102625000294">Evaluating LLMs and agents in healthcare</a> published at Intelligent Medicine. Congrats to Xiaolan.</li>
 
