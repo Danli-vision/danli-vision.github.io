@@ -117,5 +117,29 @@ I am a Research Assistant Professor at the Academy for Artificial Intelligence a
 20. Wang, J. et al. *Retinal Vascular Fingerprints as Novel Biomarkers for Primary Angle Closure Disease Progression.* **Ophthalmol Sci** 5 (2025). [pdf](https://doi.org/10.1016/j.xops.2025.100848)
 21. Wang, B. et al. *Effect of Intensive Blood Pressure Lowering Treatment on Retinal Microvasculature.* **JACC** 86, 1377–1388 (2025). [pdf](https://doi.org/10.1016/j.jacc.2025.05.020)
 
+1.	Shi D, Lin Z, Wang W, Tan Z, Shang X, Zhang X, Meng W, Ge Z, He M. A Deep Learning System for Fully Automated Retinal Vessel Measurement in High Throughput Image Analysis. Front Cardiovasc Med. 2022;9:823436. doi: 10.3389/fcvm.2022.823436
+2.	He S, Bulloch G, Zhang L, Meng W, Shi D, He M. Comparing Common Retinal Vessel Caliber Measurement Software with an Automatic Deep Learning System. Curr Eye Res. 2023;48:843-849. doi: 10.1080/02713683.2023.2212881
+3.	Fu Y, Yusufu M, Wang Y, He M, Shi D, Wang R. Association of retinal microvascular density and complexity with incident coronary heart disease. Atherosclerosis. 2023;380:117196. doi: 10.1016/j.atherosclerosis.2023.117196
+4.	Huang Y, Li C, Shi D, Wang H, Shang X, Wang W, Zhang X, Zhang X, Hu Y, Tang S, et al. Integrating oculomics with genomics reveals imaging biomarkers for preventive and personalized prediction of arterial aneurysms. EPMA J. 2023;14:73-86. doi: 10.1007/s13167-023-00315-7
+5.	Zhang W, Tian Z, Song F, Xu P, Shi D, He M. Enhancing stability in cardiovascular disease risk prediction: A deep learning approach leveraging retinal images. Informatics in Medicine Unlocked. 2023;42:101366. doi: 10.1016/j.imu.2023.101366
+6.	Shi D, He S, Yang J, Zheng Y, He M. One-shot Retinal Artery and Vein Segmentation via Cross-modality Pretraining. Ophthalmol Sci. 2024;4:100363. doi: 10.1016/j.xops.2023.100363
+7.	Yusufu M, Chen Y, Dayimu A, Bulloch G, Jin S, Vingrys AJ, Zhang L, Shang X, Shi D, He M. Retinal Vascular Measurements and Mortality Risk: Evidence From the UK Biobank Study. Transl Vis Sci Technol. 2024;13:2-2. doi: 10.1167/tvst.13.1.2
+8.	Shi D, Zhou Y, He S, Wagner SK, Huang Y, Keane PA, Ting DSW, Zhang L, Zheng Y, He M. Cross-modality Labeling Enables Noninvasive Capillary Quantification as a Sensitive Biomarker for Assessing Cardiovascular Risk. Ophthalmol Sci. 2024;4:100441. doi: 10.1016/j.xops.2023.100441
+9.	Jiang Y, Chen Q, Shi D, Miao S, Liu Y, Wang J, Liu L, Chen Y, Wang R. Association of retinal microvascular curve tortuosity and multiple sclerosis: A cross-section analysis from the UK Biobank. Multiple Sclerosis and Related Disorders. 2024;88:105753. doi: https://doi.org/10.1016/j.msard.2024.105753
+10.	Huang Y, Plotnikov D, Wang H, Shi D, Li C, Zhang X, Zhang X, Tang S, Shang X, Hu Y, et al. GWAS-by-subtraction reveals an IOP-independent component of primary open angle glaucoma. Nat Commun. 2024;15:8962. doi: 10.1038/s41467-024-53331-0
+11.	Chen Q, Miao S, Jiang Y, Shi D, You W, Liu L, Yusufu M, Chen Y, Wang R. Associations of Retinal Microvascular Density and Fractal Dimension with Glaucoma: A Prospective Study from UK Biobank. Ophthalmology Science. 2025;5. doi: 10.1016/j.xops.2024.100661
+12.	Yusufu M, Friedman DS, Kang M, Padhye A, Shang X, Zhang L, Shi D, He M. Retinal vascular fingerprints predict incident stroke: findings from the UK Biobank cohort study. Heart. 2025:heartjnl-2024-324705. doi: 10.1136/heartjnl-2024-324705
+13.	Li C, Huang Y, Chen J, Hua G, Yang F, Cai D, Kuang Y, He X, Wang Y, Jiang J, et al. Retinal oculomics and risk of incident aortic aneurysm and aortic adverse events: a population-based cohort study. Int J Surg. 2025. doi: 10.1097/js9.0000000000002236
+14.	Yusufu M, Vingrys AJ, Shang X, Zhang L, Shi D, Congdon N, He M. Population-based Normative Reference for Retinal Microvascular Atlas. Ophthalmology Science. 2025:100723. doi: https://doi.org/10.1016/j.xops.2025.100723
+15.	Zeng X, Chen R, Zhang X, Su T, Wang Y, Hu Y, Shang X, Shi D, Yu H. Associations between a healthy lifestyle score and retinal neurovascular health. British Journal of Ophthalmology. 2025:bjo-2024-326184. doi: 10.1136/bjo-2024-326184
+16.	Wu Y, Shen L, Zhao L, Lin X, Xu M, Tu Z, Huang Y, Kong L, Lin Z, Lin D, et al. Noninvasive early prediction of preeclampsia in pregnancy using retinal vascular features. npj Digital Medicine. 2025;8:188. doi: 10.1038/s41746-025-01582-6
+17.	Niu Y, Li X, Guo J, Luo S, Shang X, Liu J, Liu S, He M, Shi D, Huang Y, et al. Comprehensive genome-wide analysis of retinal vessel caliber reveals microvascular-blood pressure pathways: advancing predictive, preventive, and personalized medicine. EPMA Journal. 2025. doi: 10.1007/s13167-025-00411-w
+18.	Yusufu M, Weinreb RN, Kang M, Vingrys AJ, Shang X, Zhang L, Shi D, He M. Structural and causal links between retinal vascular geometry and neural layer thickness. Microvascular Research. 2025;161:104834. doi: https://doi.org/10.1016/j.mvr.2025.104834
+19.	Alatrany AS, Lakhani K, Cowley AC, Yeo JL, Dattani A, Ayton SL, Deshpande A, Graham-Brown MPM, Davies MJ, Khunti K, et al. The retina as a window into detecting subclinical cardiovascular disease in type 2 diabetes. Scientific Reports. 2025;15:27968. doi: 10.1038/s41598-025-13468-4
+20.	Wang J, Han S, Mou D, Tang X, Shi D, He M, Guo C, Wang N, Zhang Y. Retinal Vascular Fingerprints as Novel Biomarkers for Primary Angle Closure Disease Progression. Ophthalmology Science. 2025;5. doi: 10.1016/j.xops.2025.100848
+21.	Wang B, Shi D, Zhang Z, Zhang L, Sun Y, Liu J, Yan X, Jing J, Li J, Song J, et al. Effect of Intensive Blood Pressure Lowering Treatment on Retinal Microvasculature. JACC. 2025;86:1377-1388. doi: 10.1016/j.jacc.2025.05.020
+
+
+
 
 
