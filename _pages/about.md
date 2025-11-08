@@ -31,7 +31,7 @@ I am a Research Assistant Professor at the Academy for Artificial Intelligence a
 
   <li><strong>Oct 2025</strong>: One paper published on JACC (IF=22.3): <a href="https://www.jacc.org/doi/10.1016/j.jacc.2025.05.020">Effect of Intensive BP Lowering Treatment on Retinal Microvasculature: Secondary Analysis From ESPRIT</a>.</li>
 
-  <li><strong>Oct 2025</strong>: Retinomics: A Window to Multidisease Prediction Using Retinal Biomarkers from Routine Eye Imaging [<a href="https://github.com/Danli-vision/retinomics/tree/main" style="text-decoration: none;">code</a>].</li>
+  <li><strong>Oct 2025</strong>: Retinomics: A Window to Multidisease Prediction was accepted by BMC Medicine [<a href="https://github.com/Danli-vision/retinomics/tree/main" style="text-decoration: none;">code</a>].</li>
 
   <li><strong>July 2025</strong>: One General Research Fund (GRF) has been granted by Research Grants Council of Hong Kong (HK$106W).</li>
 
