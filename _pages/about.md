@@ -20,7 +20,7 @@ I am a Research Assistant Professor at the Academy for Artificial Intelligence a
   - **Choroidal vessel:** [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
 - **Autonomous clinic**
 
-I am looking for self-motivated PhD/RA/Interns with a background in CS/BME/Robotics/Medicine. Feel free to drop me an email with your CV. More information about the scholarship for your postgraduate study in PolyU: https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/
+I am looking for self-motivated PhD/RA/Interns with a background in CS/BME/Robotics/Medicine. Feel free to drop me an email with your CV. More information about the scholarship for your postgraduate study in PolyU: [fellowship-scholarship-schemes](https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/)
 
 # 🔥 News
 <div style="max-height: 350px; overflow-y: auto; padding-right: 10px;">
