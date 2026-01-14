@@ -20,15 +20,11 @@ I am a Research Assistant Professor at the Academy for Artificial Intelligence a
   - **Choroidal vessel:** [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
 - **Autonomous clinic**
 
-I am looking for self-motivated PhD applicants with a background in CS/AI/BME/Medicine. Feel free to drop me an email.
+I am looking for self-motivated PhD/RA/Interns with a background in CS/BME/Robotics/Medicine. Feel free to drop me an email with your CV.
 
 # 🔥 News
 <div style="max-height: 350px; overflow-y: auto; padding-right: 10px;">
-
 <ul>
-  <li><strong>Pin on the Top</strong>: 
-  - I am looking for self-motivated PhD applicants with a background in AI/CS/Medicine. Feel free to drop me an email.</li>
-
   <li><strong>Jan 2026</strong>: One paper published on MedIA: <a href="https://doi.org/10.1016/j.media.2026.103942">Predicting DME Treatment Responses (APTOS2021 challenge)</a> [<a href="https://asiateleophth.org/credential-application/" style="text-decoration: none;">dataset</a>]. Congrats to Weiyi.</li>
 
   <li><strong>Nov 2025</strong>: One paper published on BMC Medicine: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/">Retinomics: A Window to Multidisease Prediction</a> [<a href="https://github.com/Danli-vision/retinomics/tree/main" style="text-decoration: none;">code</a>]. Congrats to Mayi.</li>
