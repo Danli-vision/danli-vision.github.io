@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Research Assistant Professor at the Academy for Artificial Intelligence and the School of Optometry at The Hong Kong Polytechnic University. I completed my PhD at Zhongshan Ophthalmic Center, Sun Yat-sen University, supervised by [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en). Before that, I obtained both MS and BS degrees from Shanghai Jiao Tong University and completed my ophthalmology residency at Renji Hospital, affiliated with Shanghai Jiao Tong University School of Medicine.
 
-**My research interests include:**
+**Research Interest:**
 - **Generative AI:** [CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331),[CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7),[FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z),[EyeGPT](https://www.jmir.org/2024/1/e60063/),[EyeFound](https://arxiv.org/abs/2405.11338),[EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2)
 - **AI agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002),[VQA](https://doi.org/10.1136/bjo-2024-326097),[ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2),[EyeAgent](https://arxiv.org/abs/2511.09394)
 - **Ocular digital biomarkers:**
@@ -20,9 +20,9 @@ I am a Research Assistant Professor at the Academy for Artificial Intelligence a
   - **Choroidal vessel:** [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
 - **Autonomous clinic**
 
-I am looking for self-motivated PhD/RA/Interns with a background in CS/BME/Robotics/Medicine. Feel free to drop me an email with your CV.
-
 # 🔥 News
+I am looking for self-motivated PhD/RA/Interns with a background in CS/BME/Robotics/Medicine. Feel free to drop me an email with your CV. More information about the scholarship for your postgraduate study in PolyU: https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/
+
 <div style="max-height: 350px; overflow-y: auto; padding-right: 10px;">
 <ul>
   <li><strong>Jan 2026</strong>: One paper published on MedIA: <a href="https://doi.org/10.1016/j.media.2026.103942">Predicting DME Treatment Responses (APTOS2021 challenge)</a> [<a href="https://asiateleophth.org/credential-application/" style="text-decoration: none;">dataset</a>]. Congrats to Weiyi.</li>
