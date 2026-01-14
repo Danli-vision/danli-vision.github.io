@@ -14,7 +14,7 @@ I am a Research Assistant Professor at the Academy for Artificial Intelligence a
 
 **My research interests include:**
 - **Generative AI:** [CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331),[CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7),[FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z),[EyeGPT](https://www.jmir.org/2024/1/e60063/),[EyeFound](https://arxiv.org/abs/2405.11338),[EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2)
-- **AI agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002),[Ophthalmology](https://doi.org/10.1136/bjo-2024-326097),[ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2)
+- **AI agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002),[VQA](https://doi.org/10.1136/bjo-2024-326097),[ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2),[EyeAgent](https://arxiv.org/abs/2511.09394)
 - **Ocular digital biomarkers:**
   - **Retinal vessel:** <a href="#rmhas" style="text-decoration: none;">RMHAS series</a>
   - **Choroidal vessel:** [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
@@ -29,7 +29,7 @@ I am looking for self-motivated PhD/RA/Interns with a background in CS/BME/Robot
 
   <li><strong>Nov 2025</strong>: One paper published on BMC Medicine: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/">Retinomics: A Window to Multidisease Prediction</a> [<a href="https://github.com/Danli-vision/retinomics/tree/main" style="text-decoration: none;">code</a>]. Congrats to Mayi.</li>
 
-  <li><strong>Oct 2025</strong>: One paper published on JACC (IF=22.3): <a href="https://www.jacc.org/doi/10.1016/j.jacc.2025.05.020">Effect of Intensive BP Lowering Treatment on Retinal Microvasculature: Secondary Analysis From ESPRIT</a>.</li>
+  <li><strong>Oct 2025</strong>: One paper published on JACC (IF=22.3): <a href="https://www.jacc.org/doi/10.1016/j.jacc.2025.05.020">Effect of Intensive BP Lowering Treatment on Retinal Microvasculature</a>.</li>
 
   <li><strong>July 2025</strong>: One General Research Fund (GRF) has been granted by Research Grants Council of Hong Kong (HK$106W).</li>
 
