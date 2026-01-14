@@ -20,7 +20,7 @@ I am a Research Assistant Professor at the Academy for Artificial Intelligence a
   - **Choroidal vessel:** [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
 - **Autonomous clinic**
 
-
+I am looking for self-motivated PhD applicants with a background in CS/AI/BME/Medicine. Feel free to drop me an email.
 
 # 🔥 News
 <div style="max-height: 350px; overflow-y: auto; padding-right: 10px;">
@@ -29,9 +29,11 @@ I am a Research Assistant Professor at the Academy for Artificial Intelligence a
   <li><strong>Pin on the Top</strong>: 
   - I am looking for self-motivated PhD applicants with a background in AI/CS/Medicine. Feel free to drop me an email.</li>
 
-  <li><strong>Oct 2025</strong>: One paper published on JACC (IF=22.3): <a href="https://www.jacc.org/doi/10.1016/j.jacc.2025.05.020">Effect of Intensive BP Lowering Treatment on Retinal Microvasculature: Secondary Analysis From ESPRIT</a>.</li>
+  <li><strong>Jan 2026</strong>: One paper published on MedIA: <a href="https://doi.org/10.1016/j.media.2026.103942">Predicting DME Treatment Responses (APTOS2021 challenge)</a> [<a href="https://asiateleophth.org/credential-application/" style="text-decoration: none;">dataset</a>]. Congrats to Weiyi.</li>
 
-  <li><strong>Oct 2025</strong>: Retinomics: A Window to Multidisease Prediction was accepted by BMC Medicine [<a href="https://github.com/Danli-vision/retinomics/tree/main" style="text-decoration: none;">code</a>].</li>
+  <li><strong>Nov 2025</strong>: One paper published on BMC Medicine: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/">Retinomics: A Window to Multidisease Prediction</a> [<a href="https://github.com/Danli-vision/retinomics/tree/main" style="text-decoration: none;">code</a>]. Congrats to Mayi.</li>
+
+  <li><strong>Oct 2025</strong>: One paper published on JACC (IF=22.3): <a href="https://www.jacc.org/doi/10.1016/j.jacc.2025.05.020">Effect of Intensive BP Lowering Treatment on Retinal Microvasculature: Secondary Analysis From ESPRIT</a>.</li>
 
   <li><strong>July 2025</strong>: One General Research Fund (GRF) has been granted by Research Grants Council of Hong Kong (HK$106W).</li>
 
