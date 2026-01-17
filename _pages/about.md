@@ -14,7 +14,7 @@ redirect_from:
 # 🚀 Vision AI Lab @ PolyU
 We are an interdisciplinary research group developing foundational AI systems for vision science and medicine, with a particular focus on ophthalmology as a testbed for multimodal, embodied, and agentic AI.
 
-We work at the intersection of **Computer Science**, **Biomedical Engineering**, **Robotics**, and **Clinical Science**, offering a unique environment where algorithms are not only published—but deployed, validated, and stress-tested in real clinical workflows.
+Our lab sits at the intersection of **Computer Science**, **Biomedical Engineering**, **Robotics**, and **Clinical Science**, offering a unique environment where algorithms are not only published—but deployed, validated, and stress-tested in real clinical workflows.
 
 I am a Research Assistant Professor at The Hong Kong Polytechnic University (PolyU). I obtained my PhD from Zhongshan Ophthalmic Center, Sun Yat-sen University, under the supervision of [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en). I previously received my BS and MS from Shanghai Jiao Tong University.
 
