@@ -16,16 +16,16 @@ We are an interdisciplinary research group developing foundational AI systems fo
 
 Our lab sits at the intersection of **Computer Science**, **Biomedical Engineering**, **Robotics**, and **Clinical Science**, offering a unique environment where algorithms are not only published—but deployed, validated, and stress-tested in real clinical workflows.
 
-I am a Research Assistant Professor at The Hong Kong Polytechnic University (PolyU). I obtained my PhD from Zhongshan Ophthalmic Center, Sun Yat-sen University, under the supervision of [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en). I previously received my BS and MS from Shanghai Jiao Tong University.
+I am a Research Assistant Professor at The Hong Kong Polytechnic University (PolyU). I obtained my PhD from Zhongshan Ophthalmic Center, under the supervision of [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en). I previously received my BS and MS from Shanghai Jiao Tong University.
 
-**What We Work On (Beyond Traditional Medical AI)**
+**What We Work On (Beyond Traditional Medical AI):**
 Unlike single-task medical AI systems, our research targets generalizable, interactive, and autonomous AI for vision-driven decision making.
 - **Generative AI:** [CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331),[CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7),[FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z),[EyeGPT](https://www.jmir.org/2024/1/e60063/),[EyeFound](https://arxiv.org/abs/2405.11338),[EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2)
-- **AI agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002),[VQA](https://doi.org/10.1136/bjo-2024-326097),[ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2),[EyeAgent](https://arxiv.org/abs/2511.09394)
+- **AI Agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002),[VQA](https://doi.org/10.1136/bjo-2024-326097),[ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2),[EyeAgent](https://arxiv.org/abs/2511.09394)
 - **Oculomics & Digital Biomarkers:**
   - **Retinal vessel:** <a href="#rmhas" style="text-decoration: none;">RMHAS series</a>
   - **Choroidal vessel:** [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
-- **Autonomous clinic**
+- **Autonomous Clinic**
 
 I am looking for self-motivated PhD/RA/Interns with a background in CS/BME/Robotics/Medicine. Feel free to drop me an email with your CV. More information about the scholarship for your postgraduate study in PolyU: [fellowship-scholarship-schemes](https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/)
 
