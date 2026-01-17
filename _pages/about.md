@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<span class='anchor' id='about-us'></span>
+<span class='anchor' id='about-me'></span>
 
 # 🚀 Vision AI Lab @ PolyU
 We are an interdisciplinary research group developing foundational AI systems for vision science and medicine, with a particular focus on ophthalmology as a testbed for multimodal, embodied, and agentic AI.
