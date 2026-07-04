@@ -1,24 +1,27 @@
 main:
   - title: "Home"
-    url: "/#home"
+    url: "#home"
+
+  - title: "About"
+    url: "#about"
 
   - title: "Research"
-    url: "/#research"
+    url: "#research"
 
   - title: "News"
-    url: "/#news"
+    url: "#news"
 
-  - title: "Papers"
-    url: "/#publications"
+  - title: "Publications"
+    url: "#publications"
 
-  - title: "Members"
-    url: "/#members"
+  - title: "Team"
+    url: "#team"
 
   - title: "Openings"
-    url: "/#openings"
+    url: "#join"
 
-  - title: "Activities"
-    url: "/#activities"
+  - title: "Service"
+    url: "#service"
 
   - title: "Contact"
-    url: "/#contact"
+    url: "#contact"
