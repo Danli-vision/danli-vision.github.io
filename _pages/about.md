@@ -50,7 +50,9 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 <div class="lab-callout" id="openings">
   <strong>We are recruiting.</strong>
   <p>I am actively recruiting self-motivated PhD students, research assistants, interns, visiting students, and undergraduate researchers. Strong applicants may come from computer science, biomedical engineering, AI, ophthalmology, optometry, medicine, or related fields.</p>
+</div>
 
+<div class="recruiting-requirements">
   <h3>Academic Excellence</h3>
   <ul>
     <li><strong>Institutional background:</strong> Bachelor's degree from a Top 300 globally ranked university, such as QS, THE, or ARWU rankings.</li>

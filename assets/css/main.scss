@@ -114,6 +114,35 @@
     padding: 1rem 1.2rem;
 }
 
+.recruiting-requirements {
+    background: #ffffff;
+    border: 1px solid #e1e8f0;
+    border-radius: 8px;
+    margin: 1rem 0 1.5rem;
+    padding: .9rem 1.1rem;
+
+    h3 {
+        color: #18334f;
+        font-size: .95em;
+        margin: .95rem 0 .45rem;
+
+        &:first-child {
+            margin-top: 0;
+        }
+    }
+
+    ul,
+    ol {
+        font-size: .93em;
+        margin-bottom: .8rem;
+    }
+
+    p {
+        font-size: .93em;
+        margin: .75rem 0;
+    }
+}
+
 .site-credit {
     border-top: 1px solid #dfe8f1;
     color: #526173;
