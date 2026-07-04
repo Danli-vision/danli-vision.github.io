@@ -17,8 +17,5 @@ main:
   - title: "Service"
     url: "/#service"
 
-  - title: "RMHAS"
-    url: "/#rmhas"
-
   - title: "Contact"
     url: "/#contact"
