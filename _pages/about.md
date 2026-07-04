@@ -20,7 +20,7 @@ redirect_from:
           We build foundation models, multimodal agents, and autonomous clinical AI systems for vision science and medicine, with ophthalmology as our core testbed.
         </p>
         <div class="cta-row">
-          <a class="button" href="#join">Open Positions</a>
+          <a class="button" href="#join" target="_self">Open Positions</a>
           <a class="button-secondary" href="https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
           <a class="button-secondary" href="https://orcid.org/0000-0001-6094-137X">ORCID</a>
         </div>
@@ -130,91 +130,100 @@ redirect_from:
     <div class="section-head">
       <div>
         <div class="section-kicker">News</div>
-        <h2>Selected recent highlights</h2>
+        <h2>Recent News</h2>
       </div>
     </div>
-    <div class="timeline">
-      <article class="timeline-item">
-        <div class="timeline-date">Jun 2026</div>
-        <div><div class="timeline-title">New 2026 works are listed on Google Scholar.</div><p>Recent updates include <em>Evo-RAD</em>, <em>PhysAssistBench</em>, and multiple ophthalmic foundation model papers.</p></div>
-      </article>
-      <article class="timeline-item">
-        <div class="timeline-date">2026</div>
-        <div><div class="timeline-title">Three npj Digital Medicine papers published.</div><p>Work includes retinal generative foundation models, reasoning-capable medical vision-language models, and rare eye disease diagnosis.</p></div>
-      </article>
-      <article class="timeline-item">
-        <div class="timeline-date">Jan 2026</div>
-        <div><div class="timeline-title">DME treatment-response paper published in Medical Image Analysis.</div><p><a href="https://doi.org/10.1016/j.media.2026.103942">Predicting DME treatment responses</a>. Congrats to Weiyi.</p></div>
-      </article>
-      <article class="timeline-item">
-        <div class="timeline-date">Nov 2025</div>
-        <div><div class="timeline-title">Retinomics paper published in BMC Medicine.</div><p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/">Retinomics: A Window to Multidisease Prediction</a>, with <a href="https://github.com/Danli-vision/retinomics/tree/main">code</a>. Congrats to Mayi.</p></div>
-      </article>
-      <article class="timeline-item">
-        <div class="timeline-date">Jul 2025</div>
-        <div><div class="timeline-title">General Research Fund awarded.</div><p>Supported by the Research Grants Council of Hong Kong.</p></div>
-      </article>
-      <article class="timeline-item">
-        <div class="timeline-date">Jun 2025</div>
-        <div><div class="timeline-title">EyeCLIP and embodied AI work published in npj Digital Medicine.</div><p><a href="https://www.nature.com/articles/s41746-025-01772-2">EyeCLIP</a> supports 11 ophthalmic modalities; <a href="https://www.nature.com/articles/s41746-025-01754-4">embodied AI in ophthalmology</a> advances clinical intelligence.</p></div>
-      </article>
-    </div>
-  </section>
-
-  <section class="section" id="publications">
-    <div class="section-head">
-      <div>
-        <div class="section-kicker">Publications</div>
-        <h2>Representative work</h2>
-      </div>
-      <p class="section-note">Full publication list: <a href="https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> and <a href="https://orcid.org/0000-0001-6094-137X">ORCID</a>.</p>
-    </div>
-    <div class="more-papers-grid">
-      <div class="paper-block">
-        <h3>Foundation and Generative Models</h3>
-        <ul class="paper-list">
-          <li class="paper-item"><span class="paper-title">Fundus to fluorescein angiography video generation as a retinal generative foundation model.</span><span class="paper-meta">npj Digital Medicine, 2026</span></li>
-          <li class="paper-item"><span class="paper-title">Boosting foundation models for rare eye disease diagnosis via a multimodal text-to-image generative framework.</span><span class="paper-meta">npj Digital Medicine, 2026</span></li>
-          <li class="paper-item"><span class="paper-title"><a href="https://www.nature.com/articles/s41746-025-01772-2">EyeCLIP: a visual-language foundation model for multi-modal ophthalmic image analysis.</a></span><span class="paper-meta">npj Digital Medicine, 2025</span></li>
-        </ul>
-      </div>
-      <div class="paper-block">
-        <h3>Agentic and Interactive Medical AI</h3>
-        <ul class="paper-list">
-          <li class="paper-item"><span class="paper-title"><a href="https://arxiv.org/abs/2606.22955">Evo-RAD: Navigating rare retinal disease diagnosis via self-evolving agentic retrieval.</a></span><span class="paper-meta">arXiv:2606.22955, 2026</span></li>
-          <li class="paper-item"><span class="paper-title"><a href="https://arxiv.org/abs/2606.18613">Are LLMs ready to assist physicians? PhysAssistBench for interactive doctor-patient-EHR assistance.</a></span><span class="paper-meta">arXiv:2606.18613, 2026</span></li>
-          <li class="paper-item"><span class="paper-title">OphAgent: A generalisable ophthalmic agentic system for global eye care.</span><span class="paper-meta">2026</span></li>
-        </ul>
-      </div>
-      <div class="paper-block">
-        <h3>Oculomics and Clinical Intelligence</h3>
-        <ul class="paper-list">
-          <li class="paper-item"><span class="paper-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/">Retinomics: A Window to Multidisease Prediction.</a></span><span class="paper-meta">BMC Medicine, 2025</span></li>
-          <li class="paper-item"><span class="paper-title"><a href="https://www.jacc.org/doi/10.1016/j.jacc.2025.05.020">Effect of intensive blood pressure lowering treatment on retinal microvasculature.</a></span><span class="paper-meta">JACC, 2025</span></li>
-          <li class="paper-item"><span class="paper-title"><a href="https://www.nature.com/articles/s41746-025-01754-4">Embodied AI in ophthalmology.</a></span><span class="paper-meta">npj Digital Medicine, 2025</span></li>
-        </ul>
-      </div>
+    <div class="news-container" aria-label="Scrollable news list">
+      <ul class="news-list">
+        <li class="news-item">
+          <span class="news-date">Jun 2026</span>
+          <span class="news-title">New 2026 works are listed on Google Scholar, including <a href="https://arxiv.org/abs/2606.22955"><em>Evo-RAD</em></a>, <a href="https://arxiv.org/abs/2606.18613"><em>PhysAssistBench</em></a>, and multiple ophthalmic foundation model papers.</span>
+        </li>
+        <li class="news-item">
+          <span class="news-date">2026</span>
+          <span class="news-title">Three papers were published in <em>npj Digital Medicine</em>: <em>Fundus to fluorescein angiography video generation as a retinal generative foundation model</em>, <em>Key concept learning for medical vision language model with reasoning capabilities</em>, and <em>Boosting foundation models for rare eye disease diagnosis via a multimodal text-to-image generative framework</em>.</span>
+        </li>
+        <li class="news-item">
+          <span class="news-date">Jan 2026</span>
+          <span class="news-title">One paper was published in <em>Medical Image Analysis</em>: <a href="https://doi.org/10.1016/j.media.2026.103942"><em>Predicting DME treatment responses</em></a>. Big congrats to Weiyi.</span>
+        </li>
+        <li class="news-item">
+          <span class="news-date">Nov 2025</span>
+          <span class="news-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/"><em>Retinomics: A Window to Multidisease Prediction</em></a> was published in <em>BMC Medicine</em>. <a href="https://github.com/Danli-vision/retinomics/tree/main">Code</a>. Big congrats to Mayi.</span>
+        </li>
+        <li class="news-item">
+          <span class="news-date">Oct 2025</span>
+          <span class="news-title"><a href="https://www.jacc.org/doi/10.1016/j.jacc.2025.05.020"><em>Effect of intensive blood pressure lowering treatment on retinal microvasculature</em></a> was published in <em>JACC</em>.</span>
+        </li>
+        <li class="news-item">
+          <span class="news-date">Jul 2025</span>
+          <span class="news-title">Awarded a General Research Fund grant from the Research Grants Council of Hong Kong.</span>
+        </li>
+        <li class="news-item">
+          <span class="news-date">Jun 2025</span>
+          <span class="news-title"><a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600"><em>FFA SORA</em></a> was published in <em>JAMA Ophthalmology</em>. Big congrats to Xinyuan and Lili.</span>
+        </li>
+        <li class="news-item">
+          <span class="news-date">Jun 2025</span>
+          <span class="news-title"><a href="https://www.nature.com/articles/s41746-025-01772-2"><em>EyeCLIP</em></a>, a multimodal vision-language foundation model supporting 11 modalities, was published in <em>npj Digital Medicine</em>. <a href="https://github.com/Michi-3000/EyeCLIP/tree/main">Code</a>.</span>
+        </li>
+        <li class="news-item">
+          <span class="news-date">Jun 2025</span>
+          <span class="news-title"><a href="https://www.nature.com/articles/s41746-025-01754-4"><em>Embodied AI in ophthalmology</em></a> was published in <em>npj Digital Medicine</em>. Big congrats to Yao, Xiaolan, and Xinyuan.</span>
+        </li>
+        <li class="news-item">
+          <span class="news-date">Mar 2025</span>
+          <span class="news-title"><a href="https://www.sciencedirect.com/science/article/pii/S2667102625000294"><em>Evaluating LLMs and agents in healthcare</em></a> was published in <em>Intelligent Medicine</em>. Big congrats to Xiaolan.</span>
+        </li>
+      </ul>
     </div>
   </section>
 
   <section class="section" id="team">
     <div class="section-head">
       <div>
-        <div class="section-kicker">Team</div>
-        <h2>Lab members</h2>
+        <div class="section-kicker">Group Members</div>
+        <h2>Group Members</h2>
       </div>
-      <p class="section-note">A growing group working across medical AI, ophthalmology, multimodal learning, and robotics.</p>
     </div>
-    <div class="team-grid">
-      <article class="member-card">
-        <div class="member-avatar-wrap"><img class="member-avatar" src="images/Generated Image.jpg" alt="Danli Shi"></div>
-        <div class="member-info"><span class="person-name">Danli Shi</span><div class="member-role">Principal Investigator</div><p class="member-note">Research Assistant Professor, The Hong Kong Polytechnic University</p></div>
-      </article>
-      <article class="member-card"><div class="member-avatar-wrap"></div><div class="member-info"><span class="person-name">Weiyi Zhang</span><div class="member-role">Co-supervisor</div></div></article>
-      <article class="member-card"><div class="member-avatar-wrap"></div><div class="member-info"><span class="person-name">Ruoyu Chen</span><div class="member-role">Co-supervisor</div></div></article>
-      <article class="member-card"><div class="member-avatar-wrap"></div><div class="member-info"><span class="person-name">Xiaolan Chen</span><div class="member-role">Co-supervisor</div></div></article>
-      <article class="member-card"><div class="member-avatar-wrap"></div><div class="member-info"><span class="person-name">Yue Wu</span><div class="member-role">Co-supervisor</div></div></article>
-      <article class="member-card"><div class="member-avatar-wrap"></div><div class="member-info"><span class="person-name">Xinyuan Wu</span><div class="member-role">Co-supervisor</div></div></article>
+    <div class="section-panel member-list-panel">
+      <h3>Ph.D. Students</h3>
+      <ul class="member-list">
+        <li><a href="https://openreview.net/profile?id=~Wenlong_Hou2">Wenlong Hou</a> [PRPgS] (2025.09-): Agentic AI</li>
+        <li><a href="https://openreview.net/profile?id=~Guoqi_Yu1">Guoqi Yu</a> [PRPgS] (2024.09-): Medical Time Series Analysis</li>
+        <li>Yue Xun [PRPgS] (2024.09-): Brain Disorder Analysis, Foundation Models</li>
+        <li>Nanxi Yu [PRPgS] (2024.05-): Continual Learning</li>
+        <li><a href="https://openreview.net/profile?id=~Ye_Du4">Ye Du</a> [PPPFS] (2024.01-): AI for MS-based Proteomics</li>
+        <li><a href="https://openreview.net/profile?id=~Juncheng_Wang2">Juncheng Wang</a> [PRPgS] (2024.01-): Diffusion Model, Generative AI</li>
+        <li>Guangqian Yang [PRPgS] (2023.09-): Multimodal Learning</li>
+      </ul>
+
+      <h3>Research assistants, summer interns, and student helpers</h3>
+      <ul class="member-list">
+        <li>Qingqiu Li, intern (2023.07-2024)</li>
+        <li>Wenlong Hou, research assistant (2025.02-2025.08)</li>
+        <li>Chen Yang, research assistant (2024.09-2025.07)</li>
+        <li>Kuan Feng, summer intern (2024.05-2024.09)</li>
+        <li>Nanxi Yu, research assistant (2024.03-2024.05) (Join our lab soon as a Ph.D.)</li>
+        <li>Guoqi Yu, intern (2023.07-2024)</li>
+        <li>Zhihan Yang, summer intern (2023)</li>
+        <li>Kangrui Du, summer intern (2023)</li>
+        <li>Lingrui Li, summer intern (2023)</li>
+      </ul>
+
+      <h3>Capstone</h3>
+      <ul class="member-list">
+        <li>Yibei Zhang, 2024-2025</li>
+        <li>Yeung LAU, 2024-2025</li>
+      </ul>
+
+      <h3>URIS</h3>
+      <ul class="member-list">
+        <li>Wangding Xia</li>
+        <li>Zhifei Wang</li>
+        <li>Xuyi Wei</li>
+        <li>Houhe Liu</li>
+      </ul>
     </div>
   </section>
 

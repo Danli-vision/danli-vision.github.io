@@ -14,10 +14,10 @@ layout: compress
 
     <header class="topbar">
       <div class="topbar-inner">
-        <a class="brand" href="#home">Vision Intelligence Lab</a>
+        <a class="brand" href="#home" target="_self">Vision Intelligence Lab</a>
         <nav class="nav" aria-label="Primary navigation">
           {% for link in site.data.navigation.main %}
-            <a href="{{ link.url }}">{{ link.title }}</a>
+            <a href="{{ link.url }}" target="_self">{{ link.title }}</a>
           {% endfor %}
         </nav>
       </div>

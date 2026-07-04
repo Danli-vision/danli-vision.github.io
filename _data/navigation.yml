@@ -11,10 +11,7 @@ main:
   - title: "News"
     url: "#news"
 
-  - title: "Publications"
-    url: "#publications"
-
-  - title: "Team"
+  - title: "Members"
     url: "#team"
 
   - title: "Openings"
