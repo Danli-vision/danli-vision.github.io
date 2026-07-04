@@ -129,7 +129,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
   <ul class="member-list">
     <li>Kunhong Xiao (2026.09-) </li>
     <li>Xinyu Hou (2026.09-) </li>
-    <li>Xuze Wang [PPPFS] (2026.09-) </li>
+    <li>Xuze Wang [Kuok Fellowship] (2026.09-) </li>
     <li>Ying Zhang (2026.09-) </li>
     <li>Zhongyu Chen (2026.09-): Robotics </li>
     <li><a href="https://www.bj-yan.top/">Bingjie Yan</a> (2025.09-): Agentic AI</li>
