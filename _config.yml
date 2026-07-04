@@ -15,7 +15,7 @@ author:
   email            : "danli.shi@polyu.edu.hk"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate"
   wechat           : "images/wechat.jpg"
-  researchgate     : "https://www.researchgate.net/profile/Danli-Shi"
+  # researchgate     : "https://www.researchgate.net/profile/Danli-Shi"
   linkedin         : # e.g., "linkedin username"
   orcid            : "https://orcid.org/0000-0001-6094-137X"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57218407370"

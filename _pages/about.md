@@ -150,7 +150,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
   <h3>URIS</h3>
   <ul class="member-list">
-    <li>Theresa Shukrani Mulindwa, DSAI</li>
+    <li>Theresa Shukrani Mulindwa, DSAI, 2026-2028 </li>
   </ul>
 
   <h3>Visiting student</h3>
