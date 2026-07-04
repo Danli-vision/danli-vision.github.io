@@ -177,8 +177,8 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
 ## Teaching
 
-- AI in Healthcare (SO1D02, CAR subject for undergraduates) — 2025 - present
-- Digital Health (SO5001, MSc in Vision Science and Innovation) — 2025 - present
+- AI in Healthcare (SO1D02, CAR subject for undergraduates) - 2025 - present
+- Digital Health (SO5001, MSc in Vision Science and Innovation) - 2025 - present
 
 ## Professional Activities
 
@@ -228,7 +228,8 @@ Research Assistant Professor, The Hong Kong Polytechnic University<br>
 Office: GH164<br>
 Email: [danli.shi@polyu.edu.hk](mailto:danli.shi@polyu.edu.hk)
 
+I am happy to discuss research collaborations, student supervision, invited talks, workshops, and interdisciplinary projects at the interface of AI and healthcare.
 <div class="site-credit">
-  © Danli Shi.<br>
+  &copy; Danli Shi.<br>
   Last updated: July 2026.
 </div>

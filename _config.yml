@@ -3,6 +3,8 @@
 # Site Settings
 title                    : "Danli Shi | Vision Intelligence Lab"
 description              : "Vision Intelligence Lab at The Hong Kong Polytechnic University"
+url                      : "https://danli-vision.github.io"
+baseurl                  : ""
 repository               : "Danli-vision/danli-vision.github.io"
 
 
@@ -11,7 +13,7 @@ author:
   name             : "Danli Shi"
   avatar           : "images/Generated Image.jpg"
   bio              : "Research Assistant Professor, The Hong Kong Polytechnic University"
-  Office           : "GH164"
+  office           : "GH164"
   email            : "danli.shi@polyu.edu.hk"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate"
   wechat           : "images/wechat.jpg"
@@ -28,31 +30,15 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
   - .github
-  - CHANGELOG
-  - Capfile
   - Gemfile
-  - Gruntfile.js
+  - Gemfile.lock
   - LICENSE
-  - README
-  - Rakefile
+  - README.md
+  - run_server.sh
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
