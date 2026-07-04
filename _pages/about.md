@@ -20,7 +20,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
 <div class="lab-callout" id="openings">
   <strong>We are recruiting.</strong>
-  <p>I am actively recruiting self-motivated PhD students, research assistants, interns, visiting students, and undergraduate researchers. Strong applicants may come from computer science, biomedical engineering, statistics, applied mathematics, or related fields.</p>
+  <p>I am actively recruiting self-motivated PhD students, research assistants, interns, visiting students, and undergraduate researchers. Strong applicants may come from computer science, biomedical engineering, AI, ophthalmology, optometry, medicine, or related fields.</p>
 
   <h3>Academic Excellence</h3>
   <ul>
@@ -82,7 +82,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 <div class="news-container" aria-label="Scrollable news list">
   <ul class="news-list">
     <li class="news-item">
-      <span class="news-date">Jan 2026</span>
+      <span class="news-date">May 2026</span>
       <span class="news-title">Three papers were published in <em>npj Digital Medicine</em>: <a href="https://www.nature.com/articles/s41746-026-02560-2"><em>EyeDiff</em></a>; <a href="https://www.nature.com/articles/s41746-026-02676-5"><em>ConceptVLM</em></a>; <a href="https://www.nature.com/articles/s41746-026-02804-1"><em>Fundus2videoFM</em></a>; Congrats to Weiyi, Ruoyu.</span>
     </li>
     <li class="news-item">
@@ -91,7 +91,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
     </li>
     <li class="news-item">
       <span class="news-date">Nov 2025</span>
-      <span class="news-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/"><em>Retinomics: A Window to Multidisease Prediction</em></a> was published in <em>BMC Medicine</em>. <a href="https://github.com/Danli-vision/retinomics/tree/main">Code</a>. Big congrats to Mayi.</span>
+      <span class="news-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/"><em>Retinomics & Multidisease</em></a> was published in <em>BMC Medicine</em>. <a href="https://github.com/Danli-vision/retinomics/tree/main">Code</a>. <a href="https://academic.oup.com/cardiovascres/article-abstract/122/5/637/8500123?redirectedFrom=fulltext"><em>Retinomics & Heart disease</em></a> was published in <em>Cardiovascular Research</em>.Big congrats to Mayi.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Oct 2025</span>
@@ -132,7 +132,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
     <li>Xuze Wang [PPPFS] (2026.09-) </li>
     <li>Ying Zhang (2026.09-) </li>
     <li>Zhongyu Chen (2026.09-), Robotics </li>
-    <li><a href="https://www.bj-yan.top/">Bingjie Yan</a>(2025.09-): Agentic AI</li>
+    <li><a href="https://www.bj-yan.top/">Bingjie Yan</a> (2025.09-): Agentic AI</li>
     <li>Ziyu Gao (2025.09-): Generative AI, World model</li>
     <li>Zhenhan Wang (2025.09-): ChatMyopia </li>
     <li>Zhuoran Liu (2025.05-): Digital biomarker</li>
