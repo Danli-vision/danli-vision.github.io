@@ -1,315 +1,202 @@
 ---
-layout: home
 permalink: /
 title: ""
 excerpt: ""
-author_profile: false
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<main class="site-shell">
-  <section class="section hero" id="home">
-    <div class="hero-grid">
-      <div class="hero-copy">
-        <div class="eyebrow">The Hong Kong Polytechnic University</div>
-        <h1>Danli Shi</h1>
-        <div class="subtitle">Vision Intelligence Lab</div>
-        <p class="lead">
-          We build foundation models, multimodal agents, and autonomous clinical AI systems for vision science and medicine, with ophthalmology as our core testbed.
-        </p>
-        <div class="cta-row">
-          <a class="button" href="#join" target="_self">Open Positions</a>
-          <a class="button-secondary" href="https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
-          <a class="button-secondary" href="https://orcid.org/0000-0001-6094-137X">ORCID</a>
-        </div>
-        <div class="label-row">
-          <span class="chip">Generative AI</span>
-          <span class="chip">Medical AI Agents</span>
-          <span class="chip">Oculomics</span>
-          <span class="chip">Autonomous Clinic</span>
-        </div>
-      </div>
-      <aside class="hero-panel" aria-label="Profile summary">
-        <div class="mini-card">
-          <h3>Position</h3>
-          <p>Research Assistant Professor, The Hong Kong Polytechnic University</p>
-        </div>
-        <div class="mini-card">
-          <h3>Research Home</h3>
-          <p>Clinically grounded AI for ophthalmology, systemic health prediction, and deployable clinical intelligence.</p>
-        </div>
-        <div class="mini-card">
-          <h3>Contact</h3>
-          <p><a href="mailto:danli.shi@polyu.edu.hk">danli.shi@polyu.edu.hk</a><br>Office: GH164</p>
-        </div>
-      </aside>
-    </div>
-  </section>
+<span class="anchor" id="home"></span>
 
-  <section class="section" id="about">
-    <div class="section-head">
-      <div>
-        <div class="section-kicker">Biography</div>
-        <h2>Clinical AI for vision science and medicine</h2>
-      </div>
-      <p class="section-note">Research across computer science, biomedical engineering, robotics, and clinical science.</p>
-    </div>
-    <div class="about-grid">
-      <div class="section-panel">
-        <p>
-          I am a Research Assistant Professor at The Hong Kong Polytechnic University. I received my PhD from Zhongshan Ophthalmic Center under the supervision of <a href="https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en">Prof. Mingguang He</a>, and my BS and MS from Shanghai Jiao Tong University.
-        </p>
-        <p>
-          My group develops clinically grounded AI systems that can be validated in real workflows, not only benchmarked in isolation. We focus on foundation models, multimodal reasoning, oculomics, and autonomous clinical intelligence.
-        </p>
-      </div>
-      <div class="section-panel">
-        <h3>Research Links</h3>
-        <ul class="link-list">
-          <li><a href="https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></li>
-          <li><a href="https://orcid.org/0000-0001-6094-137X">ORCID</a></li>
-          <li><a href="https://www.researchgate.net/profile/Danli-Shi">ResearchGate</a></li>
-          <li><a href="https://www.scopus.com/authid/detail.uri?authorId=57218407370">Scopus</a></li>
-        </ul>
-      </div>
-    </div>
-  </section>
+# Vision Intelligence Lab
 
-  <section class="section" id="research">
-    <div class="section-head">
-      <div>
-        <div class="section-kicker">Research</div>
-        <h2>Four directions</h2>
-      </div>
-      <p class="section-note">The lab builds AI systems for ophthalmic imaging, multimodal reasoning, systemic risk prediction, and clinical deployment.</p>
-    </div>
-    <div class="four-col">
-      <article class="card">
-        <h3>Generative AI for Ophthalmology</h3>
-        <p>Retinal image, fluorescein angiography, indocyanine green angiography, and multimodal generation.</p>
-        <div class="label-row">
-          <span class="chip">CF2FFA</span>
-          <span class="chip">CF2ICGA</span>
-          <span class="chip">EyeFound</span>
-          <span class="chip">EyeCLIP</span>
-        </div>
-      </article>
-      <article class="card">
-        <h3>Medical AI Agents</h3>
-        <p>Interactive systems for reasoning, diagnosis, VQA, retrieval, doctor-patient-EHR assistance, and clinical decision support.</p>
-        <div class="label-row">
-          <span class="chip">EyeAgent</span>
-          <span class="chip">Evo-RAD</span>
-          <span class="chip">PhysAssistBench</span>
-        </div>
-      </article>
-      <article class="card">
-        <h3>Oculomics and Digital Biomarkers</h3>
-        <p>Retinal and choroidal biomarkers for systemic disease prediction, population health, and preventive medicine.</p>
-        <div class="label-row">
-          <span class="chip">RMHAS</span>
-          <span class="chip">Retinomics</span>
-          <span class="chip">ICGA fingerprints</span>
-        </div>
-      </article>
-      <article class="card">
-        <h3>Autonomous Clinical Intelligence</h3>
-        <p>Human-robot collaboration, embodied AI, and deployable clinical intelligence for future autonomous clinics.</p>
-        <div class="label-row">
-          <span class="chip">Robotics</span>
-          <span class="chip">Embodied AI</span>
-          <span class="chip">Clinical care</span>
-        </div>
-      </article>
-    </div>
-  </section>
+<p class="lab-tagline">The Hong Kong Polytechnic University</p>
 
-  <section class="section" id="news">
-    <div class="section-head">
-      <div>
-        <div class="section-kicker">News</div>
-        <h2>Recent News</h2>
-      </div>
-    </div>
-    <div class="news-container" aria-label="Scrollable news list">
-      <ul class="news-list">
-        <li class="news-item">
-          <span class="news-date">Jun 2026</span>
-          <span class="news-title">New 2026 works are listed on Google Scholar, including <a href="https://arxiv.org/abs/2606.22955"><em>Evo-RAD</em></a>, <a href="https://arxiv.org/abs/2606.18613"><em>PhysAssistBench</em></a>, and multiple ophthalmic foundation model papers.</span>
-        </li>
-        <li class="news-item">
-          <span class="news-date">2026</span>
-          <span class="news-title">Three papers were published in <em>npj Digital Medicine</em>: <em>Fundus to fluorescein angiography video generation as a retinal generative foundation model</em>, <em>Key concept learning for medical vision language model with reasoning capabilities</em>, and <em>Boosting foundation models for rare eye disease diagnosis via a multimodal text-to-image generative framework</em>.</span>
-        </li>
-        <li class="news-item">
-          <span class="news-date">Jan 2026</span>
-          <span class="news-title">One paper was published in <em>Medical Image Analysis</em>: <a href="https://doi.org/10.1016/j.media.2026.103942"><em>Predicting DME treatment responses</em></a>. Big congrats to Weiyi.</span>
-        </li>
-        <li class="news-item">
-          <span class="news-date">Nov 2025</span>
-          <span class="news-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/"><em>Retinomics: A Window to Multidisease Prediction</em></a> was published in <em>BMC Medicine</em>. <a href="https://github.com/Danli-vision/retinomics/tree/main">Code</a>. Big congrats to Mayi.</span>
-        </li>
-        <li class="news-item">
-          <span class="news-date">Oct 2025</span>
-          <span class="news-title"><a href="https://www.jacc.org/doi/10.1016/j.jacc.2025.05.020"><em>Effect of intensive blood pressure lowering treatment on retinal microvasculature</em></a> was published in <em>JACC</em>.</span>
-        </li>
-        <li class="news-item">
-          <span class="news-date">Jul 2025</span>
-          <span class="news-title">Awarded a General Research Fund grant from the Research Grants Council of Hong Kong.</span>
-        </li>
-        <li class="news-item">
-          <span class="news-date">Jun 2025</span>
-          <span class="news-title"><a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600"><em>FFA SORA</em></a> was published in <em>JAMA Ophthalmology</em>. Big congrats to Xinyuan and Lili.</span>
-        </li>
-        <li class="news-item">
-          <span class="news-date">Jun 2025</span>
-          <span class="news-title"><a href="https://www.nature.com/articles/s41746-025-01772-2"><em>EyeCLIP</em></a>, a multimodal vision-language foundation model supporting 11 modalities, was published in <em>npj Digital Medicine</em>. <a href="https://github.com/Michi-3000/EyeCLIP/tree/main">Code</a>.</span>
-        </li>
-        <li class="news-item">
-          <span class="news-date">Jun 2025</span>
-          <span class="news-title"><a href="https://www.nature.com/articles/s41746-025-01754-4"><em>Embodied AI in ophthalmology</em></a> was published in <em>npj Digital Medicine</em>. Big congrats to Yao, Xiaolan, and Xinyuan.</span>
-        </li>
-        <li class="news-item">
-          <span class="news-date">Mar 2025</span>
-          <span class="news-title"><a href="https://www.sciencedirect.com/science/article/pii/S2667102625000294"><em>Evaluating LLMs and agents in healthcare</em></a> was published in <em>Intelligent Medicine</em>. Big congrats to Xiaolan.</span>
-        </li>
-      </ul>
-    </div>
-  </section>
+We build foundation models, multimodal agents, and autonomous clinical AI systems for vision science and medicine, with ophthalmology as our core testbed.
 
-  <section class="section" id="team">
-    <div class="section-head">
-      <div>
-        <div class="section-kicker">Group Members</div>
-        <h2>Group Members</h2>
-      </div>
-    </div>
-    <div class="section-panel member-list-panel">
-      <h3>Ph.D. Students</h3>
-      <ul class="member-list">
-        <li><a href="https://openreview.net/profile?id=~Wenlong_Hou2">Wenlong Hou</a> [PRPgS] (2025.09-): Agentic AI</li>
-        <li><a href="https://openreview.net/profile?id=~Guoqi_Yu1">Guoqi Yu</a> [PRPgS] (2024.09-): Medical Time Series Analysis</li>
-        <li>Yue Xun [PRPgS] (2024.09-): Brain Disorder Analysis, Foundation Models</li>
-        <li>Nanxi Yu [PRPgS] (2024.05-): Continual Learning</li>
-        <li><a href="https://openreview.net/profile?id=~Ye_Du4">Ye Du</a> [PPPFS] (2024.01-): AI for MS-based Proteomics</li>
-        <li><a href="https://openreview.net/profile?id=~Juncheng_Wang2">Juncheng Wang</a> [PRPgS] (2024.01-): Diffusion Model, Generative AI</li>
-        <li>Guangqian Yang [PRPgS] (2023.09-): Multimodal Learning</li>
-      </ul>
+I am a Research Assistant Professor at The Hong Kong Polytechnic University. I received my PhD from Zhongshan Ophthalmic Center under the supervision of [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en), and my BS and MS from Shanghai Jiao Tong University.
 
-      <h3>Research assistants, summer interns, and student helpers</h3>
-      <ul class="member-list">
-        <li>Qingqiu Li, intern (2023.07-2024)</li>
-        <li>Wenlong Hou, research assistant (2025.02-2025.08)</li>
-        <li>Chen Yang, research assistant (2024.09-2025.07)</li>
-        <li>Kuan Feng, summer intern (2024.05-2024.09)</li>
-        <li>Nanxi Yu, research assistant (2024.03-2024.05) (Join our lab soon as a Ph.D.)</li>
-        <li>Guoqi Yu, intern (2023.07-2024)</li>
-        <li>Zhihan Yang, summer intern (2023)</li>
-        <li>Kangrui Du, summer intern (2023)</li>
-        <li>Lingrui Li, summer intern (2023)</li>
-      </ul>
+<div class="lab-callout" id="openings">
+  <strong>We are recruiting.</strong>
+  Self-motivated PhD students, research assistants, interns, visiting students, and undergraduate researchers with backgrounds in CS, BME, robotics, medicine, statistics, or applied mathematics are welcome to email Danli Shi with a CV, transcript, and research interests. PolyU postgraduate scholarship information is available <a href="https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/">here</a>.
+</div>
 
-      <h3>Capstone</h3>
-      <ul class="member-list">
-        <li>Yibei Zhang, 2024-2025</li>
-        <li>Yeung LAU, 2024-2025</li>
-      </ul>
+<span class="anchor" id="research"></span>
 
-      <h3>URIS</h3>
-      <ul class="member-list">
-        <li>Wangding Xia</li>
-        <li>Zhifei Wang</li>
-        <li>Xuyi Wei</li>
-        <li>Houhe Liu</li>
-      </ul>
-    </div>
-  </section>
+# Research Direction
 
-  <section class="section" id="join">
-    <div class="section-head">
-      <div>
-        <div class="section-kicker">Openings</div>
-        <h2>Join the lab</h2>
-      </div>
-    </div>
-    <div class="contact-grid">
-      <div class="join-box">
-        <p>
-          We are recruiting self-motivated PhD students, research assistants, interns, visiting students, and undergraduate researchers. Applicants with backgrounds in computer science, biomedical engineering, robotics, medicine, statistics, or applied mathematics are welcome.
-        </p>
-        <p>
-          Strong applicants should email Danli Shi with a CV, transcript, and a short statement describing their research interests and fit with the lab.
-        </p>
-      </div>
-      <div class="join-box">
-        <strong>Suggested application materials</strong>
-        <div class="application-steps">
-          <div class="step"><strong>1. Email subject</strong><br>Prospective PhD / RA / Intern + your name + area of interest.</div>
-          <div class="step"><strong>2. Attachments</strong><br>CV, transcript, GPA or ranking information, and representative research work if available.</div>
-          <div class="step"><strong>3. Optional but helpful</strong><br>Thesis, code repository, project page, awards, competition results, or publication links.</div>
-          <div class="step"><strong>4. Funding</strong><br>PolyU Graduate School fellowship and scholarship schemes are available <a href="https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/">here</a>.</div>
-        </div>
-      </div>
-    </div>
-  </section>
+<div class="research-grid">
+  <a class="research-card" href="#news">
+    <span>Generative AI for Ophthalmology</span>
+    <small>Retinal image, fluorescein angiography, indocyanine green angiography, and multimodal generation.</small>
+  </a>
+  <a class="research-card" href="#news">
+    <span>Medical AI Agents</span>
+    <small>Interactive systems for reasoning, diagnosis, VQA, retrieval, doctor-patient-EHR assistance, and clinical decision support.</small>
+  </a>
+  <a class="research-card" href="#rmhas">
+    <span>Oculomics and Digital Biomarkers</span>
+    <small>Retinal and choroidal biomarkers for systemic disease prediction, population health, and preventive medicine.</small>
+  </a>
+  <a class="research-card" href="#service">
+    <span>Autonomous Clinical Intelligence</span>
+    <small>Human-robot collaboration, embodied AI, and deployable clinical intelligence for future autonomous clinics.</small>
+  </a>
+</div>
 
-  <section class="section" id="service">
-    <div class="section-head">
-      <div>
-        <div class="section-kicker">Service</div>
-        <h2>Teaching and professional activities</h2>
-      </div>
-    </div>
-    <div class="two-col">
-      <div class="section-panel">
-        <h3>Teaching</h3>
-        <ul class="course-list">
-          <li class="course-item"><span class="course-title">Research supervision</span><span class="course-meta">Medical AI, ophthalmic foundation models, oculomics, and autonomous clinical intelligence.</span></li>
-          <li class="course-item"><span class="course-title">Research training</span><span class="course-meta">PhD students, research assistants, interns, visiting students, and undergraduate researchers.</span></li>
-        </ul>
-      </div>
-      <div class="section-panel">
-        <h3>Professional Activities</h3>
-        <ul class="service-list">
-          <li class="service-item"><span class="service-role">Conference co-organizer</span><span class="service-meta">Asia-Pacific Tele-Ophthalmology Society</span></li>
-          <li class="service-item"><span class="service-role">Guest editor</span><span class="service-meta">BMJ Open Ophthalmology</span></li>
-          <li class="service-item"><span class="service-role">Awards Officer</span><span class="service-meta">Women in MICCAI</span></li>
-          <li class="service-item"><span class="service-role">Reviewer</span><span class="service-meta">npj Digital Medicine, Nature Computational Science, Nature Communications, BJO, Ophthalmology Science, JMIR, and MICCAI</span></li>
-        </ul>
-      </div>
-    </div>
-  </section>
+- **Generative AI:** [CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331), [CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7), [FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z), [EyeGPT](https://www.jmir.org/2024/1/e60063/), [EyeFound](https://arxiv.org/abs/2405.11338), [EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2)
+- **AI Agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002), [VQA](https://doi.org/10.1136/bjo-2024-326097), [ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2), [EyeAgent](https://arxiv.org/abs/2511.09394)
+- **Oculomics and digital biomarkers:** retinal vessel biomarkers through the <a href="#rmhas">RMHAS series</a>, plus choroidal biomarkers such as [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
 
-  <section class="section" id="contact">
-    <div class="section-head">
-      <div>
-        <div class="section-kicker">Contact</div>
-        <h2>Get in touch</h2>
-      </div>
-    </div>
-    <div class="contact-grid">
-      <div class="section-panel">
-        <p><strong>Danli Shi</strong><br>Research Assistant Professor<br>The Hong Kong Polytechnic University</p>
-        <p>Office: GH164<br>Email: <a href="mailto:danli.shi@polyu.edu.hk">danli.shi@polyu.edu.hk</a></p>
-        <p>I am happy to discuss research collaborations, student supervision, invited talks, workshops, and interdisciplinary projects at the interface of AI and healthcare.</p>
-      </div>
-      <div class="section-panel">
-        <h3>External links</h3>
-        <ul class="link-list">
-          <li><a href="https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></li>
-          <li><a href="https://orcid.org/0000-0001-6094-137X">ORCID</a></li>
-          <li><a href="https://www.researchgate.net/profile/Danli-Shi">ResearchGate</a></li>
-          <li><a href="https://www.scopus.com/authid/detail.uri?authorId=57218407370">Scopus</a></li>
-          <li><a href="https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/">PolyU Graduate School scholarships</a></li>
-        </ul>
-      </div>
-    </div>
-  </section>
+<span class="anchor" id="news"></span>
 
-  <div class="divider"></div>
-  <footer class="footer">
-    <p>© Danli Shi and Vision Intelligence Lab.<br>Last updated: July 2026.</p>
-  </footer>
-</main>
+# News
+
+<div class="news-container" aria-label="Scrollable news list">
+  <ul class="news-list">
+    <li class="news-item">
+      <span class="news-date">Jun 2026</span>
+      <span class="news-title">New 2026 works are listed on Google Scholar, including <a href="https://arxiv.org/abs/2606.22955"><em>Evo-RAD</em></a>, <a href="https://arxiv.org/abs/2606.18613"><em>PhysAssistBench</em></a>, and multiple ophthalmic foundation model papers.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">2026</span>
+      <span class="news-title">Three papers were published in <em>npj Digital Medicine</em>: <em>Fundus to fluorescein angiography video generation as a retinal generative foundation model</em>, <em>Key concept learning for medical vision language model with reasoning capabilities</em>, and <em>Boosting foundation models for rare eye disease diagnosis via a multimodal text-to-image generative framework</em>.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jan 2026</span>
+      <span class="news-title">One paper was published in <em>Medical Image Analysis</em>: <a href="https://doi.org/10.1016/j.media.2026.103942"><em>Predicting DME treatment responses</em></a>. Big congrats to Weiyi.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Nov 2025</span>
+      <span class="news-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/"><em>Retinomics: A Window to Multidisease Prediction</em></a> was published in <em>BMC Medicine</em>. <a href="https://github.com/Danli-vision/retinomics/tree/main">Code</a>. Big congrats to Mayi.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Oct 2025</span>
+      <span class="news-title"><a href="https://www.jacc.org/doi/10.1016/j.jacc.2025.05.020"><em>Effect of intensive blood pressure lowering treatment on retinal microvasculature</em></a> was published in <em>JACC</em>.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jul 2025</span>
+      <span class="news-title">Awarded a General Research Fund grant from the Research Grants Council of Hong Kong.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jun 2025</span>
+      <span class="news-title"><a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600"><em>FFA SORA</em></a> was published in <em>JAMA Ophthalmology</em>. Big congrats to Xinyuan and Lili.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jun 2025</span>
+      <span class="news-title"><a href="https://www.nature.com/articles/s41746-025-01772-2"><em>EyeCLIP</em></a>, a multimodal vision-language foundation model supporting 11 modalities, was published in <em>npj Digital Medicine</em>. <a href="https://github.com/Michi-3000/EyeCLIP/tree/main">Code</a>.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jun 2025</span>
+      <span class="news-title"><a href="https://www.nature.com/articles/s41746-025-01754-4"><em>Embodied AI in ophthalmology</em></a> was published in <em>npj Digital Medicine</em>. Big congrats to Yao, Xiaolan, and Xinyuan.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Mar 2025</span>
+      <span class="news-title"><a href="https://www.sciencedirect.com/science/article/pii/S2667102625000294"><em>Evaluating LLMs and agents in healthcare</em></a> was published in <em>Intelligent Medicine</em>. Big congrats to Xiaolan.</span>
+    </li>
+  </ul>
+</div>
+
+<span class="anchor" id="members"></span>
+
+# Group Members
+
+<div class="member-list-panel">
+  <h3>Ph.D. Students</h3>
+  <ul class="member-list">
+    <li><a href="https://openreview.net/profile?id=~Wenlong_Hou2">Wenlong Hou</a> [PRPgS] (2025.09-): Agentic AI</li>
+    <li><a href="https://openreview.net/profile?id=~Guoqi_Yu1">Guoqi Yu</a> [PRPgS] (2024.09-): Medical Time Series Analysis</li>
+    <li>Yue Xun [PRPgS] (2024.09-): Brain Disorder Analysis, Foundation Models</li>
+    <li>Nanxi Yu [PRPgS] (2024.05-): Continual Learning</li>
+    <li><a href="https://openreview.net/profile?id=~Ye_Du4">Ye Du</a> [PPPFS] (2024.01-): AI for MS-based Proteomics</li>
+    <li><a href="https://openreview.net/profile?id=~Juncheng_Wang2">Juncheng Wang</a> [PRPgS] (2024.01-): Diffusion Model, Generative AI</li>
+    <li>Guangqian Yang [PRPgS] (2023.09-): Multimodal Learning</li>
+  </ul>
+
+  <h3>Research assistants, summer interns, and student helpers</h3>
+  <ul class="member-list">
+    <li>Qingqiu Li, intern (2023.07-2024)</li>
+    <li>Wenlong Hou, research assistant (2025.02-2025.08)</li>
+    <li>Chen Yang, research assistant (2024.09-2025.07)</li>
+    <li>Kuan Feng, summer intern (2024.05-2024.09)</li>
+    <li>Nanxi Yu, research assistant (2024.03-2024.05) (Join our lab soon as a Ph.D.)</li>
+    <li>Guoqi Yu, intern (2023.07-2024)</li>
+    <li>Zhihan Yang, summer intern (2023)</li>
+    <li>Kangrui Du, summer intern (2023)</li>
+    <li>Lingrui Li, summer intern (2023)</li>
+  </ul>
+
+  <h3>Capstone</h3>
+  <ul class="member-list">
+    <li>Yibei Zhang, 2024-2025</li>
+    <li>Yeung LAU, 2024-2025</li>
+  </ul>
+
+  <h3>URIS</h3>
+  <ul class="member-list">
+    <li>Wangding Xia</li>
+    <li>Zhifei Wang</li>
+    <li>Xuyi Wei</li>
+    <li>Houhe Liu</li>
+  </ul>
+</div>
+
+<span class="anchor" id="service"></span>
+
+# Service
+
+## Teaching
+
+- Research supervision in medical AI, ophthalmic foundation models, oculomics, and autonomous clinical intelligence.
+- Research training for PhD students, research assistants, interns, visiting students, and undergraduate researchers.
+
+## Professional Activities
+
+- Conference co-organizer, Asia-Pacific Tele-Ophthalmology Society
+- Guest editor, <em>BMJ Open Ophthalmology</em>
+- Awards Officer, Women in MICCAI
+- Reviewer for <em>npj Digital Medicine</em>, <em>Nature Computational Science</em>, <em>Nature Communications</em>, <em>Progress in Retinal and Eye Research</em>, <em>British Journal of Ophthalmology</em>, <em>Ophthalmology Science</em>, <em>JMIR</em>, <em>Pattern Recognition Letters</em>, <em>Expert Systems with Applications</em>, <em>Biomedical Signal Processing and Control</em>, and MICCAI
+
+<span class="anchor" id="rmhas"></span>
+
+# RMHAS: Retina-Based Microvascular Health Assessment System
+
+**Demo website:** [https://www.retinavessel.com/#/](https://www.retinavessel.com/#/)
+
+<details markdown="1">
+<summary>Publications using RMHAS</summary>
+
+1. Shi D, Lin Z, Wang W, Tan Z, Shang X, Zhang X, Meng W, Ge Z, He M. A Deep Learning System for Fully Automated Retinal Vessel Measurement in High Throughput Image Analysis. Front Cardiovasc Med. 2022;9:823436. doi: 10.3389/fcvm.2022.823436
+2. He S, Bulloch G, Zhang L, Meng W, Shi D, He M. Comparing Common Retinal Vessel Caliber Measurement Software with an Automatic Deep Learning System. Curr Eye Res. 2023;48:843-849. doi: 10.1080/02713683.2023.2212881
+3. Fu Y, Yusufu M, Wang Y, He M, Shi D, Wang R. Association of retinal microvascular density and complexity with incident coronary heart disease. Atherosclerosis. 2023;380:117196. doi: 10.1016/j.atherosclerosis.2023.117196
+4. Huang Y, Li C, Shi D, Wang H, Shang X, Wang W, Zhang X, Zhang X, Hu Y, Tang S, et al. Integrating oculomics with genomics reveals imaging biomarkers for preventive and personalized prediction of arterial aneurysms. EPMA J. 2023;14:73-86. doi: 10.1007/s13167-023-00315-7
+5. Zhang W, Tian Z, Song F, Xu P, Shi D, He M. Enhancing stability in cardiovascular disease risk prediction: A deep learning approach leveraging retinal images. Informatics in Medicine Unlocked. 2023;42:101366. doi: 10.1016/j.imu.2023.101366
+6. Shi D, He S, Yang J, Zheng Y, He M. One-shot Retinal Artery and Vein Segmentation via Cross-modality Pretraining. Ophthalmol Sci. 2024;4:100363. doi: 10.1016/j.xops.2023.100363
+7. Yusufu M, Chen Y, Dayimu A, Bulloch G, Jin S, Vingrys AJ, Zhang L, Shang X, Shi D, He M. Retinal Vascular Measurements and Mortality Risk: Evidence From the UK Biobank Study. Transl Vis Sci Technol. 2024;13:2. doi: 10.1167/tvst.13.1.2
+8. Shi D, Zhou Y, He S, Wagner SK, Huang Y, Keane PA, Ting DSW, Zhang L, Zheng Y, He M. Cross-modality Labeling Enables Noninvasive Capillary Quantification as a Sensitive Biomarker for Assessing Cardiovascular Risk. Ophthalmol Sci. 2024;4:100441. doi: 10.1016/j.xops.2023.100441
+9. Jiang Y, Chen Q, Shi D, Miao S, Liu Y, Wang J, Liu L, Chen Y, Wang R. Association of retinal microvascular curve tortuosity and multiple sclerosis: A cross-section analysis from the UK Biobank. Multiple Sclerosis and Related Disorders. 2024;88:105753. doi: 10.1016/j.msard.2024.105753
+10. Huang Y, Plotnikov D, Wang H, Shi D, Li C, Zhang X, Zhang X, Tang S, Shang X, Hu Y, et al. GWAS-by-subtraction reveals an IOP-independent component of primary open angle glaucoma. Nat Commun. 2024;15:8962. doi: 10.1038/s41467-024-53331-0
+11. Chen Q, Miao S, Jiang Y, Shi D, You W, Liu L, Yusufu M, Chen Y, Wang R. Associations of Retinal Microvascular Density and Fractal Dimension with Glaucoma: A Prospective Study from UK Biobank. Ophthalmology Science. 2025;5. doi: 10.1016/j.xops.2024.100661
+12. Yusufu M, Friedman DS, Kang M, Padhye A, Shang X, Zhang L, Shi D, He M. Retinal vascular fingerprints predict incident stroke: findings from the UK Biobank cohort study. Heart. 2025:heartjnl-2024-324705. doi: 10.1136/heartjnl-2024-324705
+13. Li C, Huang Y, Chen J, Hua G, Yang F, Cai D, Kuang Y, He X, Wang Y, Jiang J, et al. Retinal oculomics and risk of incident aortic aneurysm and aortic adverse events: a population-based cohort study. Int J Surg. 2025. doi: 10.1097/js9.0000000000002236
+14. Yusufu M, Vingrys AJ, Shang X, Zhang L, Shi D, Congdon N, He M. Population-based Normative Reference for Retinal Microvascular Atlas. Ophthalmology Science. 2025:100723. doi: 10.1016/j.xops.2025.100723
+15. Zeng X, Chen R, Zhang X, Su T, Wang Y, Hu Y, Shang X, Shi D, Yu H. Associations between a healthy lifestyle score and retinal neurovascular health. British Journal of Ophthalmology. 2025:bjo-2024-326184. doi: 10.1136/bjo-2024-326184
+16. Wu Y, Shen L, Zhao L, Lin X, Xu M, Tu Z, Huang Y, Kong L, Lin Z, Lin D, et al. Noninvasive early prediction of preeclampsia in pregnancy using retinal vascular features. npj Digital Medicine. 2025;8:188. doi: 10.1038/s41746-025-01582-6
+17. Niu Y, Li X, Guo J, Luo S, Shang X, Liu J, Liu S, He M, Shi D, Huang Y, et al. Comprehensive genome-wide analysis of retinal vessel caliber reveals microvascular-blood pressure pathways: advancing predictive, preventive, and personalized medicine. EPMA Journal. 2025. doi: 10.1007/s13167-025-00411-w
+18. Yusufu M, Weinreb RN, Kang M, Vingrys AJ, Shang X, Zhang L, Shi D, He M. Structural and causal links between retinal vascular geometry and neural layer thickness. Microvascular Research. 2025;161:104834. doi: 10.1016/j.mvr.2025.104834
+19. Alatrany AS, Lakhani K, Cowley AC, Yeo JL, Dattani A, Ayton SL, Deshpande A, Graham-Brown MPM, Davies MJ, Khunti K, et al. The retina as a window into detecting subclinical cardiovascular disease in type 2 diabetes. Scientific Reports. 2025;15:27968. doi: 10.1038/s41598-025-13468-4
+20. Wang J, Han S, Mou D, Tang X, Shi D, He M, Guo C, Wang N, Zhang Y. Retinal Vascular Fingerprints as Novel Biomarkers for Primary Angle Closure Disease Progression. Ophthalmology Science. 2025;5. doi: 10.1016/j.xops.2025.100848
+21. Wang B, Shi D, Zhang Z, Zhang L, Sun Y, Liu J, Yan X, Jing J, Li J, Song J, et al. Effect of Intensive Blood Pressure Lowering Treatment on Retinal Microvasculature. JACC. 2025;86:1377-1388. doi: 10.1016/j.jacc.2025.05.020
+
+</details>
+
+<span class="anchor" id="contact"></span>
+
+# Contact
+
+**Danli Shi**<br>
+Research Assistant Professor, The Hong Kong Polytechnic University<br>
+Office: GH164<br>
+Email: [danli.shi@polyu.edu.hk](mailto:danli.shi@polyu.edu.hk)

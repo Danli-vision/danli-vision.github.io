@@ -1,24 +1,24 @@
 main:
   - title: "Home"
-    url: "#home"
-
-  - title: "About"
-    url: "#about"
+    url: "/#home"
 
   - title: "Research"
-    url: "#research"
+    url: "/#research"
 
   - title: "News"
-    url: "#news"
+    url: "/#news"
 
   - title: "Members"
-    url: "#team"
+    url: "/#members"
 
   - title: "Openings"
-    url: "#join"
+    url: "/#openings"
 
   - title: "Service"
-    url: "#service"
+    url: "/#service"
+
+  - title: "RMHAS"
+    url: "/#rmhas"
 
   - title: "Contact"
-    url: "#contact"
+    url: "/#contact"
