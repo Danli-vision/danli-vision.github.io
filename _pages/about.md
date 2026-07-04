@@ -60,7 +60,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
   <h3>Research Track Record</h3>
   <ul>
-    <li><strong>High-impact publications:</strong> Demonstrated ability to produce high-quality research, evidenced by publications in top-tier AI conferences such as CVPR, ICCV, MICCAI, NeurIPS, and ICML, or Q1 JCR journals such as IEEE TMI, MedIA, Ophthalmology, JAMA Ophthalmology.</li>
+    <li><strong>High-impact publications:</strong> Demonstrated ability to produce high-quality research, evidenced by publications in top-tier AI conferences such as CVPR, ICCV, MICCAI, NeurIPS, and ICML, or Q1 JCR journals such as npj Digital Med, IEEE TMI, MedIA, Ophthalmology, JAMA Ophthalmology.</li>
     <li><strong>Technical proficiency:</strong> Strong expertise in Agentic AI, LLMs, multimodal data fusion, or related biomedical AI domains.</li>
   </ul>
 
