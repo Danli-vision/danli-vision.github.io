@@ -31,7 +31,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
   <h3>Research Track Record</h3>
   <ul>
-    <li><strong>High-impact publications:</strong> Demonstrated ability to produce high-quality research, evidenced by publications in top-tier AI conferences such as CVPR, ICCV, MICCAI, NeurIPS, and ICML, or Q1 JCR journals such as IEEE TMI, MedIA, TIP, and IJCV.</li>
+    <li><strong>High-impact publications:</strong> Demonstrated ability to produce high-quality research, evidenced by publications in top-tier AI conferences such as CVPR, ICCV, MICCAI, NeurIPS, and ICML, or Q1 JCR journals such as IEEE TMI, MedIA, Ophthalmology, JAMA Ophthalmology.</li>
     <li><strong>Technical proficiency:</strong> Strong expertise in Agentic AI, LLMs, multimodal data fusion, or related biomedical AI domains.</li>
   </ul>
 
@@ -176,8 +176,8 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
 ## Teaching
 
-•	AI in Healthcare (SO1D02, CAR subject for undergraduates) — 2025 - present
-•	Digital Health (SO5001, MSc in Vision Science and Innovation) — 2025 - present
+- AI in Healthcare (SO1D02, CAR subject for undergraduates) — 2025 - present
+- Digital Health (SO5001, MSc in Vision Science and Innovation) — 2025 - present
 
 ## Professional Activities
 
@@ -226,3 +226,8 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 Research Assistant Professor, The Hong Kong Polytechnic University<br>
 Office: GH164<br>
 Email: [danli.shi@polyu.edu.hk](mailto:danli.shi@polyu.edu.hk)
+
+<div class="site-credit">
+  © Danli Shi.<br>
+  Last updated: July 2026.
+</div>
