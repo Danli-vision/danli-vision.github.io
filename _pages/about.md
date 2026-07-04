@@ -18,34 +18,6 @@ We build foundation models, multimodal agents, and autonomous clinical AI system
 
 I am a Research Assistant Professor at The Hong Kong Polytechnic University. I received my PhD from Zhongshan Ophthalmic Center under the supervision of [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en), and my BS and MS from Shanghai Jiao Tong University.
 
-<div class="lab-callout" id="openings">
-  <strong>We are recruiting.</strong>
-  <p>I am actively recruiting self-motivated PhD students, research assistants, interns, visiting students, and undergraduate researchers. Strong applicants may come from computer science, biomedical engineering, AI, ophthalmology, optometry, medicine, or related fields.</p>
-
-  <h3>Academic Excellence</h3>
-  <ul>
-    <li><strong>Institutional background:</strong> Bachelor's degree from a Top 300 globally ranked university, such as QS, THE, or ARWU rankings.</li>
-    <li><strong>Academic standing:</strong> Minimum cumulative GPA of 3.5/4.0, or equivalent, is strictly required.</li>
-    <li><strong>Distinctions:</strong> Proven academic excellence as a recipient of a National Scholarship or equivalent prestigious honors.</li>
-  </ul>
-
-  <h3>Research Track Record</h3>
-  <ul>
-    <li><strong>High-impact publications:</strong> Demonstrated ability to produce high-quality research, evidenced by publications in top-tier AI conferences such as CVPR, ICCV, MICCAI, NeurIPS, and ICML, or Q1 JCR journals such as IEEE TMI, MedIA, Ophthalmology, JAMA Ophthalmology.</li>
-    <li><strong>Technical proficiency:</strong> Strong expertise in Agentic AI, LLMs, multimodal data fusion, or related biomedical AI domains.</li>
-  </ul>
-
-  <p>Candidates meeting these elite criteria are encouraged to submit their CV and portfolio for consideration.</p>
-
-  <h3>Suggested Application Materials</h3>
-  <ol>
-    <li><strong>Email subject:</strong> Prospective PhD / RA / Intern + your name + Bachelor University Name + area of interest.</li>
-    <li><strong>Attachments:</strong> CV with GPA or ranking information, transcript, and a research proposal describing your background, interests, and why you want to join the lab.</li>
-    <li><strong>Optional but helpful:</strong> Awards, such as National Scholarship, representative paper, thesis, code repository, competition result, or project page.</li>
-    <li><strong>Funding:</strong> For PhD applicants, please also consult the PolyU Graduate School <a href="https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/">fellowship and scholarship schemes</a>.</li>
-  </ol>
-</div>
-
 <span class="anchor" id="research"></span>
 
 # Research Direction
@@ -74,6 +46,34 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 - **Oculomics and digital biomarkers:** retinal vessel biomarkers through the <a href="#rmhas">RMHAS series</a>, plus choroidal biomarkers such as [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
 
 - **Autonomous clinic**
+
+<div class="lab-callout" id="openings">
+  <strong>We are recruiting.</strong>
+  <p>I am actively recruiting self-motivated PhD students, research assistants, interns, visiting students, and undergraduate researchers. Strong applicants may come from computer science, biomedical engineering, AI, ophthalmology, optometry, medicine, or related fields.</p>
+
+  <h3>Academic Excellence</h3>
+  <ul>
+    <li><strong>Institutional background:</strong> Bachelor's degree from a Top 300 globally ranked university, such as QS, THE, or ARWU rankings.</li>
+    <li><strong>Academic standing:</strong> Minimum cumulative GPA of 3.5/4.0, or equivalent, is strictly required.</li>
+    <li><strong>Distinctions:</strong> Proven academic excellence as a recipient of a National Scholarship or equivalent prestigious honors.</li>
+  </ul>
+
+  <h3>Research Track Record</h3>
+  <ul>
+    <li><strong>High-impact publications:</strong> Demonstrated ability to produce high-quality research, evidenced by publications in top-tier AI conferences such as CVPR, ICCV, MICCAI, NeurIPS, and ICML, or Q1 JCR journals such as IEEE TMI, MedIA, Ophthalmology, JAMA Ophthalmology.</li>
+    <li><strong>Technical proficiency:</strong> Strong expertise in Agentic AI, LLMs, multimodal data fusion, or related biomedical AI domains.</li>
+  </ul>
+
+  <p>Candidates meeting these elite criteria are encouraged to submit their CV and portfolio for consideration.</p>
+
+  <h3>Suggested Application Materials</h3>
+  <ol>
+    <li><strong>Email subject:</strong> Prospective PhD / RA / Intern + your name + Bachelor University Name + area of interest.</li>
+    <li><strong>Attachments:</strong> CV with GPA or ranking information, transcript, and a research proposal describing your background, interests, and why you want to join the lab.</li>
+    <li><strong>Optional but helpful:</strong> Awards, such as National Scholarship, representative paper, thesis, code repository, competition result, or project page.</li>
+    <li><strong>Funding:</strong> For PhD applicants, please also consult the PolyU Graduate School <a href="https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/">fellowship and scholarship schemes</a>.</li>
+  </ol>
+</div>
 
 <span class="anchor" id="news"></span>
 
@@ -167,6 +167,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
     <li>Qi Zhou, Master student, 2025-2026</li>
     <li>Wanrong Yang, Research Assistant, 2025-2026</li>
     <li>Pusheng Xu, Research Assistant, 2024-2025</li>
+    <li>Lili Wang, Student Assistant, 2024-2025</li>
   </ul>
 </div>
 
