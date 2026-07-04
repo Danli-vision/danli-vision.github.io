@@ -10,7 +10,9 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-# Vision AI Lab @ PolyU
+# Vision Intelligence Lab
+
+<p class="lab-tagline">The Hong Kong Polytechnic University</p>
 
 We build foundation models, multimodal agents, and autonomous clinical AI systems for vision science and medicine, with ophthalmology as our core testbed.
 
@@ -37,7 +39,76 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
   </a>
 </div>
 
-I am looking for self-motivated PhD students, research assistants, and interns with backgrounds in CS, BME, robotics, or medicine. Please email me with your CV. PolyU postgraduate scholarship information is available [here](https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/).
+<div class="lab-callout">
+  <strong>We are recruiting.</strong>
+  Self-motivated PhD students, research assistants, and interns with backgrounds in CS, BME, robotics, or medicine are welcome to email Danli Shi with a CV. PolyU postgraduate scholarship information is available <a href="https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/">here</a>.
+</div>
+
+<span class="anchor" id="research"></span>
+
+# Research
+
+## Research Themes
+
+- **Generative AI:** [CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331), [CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7), [FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z), [EyeGPT](https://www.jmir.org/2024/1/e60063/), [EyeFound](https://arxiv.org/abs/2405.11338), [EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2)
+- **AI Agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002), [VQA](https://doi.org/10.1136/bjo-2024-326097), [ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2), [EyeAgent](https://arxiv.org/abs/2511.09394)
+- **Oculomics and Digital Biomarkers:** retinal vessel biomarkers through the <a href="#rmhas">RMHAS series</a>, plus choroidal biomarkers such as [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
+
+<span class="anchor" id="members"></span>
+
+# Lab Members
+
+<div class="members-grid">
+  <div class="member-card member-card--lead">
+    <span class="member-role">Principal Investigator</span>
+    <strong>Danli Shi</strong>
+    <small>Research Assistant Professor, The Hong Kong Polytechnic University</small>
+  </div>
+  <div class="member-card">
+    <span class="member-role">Co-supervisor</span>
+    <strong>Weiyi Zhang</strong>
+  </div>
+  <div class="member-card">
+    <span class="member-role">Co-supervisor</span>
+    <strong>Ruoyu Chen</strong>
+  </div>
+  <div class="member-card">
+    <span class="member-role">Co-supervisor</span>
+    <strong>Xiaolan Chen</strong>
+  </div>
+  <div class="member-card">
+    <span class="member-role">Co-supervisor</span>
+    <strong>Yue Wu</strong>
+  </div>
+  <div class="member-card">
+    <span class="member-role">Co-supervisor</span>
+    <strong>Xinyuan Wu</strong>
+  </div>
+  <div class="member-card">
+    <span class="member-role">Co-supervisor</span>
+    <strong>Bowen Liu</strong>
+  </div>
+  <div class="member-card">
+    <span class="member-role">Co-supervisor</span>
+    <strong>Meng Xie</strong>
+  </div>
+  <div class="member-card">
+    <span class="member-role">Chief Supervisor</span>
+    <strong>Bingjie Yan</strong>
+  </div>
+  <div class="member-card">
+    <span class="member-role">Chief Supervisor</span>
+    <strong>Ziyu Gao</strong>
+  </div>
+  <div class="member-card">
+    <span class="member-role">Chief Supervisor</span>
+    <strong>Zhuoran Liu</strong>
+  </div>
+  <div class="member-card">
+    <span class="member-role">Chief Supervisor</span>
+    <strong>Zhenhan Wang</strong>
+  </div>
+</div>
 
 <span class="anchor" id="news"></span>
 
@@ -130,12 +201,6 @@ The latest full publication list is maintained on [Google Scholar](https://schol
     </div>
   </div>
 </div>
-
-## Research Themes
-
-- **Generative AI:** [CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331), [CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7), [FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z), [EyeGPT](https://www.jmir.org/2024/1/e60063/), [EyeFound](https://arxiv.org/abs/2405.11338), [EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2)
-- **AI Agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002), [VQA](https://doi.org/10.1136/bjo-2024-326097), [ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2), [EyeAgent](https://arxiv.org/abs/2511.09394)
-- **Oculomics and Digital Biomarkers:** retinal vessel biomarkers through the <a href="#rmhas">RMHAS series</a>, plus choroidal biomarkers such as [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
 
 <span class="anchor" id="honors"></span>
 

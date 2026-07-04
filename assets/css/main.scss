@@ -54,7 +54,7 @@
 
     h1:first-of-type {
         margin-top: .35em;
-        font-size: 2.15em;
+        font-size: 2.4em;
         letter-spacing: 0;
     }
 
@@ -96,6 +96,24 @@
     }
 }
 
+.lab-tagline {
+    color: #526173;
+    font-size: 1.1em;
+    font-weight: 700;
+    letter-spacing: .02em;
+    margin-top: -.4rem !important;
+    text-transform: uppercase;
+}
+
+.lab-callout {
+    background: linear-gradient(135deg, #e9f3fb, #ffffff);
+    border: 1px solid #cfe2f3;
+    border-radius: 8px;
+    box-shadow: 0 10px 24px rgba(16, 36, 58, .06);
+    margin: 1.4rem 0 1rem;
+    padding: 1rem 1.2rem;
+}
+
 .research-grid {
     display: grid;
     gap: .8rem;
@@ -133,6 +151,57 @@
         box-shadow: 0 16px 32px rgba(16, 36, 58, .1);
         transform: translateY(-2px);
     }
+}
+
+.members-grid {
+    display: grid;
+    gap: .8rem;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    margin: 1rem 0 1.5rem;
+}
+
+.member-card {
+    background: #ffffff;
+    border: 1px solid #e1e8f0;
+    border-radius: 8px;
+    box-shadow: 0 8px 20px rgba(16, 36, 58, .05);
+    min-height: 8rem;
+    padding: 1rem;
+
+    strong {
+        color: #10243a;
+        display: block;
+        font-size: 1.05em;
+        margin-top: .35rem;
+    }
+
+    small {
+        color: #526173;
+        display: block;
+        line-height: 1.45;
+        margin-top: .35rem;
+    }
+}
+
+.member-card--lead {
+    background: #10243a;
+    border-color: #10243a;
+    color: #ffffff;
+
+    strong,
+    small,
+    .member-role {
+        color: #ffffff;
+    }
+}
+
+.member-role {
+    color: #0f5ea8;
+    display: block;
+    font-size: .78em;
+    font-weight: 800;
+    letter-spacing: .04em;
+    text-transform: uppercase;
 }
 
 .news-panel {

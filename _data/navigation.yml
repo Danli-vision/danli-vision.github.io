@@ -1,15 +1,18 @@
 main:
-  - title: "About"
+  - title: "Home"
     url: "/#about-me"
+
+  - title: "Research"
+    url: "/#research"
+
+  - title: "Members"
+    url: "/#members"
 
   - title: "News"
     url: "/#news"
 
-  - title: "Publications"
+  - title: "Papers"
     url: "/#publications"
-
-  - title: "Honors"
-    url: "/#honors"
 
   - title: "Activities"
     url: "/#activities"
