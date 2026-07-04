@@ -1,16 +1,15 @@
-# main links links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Honors"
+    url: "/#honors"
 
-  - title: "Professional Activities"
-    url: "/#-professional-activities"
+  - title: "Activities"
+    url: "/#activities"
