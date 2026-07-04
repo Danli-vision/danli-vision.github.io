@@ -159,7 +159,6 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 ## Professional Activities
 
 - Conference co-organizer, Asia-Pacific Tele-Ophthalmology Society
-- Guest editor, <em>BMJ Open Ophthalmology</em>
 - Awards Officer, Women in MICCAI
 - Reviewer for <em>npj Digital Medicine</em>, <em>Nature Computational Science</em>, <em>Nature Communications</em>, <em>Progress in Retinal and Eye Research</em>, <em>British Journal of Ophthalmology</em>, <em>Ophthalmology Science</em>, <em>JMIR</em>, <em>Pattern Recognition Letters</em>, <em>Expert Systems with Applications</em>, <em>Biomedical Signal Processing and Control</em>, and MICCAI
 
