@@ -131,7 +131,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
     <li>Xinyu Hou (2026.09-) </li>
     <li>Xuze Wang [PPPFS] (2026.09-) </li>
     <li>Ying Zhang (2026.09-) </li>
-    <li>Zhongyu Chen (2026.09-), Robotics </li>
+    <li>Zhongyu Chen (2026.09-): Robotics </li>
     <li><a href="https://www.bj-yan.top/">Bingjie Yan</a> (2025.09-): Agentic AI</li>
     <li>Ziyu Gao (2025.09-): Generative AI, World model</li>
     <li>Zhenhan Wang (2025.09-): ChatMyopia </li>
@@ -160,7 +160,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
   <h3>Alumni</h3>
   <ul class="member-list">
-    <li>Weiyi Zhang, PhD student, 2023-2026</li>
+    <li><a href="https://scholar.google.com/citations?user=HVdLUawAAAAJ&hl=en">Weiyi Zhang</a>, PhD student, Best Research Postgraduate Student of PolyU (2025), 2023-2026</li>
     <li>Ruoyu Chen, PhD student, 2023-2026</li>
     <li>Jie Li, Master student, 2025-2026</li>
     <li>Yiqi Ma, Master student, 2025-2026</li>
