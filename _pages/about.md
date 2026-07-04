@@ -50,6 +50,8 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 - **AI Agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002), [VQA](https://doi.org/10.1136/bjo-2024-326097), [ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2), [EyeAgent](https://arxiv.org/abs/2511.09394)
 - **Oculomics and digital biomarkers:** retinal vessel biomarkers through the <a href="#rmhas">RMHAS series</a>, plus choroidal biomarkers such as [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
 
+- **Autonomous clinic**
+
 <span class="anchor" id="news"></span>
 
 # News
@@ -57,12 +59,8 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 <div class="news-container" aria-label="Scrollable news list">
   <ul class="news-list">
     <li class="news-item">
-      <span class="news-date">Jun 2026</span>
-      <span class="news-title">New 2026 works are listed on Google Scholar, including <a href="https://arxiv.org/abs/2606.22955"><em>Evo-RAD</em></a>, <a href="https://arxiv.org/abs/2606.18613"><em>PhysAssistBench</em></a>, and multiple ophthalmic foundation model papers.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-date">2026</span>
-      <span class="news-title">Three papers were published in <em>npj Digital Medicine</em>: <em>Fundus to fluorescein angiography video generation as a retinal generative foundation model</em>, <em>Key concept learning for medical vision language model with reasoning capabilities</em>, and <em>Boosting foundation models for rare eye disease diagnosis via a multimodal text-to-image generative framework</em>.</span>
+      <span class="news-date">Jan 2026</span>
+      <span class="news-title">Three papers were published in <em>npj Digital Medicine</em>: <a href="https://www.nature.com/articles/s41746-026-02560-2"><em>EyeDiff</em></a>; <a href="https://www.nature.com/articles/s41746-026-02676-5"><em>ConceptVLM</em></a>; <a href="https://www.nature.com/articles/s41746-026-02804-1"><em>Fundus2videoFM</em></a>; Congrats to Weiyi, Ruoyu.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jan 2026</span>
@@ -106,40 +104,46 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 <div class="member-list-panel">
   <h3>Ph.D. Students</h3>
   <ul class="member-list">
-    <li><a href="https://openreview.net/profile?id=~Wenlong_Hou2">Wenlong Hou</a> [PRPgS] (2025.09-): Agentic AI</li>
-    <li><a href="https://openreview.net/profile?id=~Guoqi_Yu1">Guoqi Yu</a> [PRPgS] (2024.09-): Medical Time Series Analysis</li>
-    <li>Yue Xun [PRPgS] (2024.09-): Brain Disorder Analysis, Foundation Models</li>
-    <li>Nanxi Yu [PRPgS] (2024.05-): Continual Learning</li>
-    <li><a href="https://openreview.net/profile?id=~Ye_Du4">Ye Du</a> [PPPFS] (2024.01-): AI for MS-based Proteomics</li>
-    <li><a href="https://openreview.net/profile?id=~Juncheng_Wang2">Juncheng Wang</a> [PRPgS] (2024.01-): Diffusion Model, Generative AI</li>
-    <li>Guangqian Yang [PRPgS] (2023.09-): Multimodal Learning</li>
+    <li>Kunhong Xiao (2026.09-) </li>
+    <li>Xinyu Hou (2026.09-) </li>
+    <li>Xuze Wang [PPPFS] (2026.09-) </li>
+    <li>Ying Zhang (2026.09-) </li>
+    <li>Zhongyu Chen (2026.09-), Robotics </li>
+    <li><a href="https://www.bj-yan.top/">Bingjie Yan</a>(2025.09-): Agentic AI</li>
+    <li>Ziyu Gao (2025.09-): Generative AI, World model</li>
+    <li>Zhenhan Wang (2025.09-): ChatMyopia </li>
+    <li>Zhuoran Liu (2025.05-): Digital biomarker</li>
+    <li>Xinyuan Wu (2025.09-): Embodied AI</li>
+    <li>Bowen Liu (2025.09-): Digital twin</li>
+    <li><a href="https://scholar.google.com/citations?user=iA-PvEsAAAAJ&hl=zh-CN">Xiaolan Chen</a> (2024.09-): Agentic AI</li>
+    <li>Yue Wu [PPPFS] (2024.09-): Generative AI, drug discovery</li>
+
   </ul>
 
-  <h3>Research assistants, summer interns, and student helpers</h3>
+  <h3>MPhil Students</h3>
   <ul class="member-list">
-    <li>Qingqiu Li, intern (2023.07-2024)</li>
-    <li>Wenlong Hou, research assistant (2025.02-2025.08)</li>
-    <li>Chen Yang, research assistant (2024.09-2025.07)</li>
-    <li>Kuan Feng, summer intern (2024.05-2024.09)</li>
-    <li>Nanxi Yu, research assistant (2024.03-2024.05) (Join our lab soon as a Ph.D.)</li>
-    <li>Guoqi Yu, intern (2023.07-2024)</li>
-    <li>Zhihan Yang, summer intern (2023)</li>
-    <li>Kangrui Du, summer intern (2023)</li>
-    <li>Lingrui Li, summer intern (2023)</li>
-  </ul>
-
-  <h3>Capstone</h3>
-  <ul class="member-list">
-    <li>Yibei Zhang, 2024-2025</li>
-    <li>Yeung LAU, 2024-2025</li>
+    <li>Zhibo Wang (2026.01-): Robotics</li>
   </ul>
 
   <h3>URIS</h3>
   <ul class="member-list">
-    <li>Wangding Xia</li>
-    <li>Zhifei Wang</li>
-    <li>Xuyi Wei</li>
-    <li>Houhe Liu</li>
+    <li>Theresa Shukrani Mulindwa, DSAI</li>
+  </ul>
+
+  <h3>Visiting student</h3>
+  <ul class="member-list">
+    <li>Ke Li, PhD student, 2025-2026</li>
+  </ul>
+
+  <h3>Alumni</h3>
+  <ul class="member-list">
+    <li>Weiyi Zhang, PhD student, 2023-2026</li>
+    <li>Ruoyu Chen, PhD student, 2023-2026</li>
+    <li>Jie Li, Master student, 2025-2026</li>
+    <li>Yiqi Ma, Master student, 2025-2026</li>
+    <li>Qi Zhou, Master student, 2025-2026</li>
+    <li>Wanrong Yang, Research Assistant, 2025-2026</li>
+    <li>Pusheng Xu, Research Assistant, 2024-2025</li>
   </ul>
 </div>
 
