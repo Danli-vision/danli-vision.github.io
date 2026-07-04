@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 # Site Settings
-title                    : "Vision Intelligence Lab"
-description              : "Vision Intelligence Lab\nPolyU"
+title                    : "Danli Shi | Vision Intelligence Lab"
+description              : "Vision Intelligence Lab at The Hong Kong Polytechnic University"
 repository               : "Danli-vision/danli-vision.github.io"
 
 
@@ -10,7 +10,7 @@ repository               : "Danli-vision/danli-vision.github.io"
 author:
   name             : "Danli Shi"
   avatar           : "images/Generated Image.jpg"
-  bio              : "The Hong Kong Polytechnic University"
+  bio              : "Research Assistant Professor, The Hong Kong Polytechnic University"
   Office           : "GH164"
   email            : "danli.shi@polyu.edu.hk"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=QyF6ivQAAAAJ&view_op=list_works&sortby=pubdate"
