@@ -47,8 +47,11 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
 - **Autonomous clinic**
 
-<div class="lab-callout" id="openings">
-  <strong>We are recruiting.</strong>
+<span class="anchor" id="recruiting"></span>
+
+# We are Recruiting
+
+<div class="recruiting-container" aria-label="Recruiting information">
   <p>I am actively recruiting self-motivated PhD students, research assistants, interns, visiting students, and undergraduate researchers. Strong applicants may come from computer science, biomedical engineering, AI, ophthalmology, optometry, medicine, or related fields.</p>
 
   <div class="recruiting-requirements">
