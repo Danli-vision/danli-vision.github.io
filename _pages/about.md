@@ -87,12 +87,16 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 <div class="news-container" aria-label="Scrollable news list">
   <ul class="news-list">
     <li class="news-item">
+      <span class="news-date">July 2026</span>
+      <span class="news-title"><a href="https://doi.org/10.22541/au.177222617.79030213/v1"><em>Human-Robot Collaboration for Autonomous Clinic</em></a> was accepted to <em>MedComm</em>. Congrats to Xinyuan.</span>
+    </li>
+    <li class="news-item">
       <span class="news-date">May 2026</span>
       <span class="news-title">Three papers were published in <em>npj Digital Medicine</em>: <a href="https://www.nature.com/articles/s41746-026-02560-2"><em>EyeDiff</em></a>; <a href="https://www.nature.com/articles/s41746-026-02676-5"><em>ConceptVLM</em></a>; <a href="https://www.nature.com/articles/s41746-026-02804-1"><em>Fundus2videoFM</em></a>; Congrats to Weiyi, Ruoyu.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jan 2026</span>
-      <span class="news-title">One paper was published in <em>Medical Image Analysis</em>: <a href="https://doi.org/10.1016/j.media.2026.103942"><em>Predicting DME treatment responses</em></a>. Big congrats to Weiyi.</span>
+      <span class="news-title">One paper was published in <em>Medical Image Analysis</em>: <a href="https://doi.org/10.1016/j.media.2026.103942"><em>Predicting DME treatment responses</em></a>. Congrats to Weiyi.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Nov 2025</span>
