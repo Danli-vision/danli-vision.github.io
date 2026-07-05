@@ -160,6 +160,14 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
     <li>Ke Li, PhD student, 2025-2026</li>
   </ul>
 
+  <h3>Capstone student, 2025-2026</h3>
+  <ul class="member-list">
+    <li>TONG Anson</li>
+    <li>SO Kam Chun</li>
+    <li>KWOK Wing Tung</li>
+    <li>LAI Kin Ming</li>
+  </ul>
+
   <h3>Alumni</h3>
   <ul class="member-list">
     <li><a href="https://scholar.google.com/citations?user=HVdLUawAAAAJ&hl=en">Weiyi Zhang</a>, PhD student, Best Research Postgraduate Student of PolyU (2025), 2023-2026</li>
@@ -167,9 +175,10 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
     <li>Jie Li, Master student, 2025-2026</li>
     <li>Yiqi Ma, Master student, 2025-2026</li>
     <li>Qi Zhou, Master student, 2025-2026</li>
-    <li>Wanrong Yang, Research Assistant, 2025-2026</li>
-    <li>Pusheng Xu, Research Assistant, 2024-2025</li>
-    <li>Lili Wang, Student Assistant, 2024-2025</li>
+    <li>Wanrong Yang, Research assistant, 2025-2026</li>
+    <li>Pusheng Xu, Research assistant, 2024-2025</li>
+    <li>Lili Wang, Student assistant, 2024-2025</li>
+    <li>Mayinuer Yusufu, Exchange student, 2024-2025</li>
   </ul>
 </div>
 
