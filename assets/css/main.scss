@@ -41,11 +41,11 @@
 @import "print";
 
 .page__content {
-    color: #25313f;
+    color: #2f2a2b;
     line-height: 1.72;
 
     h1 {
-        color: #10243a;
+        color: #24171a;
         border-bottom: 0;
         margin-top: 2.2em;
         padding-bottom: .25em;
@@ -59,7 +59,7 @@
     }
 
     h1:after {
-        background: linear-gradient(90deg, #0f5ea8, #4aa3df);
+        background: linear-gradient(90deg, #7b1f36, #b45f6d);
         border-radius: 999px;
         bottom: 0;
         content: "";
@@ -70,34 +70,34 @@
     }
 
     h2 {
-        color: #18334f;
+        color: #3a252b;
         font-size: 1.15em;
         margin-top: 1.6em;
     }
 
     a {
-        color: #0f5ea8;
+        color: #7b1f36;
         text-decoration-thickness: 1px;
         text-underline-offset: 3px;
     }
 
     details {
         background: #ffffff;
-        border: 1px solid #e1e8f0;
+        border: 1px solid #e6dedc;
         border-radius: 8px;
         margin: 1em 0 2em;
         padding: 1em 1.2em;
     }
 
     summary {
-        color: #10243a;
+        color: #24171a;
         cursor: pointer;
         font-weight: 700;
     }
 }
 
 .lab-tagline {
-    color: #526173;
+    color: #6c6062;
     font-size: 1.1em;
     font-weight: 700;
     letter-spacing: .02em;
@@ -106,28 +106,28 @@
 }
 
 .lab-callout {
-    background: linear-gradient(135deg, #e9f3fb, #ffffff);
-    border: 1px solid #cfe2f3;
+    background: linear-gradient(135deg, #f6ecef, #ffffff);
+    border: 1px solid #ead6dc;
     border-radius: 8px;
-    box-shadow: 0 10px 24px rgba(16, 36, 58, .06);
+    box-shadow: 0 10px 24px rgba(50, 34, 34, .06);
     margin: 1.4rem 0 1rem;
     max-height: 460px;
     overflow-y: auto;
     padding: 1rem 1.2rem;
-    scrollbar-color: rgba(15, 94, 168, .35) transparent;
+    scrollbar-color: rgba(123, 31, 54, .28) transparent;
     scrollbar-width: thin;
 }
 
 .recruiting-requirements {
-    background: #f5f9fd;
-    border: 1px solid #cfe2f3;
-    border-left: 4px solid #4aa3df;
+    background: #fff8f9;
+    border: 1px solid #ead6dc;
+    border-left: 4px solid #b45f6d;
     border-radius: 8px;
     margin: 1rem 0 0;
     padding: .75rem .95rem;
 
     h3 {
-        color: #0f5ea8;
+        color: #7b1f36;
         font-size: .86em;
         margin: .85rem 0 .35rem;
 
@@ -138,14 +138,14 @@
 
     ul,
     ol {
-        color: #435366;
+        color: #5d5254;
         font-size: .82em;
         line-height: 1.55;
         margin-bottom: .65rem;
     }
 
     p {
-        color: #435366;
+        color: #5d5254;
         font-size: .82em;
         line-height: 1.55;
         margin: .65rem 0;
@@ -153,8 +153,8 @@
 }
 
 .site-credit {
-    border-top: 1px solid #dfe8f1;
-    color: #526173;
+    border-top: 1px solid #e6dedc;
+    color: #6c6062;
     font-size: .9em;
     margin-top: 2.6rem;
     padding-top: 1rem;
@@ -169,32 +169,32 @@
 
 .research-card {
     background: #ffffff;
-    border: 1px solid #dfe8f1;
+    border: 1px solid #e6dedc;
     border-radius: 8px;
-    box-shadow: 0 10px 24px rgba(16, 36, 58, .06);
-    color: #25313f;
+    box-shadow: 0 10px 24px rgba(50, 34, 34, .06);
+    color: #2f2a2b;
     display: block;
     padding: 1rem;
     text-decoration: none !important;
     transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
 
     span {
-        color: #10243a;
+        color: #24171a;
         display: block;
         font-weight: 700;
         margin-bottom: .35rem;
     }
 
     small {
-        color: #526173;
+        color: #6c6062;
         display: block;
         font-size: .88em;
         line-height: 1.45;
     }
 
     &:hover {
-        border-color: #9fc8eb;
-        box-shadow: 0 16px 32px rgba(16, 36, 58, .1);
+        border-color: #d8a7b3;
+        box-shadow: 0 16px 32px rgba(50, 34, 34, .10);
         transform: translateY(-2px);
     }
 }
@@ -208,21 +208,21 @@
 
 .member-card {
     background: #ffffff;
-    border: 1px solid #e1e8f0;
+    border: 1px solid #e6dedc;
     border-radius: 8px;
-    box-shadow: 0 8px 20px rgba(16, 36, 58, .05);
+    box-shadow: 0 8px 20px rgba(50, 34, 34, .05);
     min-height: 8rem;
     padding: 1rem;
 
     strong {
-        color: #10243a;
+        color: #24171a;
         display: block;
         font-size: 1.05em;
         margin-top: .35rem;
     }
 
     small {
-        color: #526173;
+        color: #6c6062;
         display: block;
         line-height: 1.45;
         margin-top: .35rem;
@@ -230,8 +230,8 @@
 }
 
 .member-card--lead {
-    background: #10243a;
-    border-color: #10243a;
+    background: #24171a;
+    border-color: #24171a;
     color: #ffffff;
 
     strong,
@@ -242,7 +242,7 @@
 }
 
 .member-role {
-    color: #0f5ea8;
+    color: #7b1f36;
     display: block;
     font-size: .78em;
     font-weight: 800;
@@ -252,9 +252,9 @@
 
 .news-panel {
     background: #ffffff;
-    border-left: 4px solid #0f5ea8;
+    border-left: 4px solid #7b1f36;
     border-radius: 8px;
-    box-shadow: 0 10px 28px rgba(16, 36, 58, .07);
+    box-shadow: 0 10px 28px rgba(50, 34, 34, .07);
     max-height: 390px;
     overflow-y: auto;
     padding: .9rem 1.2rem .9rem 1.5rem;
@@ -270,10 +270,10 @@
 
 .news-container {
     background: #ffffff;
-    border: 1px solid #e1e8f0;
-    border-left: 4px solid #0f5ea8;
+    border: 1px solid #e6dedc;
+    border-left: 4px solid #7b1f36;
     border-radius: 8px;
-    box-shadow: 0 10px 28px rgba(16, 36, 58, .07);
+    box-shadow: 0 10px 28px rgba(50, 34, 34, .07);
     height: 350px;
     margin: 1rem 0 1.5rem;
     overflow-y: auto;
@@ -288,7 +288,7 @@
 
 .news-item {
     align-items: baseline;
-    border-bottom: 1px solid #edf2f7;
+    border-bottom: 1px solid #f0e9e7;
     display: grid;
     gap: 1rem;
     grid-template-columns: 7rem 1fr;
@@ -301,29 +301,29 @@
 }
 
 .news-date {
-    color: #0f5ea8;
+    color: #7b1f36;
     font-weight: 800;
     white-space: nowrap;
 }
 
 .news-title {
-    color: #25313f;
+    color: #2f2a2b;
 }
 
 .member-list-panel {
     background: #ffffff;
-    border: 1px solid #e1e8f0;
+    border: 1px solid #e6dedc;
     border-radius: 8px;
-    box-shadow: 0 8px 20px rgba(16, 36, 58, .05);
+    box-shadow: 0 8px 20px rgba(50, 34, 34, .05);
     margin: 1rem 0 1.5rem;
     max-height: 430px;
     overflow-y: auto;
     padding: 1rem 1.2rem;
-    scrollbar-color: rgba(15, 94, 168, .35) transparent;
+    scrollbar-color: rgba(123, 31, 54, .28) transparent;
     scrollbar-width: thin;
 
     h3 {
-        color: #10243a;
+        color: #24171a;
         font-size: 1.05em;
         margin: 1.25rem 0 .55rem;
 
@@ -346,7 +346,7 @@
 .paper-item {
     align-items: flex-start;
     background: #ffffff;
-    border: 1px solid #e1e8f0;
+    border: 1px solid #e6dedc;
     border-radius: 8px;
     display: grid;
     gap: .85rem;
@@ -361,9 +361,9 @@
 }
 
 .paper-year {
-    background: #e9f3fb;
+    background: #f6ecef;
     border-radius: 999px;
-    color: #0f5ea8;
+    color: #7b1f36;
     font-size: .78em;
     font-weight: 700;
     line-height: 1;
@@ -434,22 +434,22 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: #7b1f36;
     font-size: .8em;
 }
 
 .home-hero {
     background:
-        radial-gradient(circle at top right, rgba(15, 94, 168, .10), transparent 34%),
-        linear-gradient(180deg, #ffffff 0%, #f8fbfe 100%);
-    border: 1px solid #dfe8f1;
+        radial-gradient(circle at top right, rgba(123, 31, 54, .08), transparent 34%),
+        linear-gradient(180deg, #ffffff 0%, #fffdfb 100%);
+    border: 1px solid #e6dedc;
     border-radius: 8px;
-    box-shadow: 0 14px 34px rgba(16, 36, 58, .08);
+    box-shadow: 0 14px 34px rgba(50, 34, 34, .08);
     margin: .4rem 0 2rem;
     padding: 2rem;
 
     h1 {
-        color: #10243a;
+        color: #24171a;
         font-size: 2.8em;
         line-height: 1.05;
         margin: 0;
@@ -461,7 +461,7 @@ h1:before, .anchor:before {
     }
 
     .lead {
-        color: #25313f;
+        color: #2f2a2b;
         font-size: 1.08em;
         margin-top: 1rem;
         max-width: 46rem;
@@ -469,10 +469,10 @@ h1:before, .anchor:before {
 }
 
 .eyebrow {
-    background: #e9f3fb;
-    border: 1px solid #cfe2f3;
+    background: #f6ecef;
+    border: 1px solid #ead6dc;
     border-radius: 999px;
-    color: #0f5ea8;
+    color: #7b1f36;
     display: inline-flex;
     font-size: .78em;
     font-weight: 800;
@@ -483,7 +483,7 @@ h1:before, .anchor:before {
 }
 
 .lab-subtitle {
-    color: #526173;
+    color: #6c6062;
     font-size: 1.08em;
     font-weight: 700;
     margin-top: .55rem !important;
@@ -516,22 +516,22 @@ h1:before, .anchor:before {
 }
 
 .button-primary {
-    background: #0f5ea8;
-    border: 1px solid #0f5ea8;
+    background: #7b1f36;
+    border: 1px solid #7b1f36;
     color: #ffffff !important;
 }
 
 .button-secondary {
     background: #ffffff;
-    border: 1px solid #b8d3eb;
-    color: #0f5ea8 !important;
+    border: 1px solid #d9b4bd;
+    color: #7b1f36 !important;
 }
 
 .chip {
-    background: #f1f6fb;
-    border: 1px solid #dbe8f3;
+    background: #f7f1ef;
+    border: 1px solid #e7dcd8;
     border-radius: 999px;
-    color: #25313f;
+    color: #2f2a2b;
     display: inline-flex;
     font-size: .84em;
     padding: .35rem .6rem;
@@ -545,22 +545,22 @@ h1:before, .anchor:before {
 
 .timeline-item {
     background: #ffffff;
-    border: 1px solid #e1e8f0;
+    border: 1px solid #e6dedc;
     border-radius: 8px;
-    box-shadow: 0 8px 20px rgba(16, 36, 58, .05);
+    box-shadow: 0 8px 20px rgba(50, 34, 34, .05);
     display: grid;
     gap: 1rem;
     grid-template-columns: 7rem 1fr;
     padding: 1rem;
 
     p {
-        color: #526173;
+        color: #6c6062;
         margin: .25rem 0 0;
     }
 }
 
 .timeline-date {
-    color: #0f5ea8;
+    color: #7b1f36;
     font-weight: 800;
 }
 
@@ -578,15 +578,15 @@ h1:before, .anchor:before {
 .contact-box,
 .team-note {
     background: #ffffff;
-    border: 1px solid #e1e8f0;
+    border: 1px solid #e6dedc;
     border-radius: 8px;
-    box-shadow: 0 8px 20px rgba(16, 36, 58, .05);
+    box-shadow: 0 8px 20px rgba(50, 34, 34, .05);
     padding: 1rem 1.1rem;
 }
 
 .paper-block {
     h3 {
-        color: #10243a;
+        color: #24171a;
         font-size: 1.05em;
         margin-top: 0;
     }
@@ -598,7 +598,7 @@ h1:before, .anchor:before {
     padding: 0;
 
     li {
-        border-bottom: 1px solid #edf2f7;
+        border-bottom: 1px solid #f0e9e7;
         margin: 0;
         padding: .7rem 0;
     }
@@ -610,7 +610,7 @@ h1:before, .anchor:before {
 }
 
 .team-note {
-    color: #526173;
+    color: #6c6062;
     margin: 1rem 0;
 }
 
