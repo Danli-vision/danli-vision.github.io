@@ -47,7 +47,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
 - **Autonomous clinic**
 
-<span class="anchor" id="recruiting"></span>
+<span class="anchor" id="openings"></span>
 
 # We are Recruiting
 
