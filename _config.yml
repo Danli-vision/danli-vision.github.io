@@ -2,7 +2,7 @@
 
 # Site Settings
 title                    : "Danli Shi | Vision Intelligence Lab"
-description              : "Vision Intelligence Lab at The Hong Kong Polytechnic University"
+# description              : "Vision Intelligence Lab at The Hong Kong Polytechnic University"
 url                      : "https://danli-vision.github.io"
 baseurl                  : ""
 repository               : "Danli-vision/danli-vision.github.io"
