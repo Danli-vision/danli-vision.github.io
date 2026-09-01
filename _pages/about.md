@@ -89,7 +89,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
       <li class="news-item">
       <span class="news-date">Aug 2026</span>
       <span class="news-title"><a href="https://heart.bmj.com/content/111/7/306"><em>Retinal vascular fingerprints predict incident
-      stroke</em></a> won Best paper in <em>Heart (BMJ group)</em>. Congrats to Mayi.</span>
+      stroke</em></a> won Best Paper in <em>Heart (BMJ group)</em>. Congrats to Mayi.</span>
     </li>
     <li class="news-item">
       <span class="news-date">July 2026</span>
@@ -105,7 +105,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
     </li>
     <li class="news-item">
       <span class="news-date">Nov 2025</span>
-      <span class="news-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/"><em>Retinomics & Multidisease</em></a> was published in <em>BMC Medicine</em>. <a href="https://github.com/Danli-vision/retinomics/tree/main">Code</a>. <a href="https://academic.oup.com/cardiovascres/article-abstract/122/5/637/8500123?redirectedFrom=fulltext"><em>Retinomics & Heart disease</em></a> was published in <em>Cardiovascular Research</em>.Big congrats to Mayi.</span>
+      <span class="news-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/"><em>Retinomics & Multidisease</em></a> was published in <em>BMC Medicine</em>. <a href="https://github.com/Danli-vision/retinomics/tree/main">Code</a>. <a href="https://academic.oup.com/cardiovascres/article-abstract/122/5/637/8500123?redirectedFrom=fulltext"><em>Retinomics & Heart disease</em></a> was published in <em>Cardiovascular Research</em>. Congrats to Mayi.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Oct 2025</span>
@@ -117,7 +117,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
     </li>
     <li class="news-item">
       <span class="news-date">Jun 2025</span>
-      <span class="news-title"><a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600"><em>FFA SORA</em></a> was published in <em>JAMA Ophthalmology</em>. Big congrats to Xinyuan and Lili.</span>
+      <span class="news-title"><a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600"><em>FFA SORA</em></a> was published in <em>JAMA Ophthalmology</em> and selected as Featured Paper. Big congrats to Xinyuan and Lili.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jun 2025</span>
