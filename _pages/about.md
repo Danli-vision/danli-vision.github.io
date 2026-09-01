@@ -86,13 +86,18 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
 <div class="news-container" aria-label="Scrollable news list">
   <ul class="news-list">
+      <li class="news-item">
+      <span class="news-date">Aug 2026</span>
+      <span class="news-title"><a href="https://heart.bmj.com/content/111/7/306"><em>Retinal vascular fingerprints predict incident
+      stroke</em></a> won Best paper in <em>Heart (BMJ group)</em>. Congrats to Mayi.</span>
+    </li>
     <li class="news-item">
       <span class="news-date">July 2026</span>
-      <span class="news-title"><a href="https://doi.org/10.22541/au.177222617.79030213/v1"><em>Human-Robot Collaboration for Autonomous Clinic</em></a> was accepted to <em>MedComm</em>. Congrats to Xinyuan.</span>
+      <span class="news-title"><a href="https://doi.org/10.1002/mco2.70885"><em>Human-Robot Collaboration for Autonomous Clinic</em></a> was published in <em>MedComm</em>. Congrats to Xinyuan.</span>
     </li>
     <li class="news-item">
       <span class="news-date">May 2026</span>
-      <span class="news-title">Three papers were published in <em>npj Digital Medicine</em>: <a href="https://www.nature.com/articles/s41746-026-02560-2"><em>EyeDiff</em></a>; <a href="https://www.nature.com/articles/s41746-026-02676-5"><em>ConceptVLM</em></a>; <a href="https://www.nature.com/articles/s41746-026-02804-1"><em>Fundus2videoFM</em></a>; Congrats to Weiyi, Ruoyu.</span>
+      <span class="news-title">Three papers were published in <em>npj Digital Medicine (IF=18)</em>: <a href="https://www.nature.com/articles/s41746-026-02560-2"><em>EyeDiff</em></a>; <a href="https://www.nature.com/articles/s41746-026-02676-5"><em>ConceptVLM</em></a>; <a href="https://www.nature.com/articles/s41746-026-02804-1"><em>Fundus2videoFM</em></a>; Congrats to Weiyi, Ruoyu.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jan 2026</span>
@@ -144,7 +149,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
     <li><a href="https://www.bj-yan.top/">Bingjie Yan</a> (2025.09-): Agentic AI</li>
     <li>Ziyu Gao (2025.09-): Generative AI, World model</li>
     <li>Zhenhan Wang (2025.09-): ChatMyopia </li>
-    <li>Zhuoran Liu (2025.05-): Digital biomarker</li>
+    <li>Zhuoran Liu (2025.09-): Digital biomarker</li>
     <li>Xinyuan Wu (2025.09-): Embodied AI</li>
     <li>Bowen Liu (2025.09-): Digital twin</li>
     <li><a href="https://scholar.google.com/citations?user=iA-PvEsAAAAJ&hl=zh-CN">Xiaolan Chen</a> (2024.09-): Agentic AI</li>
@@ -179,9 +184,9 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
   <ul class="member-list">
     <li><a href="https://scholar.google.com/citations?user=HVdLUawAAAAJ&hl=en">Weiyi Zhang</a>, PhD student, Best Research Postgraduate Student of PolyU (2025), 2023-2026</li>
     <li>Ruoyu Chen, PhD student, 2023-2026</li>
-    <li>Jie Li, Master student, 2025-2026</li>
-    <li>Yiqi Ma, Master student, 2025-2026</li>
-    <li>Qi Zhou, Master student, 2025-2026</li>
+    <li>Jie Li, Master student, MScVSI Innovative Research Project Group Award, 2025-2026</li>
+    <li>Yiqi Ma, Master student, MScVSI Innovative Research Project Group Award, 2025-2026</li>
+    <li>Qi Zhou, Master student, MScVSI Innovative Research Project Group Award, 2025-2026</li>
     <li>Wanrong Yang, Research assistant, 2025-2026</li>
     <li>Pusheng Xu, Research assistant, 2024-2025</li>
     <li>Lili Wang, Student assistant, 2024-2025</li>
@@ -249,5 +254,5 @@ Email: [danli.shi@polyu.edu.hk](mailto:danli.shi@polyu.edu.hk)
 I am happy to discuss research collaborations, student supervision, invited talks, workshops, and interdisciplinary projects at the interface of AI and healthcare.
 <div class="site-credit">
   &copy; Danli Shi.<br>
-  Last updated: July 2026.
+  Last updated: Sep 2026.
 </div>
