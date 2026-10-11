@@ -87,6 +87,10 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 <div class="news-container" aria-label="Scrollable news list">
   <ul class="news-list">
       <li class="news-item">
+      <span class="news-date">Oct 2026</span>
+      <span class="news-title">Recognized among the World's Top 2% Scientists by Stanford University.</span>
+    </li>
+      <li class="news-item">
       <span class="news-date">Aug 2026</span>
       <span class="news-title"><a href="https://heart.bmj.com/content/111/7/306"><em>Retinal vascular fingerprints predict incident
       stroke</em></a> won Best Paper in <em>Heart (BMJ group)</em>. Congrats to Mayi.</span>
