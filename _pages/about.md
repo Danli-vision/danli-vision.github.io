@@ -14,7 +14,7 @@ redirect_from:
 
 <p class="lab-tagline">The Hong Kong Polytechnic University</p>
 
-We build foundation models, multimodal agents, and autonomous clinical AI systems for vision science and medicine, with ophthalmology as our core testbed.
+We build foundation models, multimodal agents, and autonomous clinical AI systems for vision science and medicine, with ophthalmology and optometry as our core testbed.
 
 I am a Research Assistant Professor at The Hong Kong Polytechnic University. I received my PhD from Zhongshan Ophthalmic Center under the supervision of [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en), and my BS and MS from Shanghai Jiao Tong University.
 
