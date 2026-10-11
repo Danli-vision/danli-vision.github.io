@@ -29,16 +29,12 @@ include:
   - _pages
   - files
 exclude:
-  - docs
   - .github
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
   - run_server.sh
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
 keep_files:
   - .git
   - .svn
@@ -89,18 +85,8 @@ timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 
 # Plugins
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
 
 
 # HTML Compression

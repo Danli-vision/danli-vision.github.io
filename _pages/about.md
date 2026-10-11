@@ -231,5 +231,5 @@ Email: [danli.shi@polyu.edu.hk](mailto:danli.shi@polyu.edu.hk)
 I am happy to discuss research collaborations, student supervision, invited talks, workshops, and interdisciplinary projects at the interface of AI and healthcare.
 <div class="site-credit">
   &copy; Danli Shi.<br>
-  Last updated: Sep 2026.
+  Last updated: {{ site.time | date: "%b %Y" }}.
 </div>
