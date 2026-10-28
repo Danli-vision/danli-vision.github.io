@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Danli Shi | Vision Intelligence Lab at PolyU"
+excerpt: "PhD opportunities in medical AI, multimodal foundation models, AI agents and oculomics at PolyU, Hong Kong. Explore HKPFS funding and how to apply."
 author_profile: true
 redirect_from:
   - /about/
@@ -17,6 +17,17 @@ redirect_from:
 We build foundation models, multimodal agents, and autonomous clinical AI systems for vision science and medicine, with ophthalmology and optometry as our core testbed.
 
 I am a Research Assistant Professor at The Hong Kong Polytechnic University. I received my PhD from Zhongshan Ophthalmic Center under the supervision of [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en), and my BS and MS from Shanghai Jiao Tong University.
+
+<aside class="phd-callout" aria-labelledby="phd-callout-title">
+  <p class="phd-kicker">PhD opportunities &middot; Hong Kong</p>
+  <h2 id="phd-callout-title">Build the next generation of medical AI</h2>
+  <p>We welcome outstanding applicants worldwide to explore PhD research in multimodal foundation models, medical AI agents, oculomics, and autonomous clinical intelligence.</p>
+  <p><strong>HKPFS: HK$344,400 annual stipend + tuition fee waiver</strong>, with conference support, cash awards, and a guaranteed university accommodation place for 2 years.</p>
+  <div class="cta-row">
+    <a class="button-primary" href="#openings">Explore PhD opportunities</a>
+    <a class="button-secondary" href="#funding">Scholarships &amp; funding</a>
+  </div>
+</aside>
 
 <span class="anchor" id="research"></span>
 
@@ -49,20 +60,32 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
 <span class="anchor" id="openings"></span>
 
-# We are Recruiting
+# Join Us
 
 <div class="recruiting-container" aria-label="Recruiting information">
   <p>I am actively recruiting self-motivated PhD students, research assistants, interns, visiting students, and undergraduate researchers. Strong applicants may come from computer science, biomedical engineering, AI, ophthalmology, optometry, medicine, or related fields.</p>
 
+  <h2>PhD research with clinical relevance</h2>
+  <p>Connect AI methods with questions in vision science and medicine: generate and understand multimodal eye imaging, build agents for clinical reasoning, discover biomarkers of systemic disease, or investigate human-robot collaboration in clinical care. Explore our <a href="#research">research directions and papers</a> to identify your fit.</p>
+  <p>Our group includes recipients of the <a href="#funding">Kuok Group Fellowship and PPPFS</a>; our alumni include a recipient of PolyU's Best Research Postgraduate Student award. Meet the <a href="#members">group and alumni</a>.</p>
+
+  <h2>How to apply for HKPFS &middot; September 2027 entry</h2>
+  <ol class="phd-steps">
+    <li><strong>Discuss research fit.</strong> Email <a href="mailto:danli.shi@polyu.edu.hk?subject=Prospective%20PhD%20%2F%20HKPFS%20-%20September%202027">Danli Shi</a> with your CV, transcript, research interests, and representative work. Use the subject &ldquo;Prospective PhD / HKPFS + your name + university + research area&rdquo;. An enquiry does not replace the formal applications below.</li>
+    <li><strong>Obtain an HKPFS reference number.</strong> Submit the initial application through the <a href="https://cerg1.ugc.edu.hk/hkpfs/InitApplication.jsp">RGC HKPFS system</a> by <strong>1 December 2026, 12:00 noon Hong Kong time (UTC+8)</strong>.</li>
+    <li><strong>Submit your full PolyU application.</strong> Apply through <a href="https://rpgadmission.polyu.edu.hk/">RPgAdmission</a>, select &ldquo;2027/28 Semester 1 (Sept 2027 Entry)&rdquo;, and quote your HKPFS reference number by <strong>1 December 2026, 23:59 Hong Kong time (UTC+8)</strong>.</li>
+  </ol>
+  <p class="funding-note">Check the <a href="https://www.polyu.edu.hk/gs/hkpfs">official application guide and current deadlines</a> and <a href="https://www.polyu.edu.hk/study/pg/research-postgraduate/admission-requirements-rpg">PolyU admission requirements</a> before applying. Fellowship selection is competitive.</p>
+
   <div class="recruiting-requirements">
-    <h3>Academic Excellence</h3>
+    <h3>Lab Selection Criteria: Academic Excellence</h3>
     <ul>
       <li><strong>Institutional background:</strong> Bachelor's degree from a Top 300 globally ranked university, such as QS, THE, or ARWU rankings.</li>
       <li><strong>Academic standing:</strong> Minimum cumulative GPA of 3.5/4.0, or equivalent, is strictly required.</li>
       <li><strong>Distinctions:</strong> Proven academic excellence as a recipient of a National Scholarship or equivalent prestigious honors.</li>
     </ul>
 
-    <h3>Research Track Record</h3>
+    <h3>Lab Selection Criteria: Research Track Record</h3>
     <ul>
       <li><strong>High-impact publications:</strong> Demonstrated ability to produce high-quality research, evidenced by publications in top-tier AI conferences such as CVPR, ICCV, MICCAI, NeurIPS, and ICML, or Q1 JCR journals such as npj Digital Med, IEEE TMI, MedIA, Ophthalmology, JAMA Ophthalmology.</li>
       <li><strong>Technical proficiency:</strong> Strong expertise in Agentic AI, LLMs, multimodal data fusion, or related biomedical AI domains.</li>
@@ -75,10 +98,82 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
       <li><strong>Email subject:</strong> Prospective PhD / RA / Intern + your name + Bachelor University Name + area of interest.</li>
       <li><strong>Attachments:</strong> CV with GPA or ranking information, transcript, and a research proposal describing your background, interests, and why you want to join the lab.</li>
       <li><strong>Optional but helpful:</strong> Awards, such as National Scholarship, representative paper, thesis, code repository, competition result, or project page.</li>
-      <li><strong>Funding:</strong> For PhD applicants, please also consult the PolyU Graduate School <a href="https://www.polyu.edu.hk/en/gs/prospective-students/fellowship-scholarship-schemes/">fellowship and scholarship schemes</a>.</li>
+      <li><strong>Funding:</strong> For PhD applicants, see the <a href="#funding">scholarship summary below</a> and the official scheme pages.</li>
     </ol>
   </div>
 </div>
+
+<span class="anchor" id="funding"></span>
+
+# Scholarships & Funding
+
+## Unlock your potential
+
+PolyU supports research excellence through fellowships and scholarships that help students focus on their research. Explore the funding routes below, with HKPFS as a flagship opportunity for outstanding PhD applicants worldwide.
+
+<section class="funding-highlight" aria-labelledby="hkpfs-title">
+  <p class="phd-kicker">RGC Hong Kong PhD Fellowship Scheme</p>
+  <h3 id="hkpfs-title">HKPFS &middot; 2027/28</h3>
+  <p class="funding-amount">HK$344,400 <span>annual stipend</span></p>
+  <ul>
+    <li><strong>Full tuition fee waiver</strong> through the Research Excellence Scholarship.</li>
+    <li><strong>HK$14,400 annual conference grant.</strong></li>
+    <li><strong>Cash award:</strong> HK$40,000 in Year 1; HK$20,000 per year thereafter during the normal study period.</li>
+    <li><strong>University accommodation:</strong> a guaranteed place for 2 years.</li>
+  </ul>
+  <a class="button-primary" href="https://www.polyu.edu.hk/gs/hkpfs">HKPFS details &amp; application guide</a>
+</section>
+
+<details class="funding-alternatives">
+  <summary>Explore other funding: Kuok, PPPFS, IPFS &amp; PRPgS</summary>
+  <div class="funding-grid">
+    <section aria-labelledby="kuok-title">
+      <h3 id="kuok-title">Kuok Group Fellowship</h3>
+      <p>For outstanding PhD candidates worldwide.</p>
+      <ul>
+        <li><strong>HK$340,800 annual stipend</strong> and a tuition fee waiver.</li>
+        <li>HK$25,000 conference grant and HK$20,000 research-related international exchange allowance.</li>
+        <li>Cash award: HK$40,000 in Year 1; HK$20,000 per year thereafter during the normal study period.</li>
+        <li>Eligible university hall place for 1 year.</li>
+      </ul>
+      <a href="https://www.polyu.edu.hk/gs/kuok">Kuok eligibility &amp; details</a>
+    </section>
+    <section aria-labelledby="pppfs-title">
+      <h3 id="pppfs-title">PolyU Presidential PhD Fellowship (PPPFS)</h3>
+      <p>For top PhD candidates with exceptional academic or research achievements.</p>
+      <ul>
+        <li><strong>HK$340,800 annual stipend</strong> and a tuition fee waiver.</li>
+        <li>HK$25,000 conference grant.</li>
+        <li>Cash award: HK$40,000 in Year 1; HK$20,000 per year thereafter during the normal study period.</li>
+        <li>Eligible university hall place for 1 year.</li>
+      </ul>
+      <a href="https://www.polyu.edu.hk/gs/pppfs">PPPFS eligibility &amp; details</a>
+    </section>
+    <section aria-labelledby="ipfs-title">
+      <h3 id="ipfs-title">International PhD Fellowship (IPFS)</h3>
+      <p>For eligible foreign PhD applicants; see the official nationality and admission criteria.</p>
+      <ul>
+        <li><strong>HK$230,640 annual stipend</strong>; HK$235,920 for PhD students who have confirmed registration.</li>
+        <li>Tuition fee waiver and HK$25,000 conference grant.</li>
+        <li>Outstanding applicants may receive a cash award: HK$40,000 in Year 1; HK$20,000 per year thereafter during the normal study period.</li>
+        <li>Eligible university hall place for 1 year.</li>
+      </ul>
+      <a href="https://www.polyu.edu.hk/gs/ipfs">IPFS eligibility &amp; details</a>
+    </section>
+    <section aria-labelledby="prpgs-title">
+      <h3 id="prpgs-title">PolyU Research Postgraduate Scholarship (PRPgS)</h3>
+      <p>For full-time PhD and MPhil students. Applicants are considered through RPgAdmission; no separate application is required.</p>
+      <ul>
+        <li><strong>HK$230,640 annual stipend</strong>; HK$235,920 for PhD students who have confirmed registration.</li>
+        <li>HK$25,000 conference grant.</li>
+        <li>Eligible university hall place for 1 year.</li>
+      </ul>
+      <a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/">PRPgS &amp; all scholarship schemes</a>
+    </section>
+  </div>
+</details>
+
+<p class="funding-note">These schemes support eligible full-time PhD and/or MPhil students and are mutually exclusive: each student may receive support under one scheme only. Renewal depends on satisfactory performance and funding availability. A hall place does not imply free accommodation. PolyU may revise scholarships, fellowships, and fees without notice; official scheme terms prevail. Summary checked against <a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/">PolyU Graduate School</a> on 28 October 2026. Conference grants are not described as annual unless specified above.</p>
 
 <span class="anchor" id="news"></span>
 
