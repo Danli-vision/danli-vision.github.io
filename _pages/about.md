@@ -123,6 +123,10 @@ PolyU offers fellowships and scholarships to support outstanding research studen
   <ul class="news-list">
       <li class="news-item">
       <span class="news-date">Oct 2026</span>
+      <span class="news-title"><a href="https://arxiv.org/abs/2511.09394"><em>EyeAgent</em></a> was accepted to <em>NEJM AI</em>.</span>
+    </li>
+      <li class="news-item">
+      <span class="news-date">Oct 2026</span>
       <span class="news-title">Recognized among the World's Top 2% Scientists by Stanford University.</span>
     </li>
       <li class="news-item">
