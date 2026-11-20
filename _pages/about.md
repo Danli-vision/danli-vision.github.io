@@ -18,17 +18,6 @@ We build foundation models, multimodal agents, and autonomous clinical AI system
 
 I am a Research Assistant Professor at The Hong Kong Polytechnic University. I received my PhD from Zhongshan Ophthalmic Center under the supervision of [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en), and my BS and MS from Shanghai Jiao Tong University.
 
-<aside class="phd-callout" aria-labelledby="phd-callout-title">
-  <p class="phd-kicker">PhD opportunities &middot; Hong Kong</p>
-  <h2 id="phd-callout-title">Build the next generation of medical AI</h2>
-  <p>We welcome outstanding applicants worldwide to explore PhD research in multimodal foundation models, medical AI agents, oculomics, and autonomous clinical intelligence.</p>
-  <p><strong>HKPFS: HK$344,400 annual stipend + tuition fee waiver</strong>, with conference support, cash awards, and a guaranteed university accommodation place for 2 years.</p>
-  <div class="cta-row">
-    <a class="button-primary" href="#openings">Explore PhD opportunities</a>
-    <a class="button-secondary" href="#funding">Scholarships &amp; funding</a>
-  </div>
-</aside>
-
 <span class="anchor" id="research"></span>
 
 # Research Direction
