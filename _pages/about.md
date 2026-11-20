@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Danli Shi | Vision Intelligence Lab at PolyU"
-excerpt: "PhD opportunities in medical AI, multimodal foundation models, AI agents, and oculomics at PolyU, Hong Kong. Explore HKPFS funding and how to apply."
+excerpt: "PhD opportunities in medical AI, multimodal foundation models, AI agents, and oculomics at PolyU, Hong Kong."
 author_profile: true
 last_modified_at: 2026-11-20
 redirect_from:
@@ -30,7 +30,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
   </div>
   <div class="research-card">
     <span>Medical AI Agents</span>
-    <small>AI agents for clinical reasoning, diagnosis, visual question answering, retrieval, and decision support, with tools to assist clinicians and patients and work with electronic health records.</small>
+    <small>Clinical reasoning, diagnosis, visual question answering, retrieval, decision support, and electronic health record assistance.</small>
   </div>
   <div class="research-card">
     <span>Oculomics and Digital Biomarkers</span>
@@ -138,14 +138,12 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
 
 <h2>Scholarships &amp; Funding</h2>
 
-<p>PolyU offers fellowships and scholarships to support outstanding research students worldwide.</p>
-
 <ul class="scholarship-list">
   <li id="hkpfs-title"><a href="https://www.polyu.edu.hk/gs/hkpfs"><strong>Hong Kong PhD Fellowship Scheme (HKPFS):</strong></a> HK$344,400 annual stipend, tuition fee waiver, HK$14,400 annual conference grant, cash awards of HK$40,000 in Year 1 and HK$20,000 per year thereafter during the normal study period, and guaranteed university accommodation for 2 years.</li>
     <li><a href="https://www.polyu.edu.hk/gs/kuok"><strong>Kuok Group Fellowship:</strong></a> HK$340,800 annual stipend, tuition fee waiver, HK$25,000 conference grant, and HK$20,000 international exchange allowance.</li>
     <li><a href="https://www.polyu.edu.hk/gs/pppfs"><strong>PPPFS:</strong></a> HK$340,800 annual stipend, tuition fee waiver, and HK$25,000 conference grant.</li>
     <li><a href="https://www.polyu.edu.hk/gs/ipfs"><strong>IPFS:</strong></a> For eligible foreign PhD applicants; HK$230,640 annual stipend (HK$235,920 after confirmation of registration), tuition fee waiver, and HK$25,000 conference grant.</li>
-    <li><a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/"><strong>PRPgS:</strong></a> HK$230,640 annual stipend (HK$235,920 for PhD students after confirmation of registration) and HK$25,000 conference grant. Automatic consideration through RPgAdmission.</li>
+    <li><a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/"><strong>PRPgS:</strong></a> HK$230,640 annual stipend (HK$235,920 for PhD students after confirmation of registration) and HK$25,000 conference grant.</li>
   </ul>
   <p>Kuok and PPPFS also include cash awards of HK$40,000 in Year 1 and HK$20,000 per year thereafter during the normal study period; IPFS may offer the same awards to outstanding applicants. Kuok, PPPFS, IPFS, and PRPgS offer eligibility for a university hall place for 1 year.</p>
 
@@ -237,7 +235,7 @@ Research Assistant Professor, The Hong Kong Polytechnic University<br>
 Office: GH164<br>
 Email: [danli.shi@polyu.edu.hk](mailto:danli.shi@polyu.edu.hk)
 
-I am happy to discuss research collaborations, student supervision, invited talks, workshops, and interdisciplinary projects at the interface of AI and healthcare.
+For research collaborations, student supervision, talks, or workshops, please email me.
 <div class="site-credit">
   &copy; Danli Shi.<br>
   Last updated: {{ page.last_modified_at | date: "%d %b %Y" }}.
