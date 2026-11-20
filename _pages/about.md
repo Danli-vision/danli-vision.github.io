@@ -238,5 +238,5 @@ Email: [danli.shi@polyu.edu.hk](mailto:danli.shi@polyu.edu.hk)
 For research collaborations, student supervision, talks, or workshops, please email me.
 <div class="site-credit">
   &copy; Danli Shi.<br>
-  Last updated: {{ page.last_modified_at | date: "%d %b %Y" }}.
+  Last updated: {{ page.last_modified_at | date: "%b %Y" }}.
 </div>
