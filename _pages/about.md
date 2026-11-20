@@ -24,22 +24,22 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
 # Research Directions
 
 <div class="research-grid">
-  <a class="research-card" href="#generative-ai">
+  <div class="research-card">
     <span>Generative AI for Ophthalmology</span>
     <small>Generative models for retinal imaging, fluorescein angiography, indocyanine green angiography, and multimodal data.</small>
-  </a>
-  <a class="research-card" href="#ai-agents">
+  </div>
+  <div class="research-card">
     <span>Medical AI Agents</span>
     <small>AI agents for clinical reasoning, diagnosis, visual question answering, retrieval, and decision support, with tools to assist clinicians and patients and work with electronic health records.</small>
-  </a>
-  <a class="research-card" href="#rmhas">
+  </div>
+  <div class="research-card">
     <span>Oculomics and Digital Biomarkers</span>
     <small>Retinal and choroidal biomarkers for systemic disease prediction, population health, and preventive medicine.</small>
-  </a>
-  <a class="research-card" href="#autonomous-clinics">
+  </div>
+  <div class="research-card">
     <span>Autonomous Clinical Intelligence</span>
     <small>Human-robot collaboration, embodied AI, and clinical AI systems for autonomous clinics.</small>
-  </a>
+  </div>
 </div>
 
 - {: #generative-ai .research-topic } **Generative AI:** [CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331), [CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7), [FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z), [EyeGPT](https://www.jmir.org/2024/1/e60063/), [EyeFound](https://arxiv.org/abs/2405.11338), [EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2), [EyeWorld](https://arxiv.org/abs/2603.14039)
@@ -140,27 +140,14 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
 
 <p>PolyU offers fellowships and scholarships to support outstanding research students worldwide.</p>
 
-<section aria-labelledby="hkpfs-title">
-  <h3 id="hkpfs-title">Hong Kong PhD Fellowship Scheme (HKPFS)</h3>
-  <p class="funding-amount">HK$344,400 <span>annual stipend</span></p>
-  <ul>
-    <li><strong>Tuition fee waiver</strong> and <strong>HK$14,400 annual conference grant</strong>.</li>
-    <li><strong>Cash award:</strong> HK$40,000 in Year 1; HK$20,000 per year thereafter during the normal study period.</li>
-    <li><strong>Guaranteed university accommodation for 2 years.</strong></li>
-  </ul>
-  <a href="https://www.polyu.edu.hk/gs/hkpfs">HKPFS details &amp; application guide</a>
-</section>
-
-<details class="funding-alternatives">
-  <summary>Other fellowships &amp; scholarships</summary>
-  <ul>
+<ul class="scholarship-list">
+  <li id="hkpfs-title"><a href="https://www.polyu.edu.hk/gs/hkpfs"><strong>Hong Kong PhD Fellowship Scheme (HKPFS):</strong></a> HK$344,400 annual stipend, tuition fee waiver, HK$14,400 annual conference grant, cash awards of HK$40,000 in Year 1 and HK$20,000 per year thereafter during the normal study period, and guaranteed university accommodation for 2 years.</li>
     <li><a href="https://www.polyu.edu.hk/gs/kuok"><strong>Kuok Group Fellowship:</strong></a> HK$340,800 annual stipend, tuition fee waiver, HK$25,000 conference grant, and HK$20,000 international exchange allowance.</li>
     <li><a href="https://www.polyu.edu.hk/gs/pppfs"><strong>PPPFS:</strong></a> HK$340,800 annual stipend, tuition fee waiver, and HK$25,000 conference grant.</li>
     <li><a href="https://www.polyu.edu.hk/gs/ipfs"><strong>IPFS:</strong></a> For eligible foreign PhD applicants; HK$230,640 annual stipend (HK$235,920 after confirmation of registration), tuition fee waiver, and HK$25,000 conference grant.</li>
     <li><a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/"><strong>PRPgS:</strong></a> HK$230,640 annual stipend (HK$235,920 for PhD students after confirmation of registration) and HK$25,000 conference grant. Automatic consideration through RPgAdmission.</li>
   </ul>
-  <p>Kuok and PPPFS also include cash awards of HK$40,000 in Year 1 and HK$20,000 per year thereafter during the normal study period; IPFS may offer the same awards to outstanding applicants. All four schemes offer eligibility for a university hall place for 1 year.</p>
-</details>
+  <p>Kuok and PPPFS also include cash awards of HK$40,000 in Year 1 and HK$20,000 per year thereafter during the normal study period; IPFS may offer the same awards to outstanding applicants. Kuok, PPPFS, IPFS, and PRPgS offer eligibility for a university hall place for 1 year.</p>
 
 <p class="funding-note">Schemes are mutually exclusive. Eligibility, renewal, and benefits are subject to <a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/">PolyU's official terms</a>.</p>
 </section>
