@@ -3,6 +3,7 @@ permalink: /
 title: "Danli Shi | Vision Intelligence Lab at PolyU"
 excerpt: "PhD opportunities in medical AI, multimodal foundation models, AI agents, and oculomics at PolyU, Hong Kong. Explore HKPFS funding and how to apply."
 author_profile: true
+last_modified_at: 2026-11-20
 redirect_from:
   - /about/
   - /about.html
@@ -23,11 +24,11 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
 # Research Directions
 
 <div class="research-grid">
-  <a class="research-card" href="#news">
+  <a class="research-card" href="#generative-ai">
     <span>Generative AI for Ophthalmology</span>
     <small>Generative models for retinal imaging, fluorescein angiography, indocyanine green angiography, and multimodal data.</small>
   </a>
-  <a class="research-card" href="#news">
+  <a class="research-card" href="#ai-agents">
     <span>Medical AI Agents</span>
     <small>AI agents for clinical reasoning, diagnosis, visual question answering, retrieval, and decision support, with tools to assist clinicians and patients and work with electronic health records.</small>
   </a>
@@ -41,18 +42,10 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
   </a>
 </div>
 
-- **Generative AI:** [CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331), [CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7), [FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z), [EyeGPT](https://www.jmir.org/2024/1/e60063/), [EyeFound](https://arxiv.org/abs/2405.11338), [EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2), [EyeWorld](https://arxiv.org/abs/2603.14039)
-- **AI Agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002), [VQA](https://doi.org/10.1136/bjo-2024-326097), [ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2), [EyeAgent](https://arxiv.org/abs/2511.09394)
-
-<span class="anchor" id="rmhas"></span>
-
-**Oculomics and Digital Biomarkers:** We study retinomics and choroidomics as sources of biomarkers for systemic and ocular health. Our Retina-Based Microvascular Health Assessment System (RMHAS) provides an interactive demonstration of this work.
-
-[Try the RMHAS demo](https://translateretina.com/rmhas).
-
-<span class="anchor" id="autonomous-clinics"></span>
-
-**Autonomous Clinical Intelligence:** [Human–robot collaboration](https://pmc.ncbi.nlm.nih.gov/articles/PMC13401152/) and [operational digital twin clinics](https://arxiv.org/pdf/2608.21416).
+- {: #generative-ai .research-topic } **Generative AI:** [CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331), [CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7), [FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z), [EyeGPT](https://www.jmir.org/2024/1/e60063/), [EyeFound](https://arxiv.org/abs/2405.11338), [EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2), [EyeWorld](https://arxiv.org/abs/2603.14039)
+- {: #ai-agents .research-topic } **AI Agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002), [VQA](https://doi.org/10.1136/bjo-2024-326097), [ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2), [EyeAgent](https://arxiv.org/abs/2511.09394)
+- {: #rmhas .research-topic } **Oculomics and Digital Biomarkers:** We study retinomics and choroidomics as sources of biomarkers for systemic and ocular health. Our Retina-Based Microvascular Health Assessment System (RMHAS) provides an interactive demonstration of this work. [Try the RMHAS demo](https://translateretina.com/rmhas).
+- {: #autonomous-clinics .research-topic } **Autonomous Clinical Intelligence:** [Human–robot collaboration](https://pmc.ncbi.nlm.nih.gov/articles/PMC13401152/) and [operational digital twin clinics](https://arxiv.org/pdf/2608.21416).
 
 <span class="anchor" id="news"></span>
 
@@ -78,7 +71,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
     </li>
     <li class="news-item">
       <span class="news-date">May 2026</span>
-      <span class="news-title">Three papers were published in <em>npj Digital Medicine (IF=18)</em>: <a href="https://www.nature.com/articles/s41746-026-02560-2"><em>EyeDiff</em></a>; <a href="https://www.nature.com/articles/s41746-026-02676-5"><em>ConceptVLM</em></a>; <a href="https://www.nature.com/articles/s41746-026-02804-1"><em>Fundus2videoFM</em></a>. Congratulations to Weiyi and Ruoyu.</span>
+      <span class="news-title">Three papers were published in <em>npj Digital Medicine</em>: <a href="https://www.nature.com/articles/s41746-026-02560-2"><em>EyeDiff</em></a>; <a href="https://www.nature.com/articles/s41746-026-02676-5"><em>ConceptVLM</em></a>; <a href="https://www.nature.com/articles/s41746-026-02804-1"><em>Fundus2videoFM</em></a>. Congratulations to Weiyi and Ruoyu.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jan 2026</span>
@@ -86,7 +79,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
     </li>
     <li class="news-item">
       <span class="news-date">Nov 2025</span>
-      <span class="news-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/"><em>Retinomics & Multidisease</em></a> was published in <em>BMC Medicine</em>. <a href="https://github.com/Danli-vision/retinomics/tree/main">Code</a>. <a href="https://academic.oup.com/cardiovascres/article-abstract/122/5/637/8500123?redirectedFrom=fulltext"><em>Retinomics & Heart disease</em></a> was published in <em>Cardiovascular Research</em>. Congratulations to Mayi.</span>
+      <span class="news-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/"><em>Retinomics &amp; Multidisease</em></a> was published in <em>BMC Medicine</em>. <a href="https://github.com/Danli-vision/retinomics/tree/main">Code</a>. <a href="https://academic.oup.com/cardiovascres/article-abstract/122/5/637/8500123?redirectedFrom=fulltext"><em>Retinomics &amp; Heart Disease</em></a> was published in <em>Cardiovascular Research</em>. Congratulations to Mayi.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Oct 2025</span>
@@ -117,12 +110,14 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
 
 <span class="anchor" id="openings"></span>
 
+# Join Us
+{: #join-us-title }
+
 <section class="recruiting-container" aria-labelledby="join-us-title">
-  <h1 id="join-us-title">Join Us</h1>
   <p>We welcome PhD students, research assistants, interns, visiting students, and undergraduate researchers in AI, computer science, biomedical engineering, ophthalmology, optometry, medicine, and related fields.</p>
 
   <div class="recruiting-requirements">
-    <h3>Requirements</h3>
+    <h2>Requirements</h2>
     <ol>
       <li>A strong interest in research, self-motivation, and leadership qualities.</li>
       <li>Demonstrated excellence through <strong>at least one</strong> of the following:
@@ -131,10 +126,10 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
           <li>An exceptional GPA</li>
           <li>Multiple high-quality publications</li>
         </ul>
-    </li>
+      </li>
     </ol>
 
-    <h3>How to Apply</h3>
+    <h2>How to Apply</h2>
     <p>Email <a href="mailto:danli.shi@polyu.edu.hk">danli.shi@polyu.edu.hk</a> with your CV, academic transcript, a brief research proposal, and examples of your work. Use the subject line: &ldquo;Prospective PhD / RA / Intern + your name + university&rdquo;.</p>
   </div>
 
@@ -175,7 +170,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
 # Group Members
 
 <div class="member-list-panel">
-  <h3>PhD Students</h3>
+  <h2>PhD Students</h2>
   <ul class="member-list">
     <li>Kunhong Xiao (Sep 2026–present)</li>
     <li>Xinyu Hou (Sep 2026–present)</li>
@@ -193,22 +188,22 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
 
   </ul>
 
-  <h3>MPhil Students</h3>
+  <h2>MPhil Students</h2>
   <ul class="member-list">
     <li>Zhibo Wang (Jan 2026–present): Robotics</li>
   </ul>
 
-  <h3>URIS</h3>
+  <h2>Undergraduate Research and Innovation Scheme (URIS)</h2>
   <ul class="member-list">
-    <li>Theresa Shukrani Mulindwa, DSAI, 2026–2028</li>
+    <li>Theresa Shukrani Mulindwa, Data Science and Artificial Intelligence (DSAI), 2026–2028</li>
   </ul>
 
-  <h3>Visiting Students</h3>
+  <h2>Visiting Students</h2>
   <ul class="member-list">
     <li>Ke Li, PhD student, 2025–2026</li>
   </ul>
 
-  <h3>Capstone Students, 2025–2026</h3>
+  <h2>Capstone Students, 2025–2026</h2>
   <ul class="member-list">
     <li>TONG Anson</li>
     <li>SO Kam Chun</li>
@@ -216,17 +211,17 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
     <li>LAI Kin Ming</li>
   </ul>
 
-  <h3>Alumni</h3>
+  <h2>Alumni</h2>
   <ul class="member-list">
     <li><a href="https://scholar.google.com/citations?user=HVdLUawAAAAJ&hl=en">Weiyi Zhang</a>, PhD student, Best Research Postgraduate Student of PolyU (2025), 2023–2026</li>
     <li>Ruoyu Chen, PhD student, 2023–2026</li>
-    <li>Jie Li, Master's student, MScVSI Innovative Research Project Group Award, 2025–2026</li>
-    <li>Yiqi Ma, Master's student, MScVSI Innovative Research Project Group Award, 2025–2026</li>
-    <li>Qi Zhou, Master's student, MScVSI Innovative Research Project Group Award, 2025–2026</li>
-    <li>Wanrong Yang, Research assistant, 2025–2026</li>
-    <li>Pusheng Xu, Research assistant, 2024–2025</li>
-    <li>Lili Wang, Student assistant, 2024–2025</li>
-    <li>Mayinuer Yusufu, Exchange student, 2024–2025</li>
+    <li>Jie Li, master's student, MScVSI Innovative Research Project Group Award, 2025–2026</li>
+    <li>Yiqi Ma, master's student, MScVSI Innovative Research Project Group Award, 2025–2026</li>
+    <li>Qi Zhou, master's student, MScVSI Innovative Research Project Group Award, 2025–2026</li>
+    <li>Wanrong Yang, research assistant, 2025–2026</li>
+    <li>Pusheng Xu, research assistant, 2024–2025</li>
+    <li>Lili Wang, student assistant, 2024–2025</li>
+    <li>Mayinuer Yusufu, exchange student, 2024–2025</li>
   </ul>
 </div>
 
@@ -258,5 +253,5 @@ Email: [danli.shi@polyu.edu.hk](mailto:danli.shi@polyu.edu.hk)
 I am happy to discuss research collaborations, student supervision, invited talks, workshops, and interdisciplinary projects at the interface of AI and healthcare.
 <div class="site-credit">
   &copy; Danli Shi.<br>
-  Last updated: {{ site.time | date: "%b %Y" }}.
+  Last updated: {{ page.last_modified_at | date: "%d %b %Y" }}.
 </div>
