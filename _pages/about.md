@@ -44,8 +44,8 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I e
 
 - {: #generative-ai .research-topic } **Generative AI:** [CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331), [CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7), [FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z), [EyeGPT](https://www.jmir.org/2024/1/e60063/), [EyeFound](https://arxiv.org/abs/2405.11338), [EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2), [EyeWorld](https://arxiv.org/abs/2603.14039)
 - {: #ai-agents .research-topic } **AI Agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002), [VQA](https://doi.org/10.1136/bjo-2024-326097), [ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2), [EyeAgent](https://arxiv.org/abs/2511.09394)
-- {: #rmhas .research-topic } **Oculomics and Digital Biomarkers:** We study retinomics and choroidomics as sources of biomarkers for systemic and ocular health. Our Retina-Based Microvascular Health Assessment System (RMHAS) provides an interactive demonstration of this work. [Try the RMHAS demo](https://translateretina.com/rmhas).
-- {: #autonomous-clinics .research-topic } **Autonomous Clinical Intelligence:** [Human–robot collaboration](https://pmc.ncbi.nlm.nih.gov/articles/PMC13401152/) and [operational digital twin clinics](https://arxiv.org/pdf/2608.21416).
+- {: #rmhas .research-topic } **Oculomics and Digital Biomarkers:** Retinomics, Choroidomics, [RMHAS demo](https://translateretina.com/rmhas)
+- {: #autonomous-clinics .research-topic } **Autonomous Clinical Intelligence:** [Human–robot collaboration](https://pmc.ncbi.nlm.nih.gov/articles/PMC13401152/), [Operational digital twin clinic](https://arxiv.org/pdf/2608.21416)
 
 <span class="anchor" id="news"></span>
 
