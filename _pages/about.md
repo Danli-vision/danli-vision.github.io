@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Danli Shi | Vision Intelligence Lab at PolyU"
-excerpt: "PhD opportunities in medical AI, multimodal foundation models, AI agents and oculomics at PolyU, Hong Kong. Explore HKPFS funding and how to apply."
+excerpt: "PhD opportunities in medical AI, multimodal foundation models, AI agents, and oculomics at PolyU, Hong Kong. Explore HKPFS funding and how to apply."
 author_profile: true
 redirect_from:
   - /about/
@@ -14,38 +14,45 @@ redirect_from:
 
 <p class="lab-tagline">The Hong Kong Polytechnic University</p>
 
-We build foundation models, multimodal agents, and autonomous clinical AI systems for vision science and medicine, with ophthalmology and optometry as our core testbed.
+We develop foundation models, multimodal agents, and autonomous clinical AI systems for vision science and medicine, with a focus on ophthalmology and optometry.
 
-I am a Research Assistant Professor at The Hong Kong Polytechnic University. I received my PhD from Zhongshan Ophthalmic Center under the supervision of [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en), and my BS and MS from Shanghai Jiao Tong University.
+I am a Research Assistant Professor at The Hong Kong Polytechnic University. I earned my PhD at Zhongshan Ophthalmic Center under the supervision of [Prof. Mingguang He](https://scholar.google.com.au/citations?user=uVVC9F8AAAAJ&hl=en). I received my BS and MS from Shanghai Jiao Tong University.
 
 <span class="anchor" id="research"></span>
 
-# Research Direction
+# Research Directions
 
 <div class="research-grid">
   <a class="research-card" href="#news">
     <span>Generative AI for Ophthalmology</span>
-    <small>Retinal image, fluorescein angiography, indocyanine green angiography, and multimodal generation.</small>
+    <small>Generative models for retinal imaging, fluorescein angiography, indocyanine green angiography, and multimodal data.</small>
   </a>
   <a class="research-card" href="#news">
     <span>Medical AI Agents</span>
-    <small>Interactive systems for reasoning, diagnosis, VQA, retrieval, doctor-patient-EHR assistance, and clinical decision support.</small>
+    <small>AI agents for clinical reasoning, diagnosis, visual question answering, retrieval, and decision support, with tools to assist clinicians and patients and work with electronic health records.</small>
   </a>
   <a class="research-card" href="#rmhas">
     <span>Oculomics and Digital Biomarkers</span>
     <small>Retinal and choroidal biomarkers for systemic disease prediction, population health, and preventive medicine.</small>
   </a>
-  <a class="research-card" href="#service">
+  <a class="research-card" href="#autonomous-clinics">
     <span>Autonomous Clinical Intelligence</span>
-    <small>Human-robot collaboration, embodied AI, and deployable clinical intelligence for future autonomous clinics.</small>
+    <small>Human-robot collaboration, embodied AI, and clinical AI systems for autonomous clinics.</small>
   </a>
 </div>
 
 - **Generative AI:** [CF2FFA](https://www.sciencedirect.com/science/article/pii/S2666914523001331), [CF2ICGA](https://www.nature.com/articles/s41746-024-01018-7), [FFA-GPT](https://www.nature.com/articles/s41746-024-01101-z), [EyeGPT](https://www.jmir.org/2024/1/e60063/), [EyeFound](https://arxiv.org/abs/2405.11338), [EyeCLIP](https://www.nature.com/articles/s41746-025-01772-2), [EyeWorld](https://arxiv.org/abs/2603.14039)
 - **AI Agents:** [Evaluation](https://mednexus.org/doi/full/10.1016/j.imed.2025.03.002), [VQA](https://doi.org/10.1136/bjo-2024-326097), [ChatMyopia](https://www.cell.com/iscience/fulltext/S2589-0042(25)02029-2), [EyeAgent](https://arxiv.org/abs/2511.09394)
-- **Oculomics and digital biomarkers:** retinal vessel biomarkers through the <a href="#rmhas">RMHAS series</a>, plus choroidal biomarkers such as [ICGA fingerprints](https://doi.org/10.1167/iovs.66.13.3)
 
-- **Autonomous clinic** [Human–Robot collaboration](https://pmc.ncbi.nlm.nih.gov/articles/PMC13401152/), [Operational digital twin clinic](https://arxiv.org/pdf/2608.21416)
+<span class="anchor" id="rmhas"></span>
+
+**Oculomics and Digital Biomarkers:** We study retinomics and choroidomics as sources of biomarkers for systemic and ocular health. Our Retina-Based Microvascular Health Assessment System (RMHAS) provides an interactive demonstration of this work.
+
+[Try the RMHAS demo](https://translateretina.com/rmhas).
+
+<span class="anchor" id="autonomous-clinics"></span>
+
+**Autonomous Clinical Intelligence:** [Human–robot collaboration](https://pmc.ncbi.nlm.nih.gov/articles/PMC13401152/) and [operational digital twin clinics](https://arxiv.org/pdf/2608.21416).
 
 <span class="anchor" id="news"></span>
 
@@ -53,34 +60,33 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
 <div class="news-container" aria-label="Scrollable news list">
   <ul class="news-list">
-      <li class="news-item">
+    <li class="news-item">
       <span class="news-date">Oct 2026</span>
-      <span class="news-title"><a href="https://arxiv.org/abs/2511.09394"><em>EyeAgent</em></a> was accepted to <em>NEJM AI</em>.</span>
+      <span class="news-title"><a href="https://arxiv.org/abs/2511.09394"><em>EyeAgent</em></a> was accepted for publication in <em>NEJM AI</em>.</span>
     </li>
-      <li class="news-item">
+    <li class="news-item">
       <span class="news-date">Oct 2026</span>
       <span class="news-title">Recognized among the World's Top 2% Scientists by Stanford University.</span>
     </li>
-      <li class="news-item">
+    <li class="news-item">
       <span class="news-date">Aug 2026</span>
-      <span class="news-title"><a href="https://heart.bmj.com/content/111/7/306"><em>Retinal vascular fingerprints predict incident
-      stroke</em></a> won Best Paper in <em>Heart (BMJ group)</em>. Congrats to Mayi.</span>
+      <span class="news-title"><a href="https://heart.bmj.com/content/111/7/306"><em>Retinal vascular fingerprints predict incident stroke</em></a> received a Best Paper award from <em>Heart (BMJ Group)</em>. Congratulations to Mayi.</span>
     </li>
     <li class="news-item">
-      <span class="news-date">July 2026</span>
-      <span class="news-title"><a href="https://doi.org/10.1002/mco2.70885"><em>Human-Robot Collaboration for Autonomous Clinic</em></a> was published in <em>MedComm</em>. Congrats to Xinyuan.</span>
+      <span class="news-date">Jul 2026</span>
+      <span class="news-title"><a href="https://doi.org/10.1002/mco2.70885"><em>Human-Robot Collaboration for Autonomous Clinic</em></a> was published in <em>MedComm</em>. Congratulations to Xinyuan.</span>
     </li>
     <li class="news-item">
       <span class="news-date">May 2026</span>
-      <span class="news-title">Three papers were published in <em>npj Digital Medicine (IF=18)</em>: <a href="https://www.nature.com/articles/s41746-026-02560-2"><em>EyeDiff</em></a>; <a href="https://www.nature.com/articles/s41746-026-02676-5"><em>ConceptVLM</em></a>; <a href="https://www.nature.com/articles/s41746-026-02804-1"><em>Fundus2videoFM</em></a>; Congrats to Weiyi, Ruoyu.</span>
+      <span class="news-title">Three papers were published in <em>npj Digital Medicine (IF=18)</em>: <a href="https://www.nature.com/articles/s41746-026-02560-2"><em>EyeDiff</em></a>; <a href="https://www.nature.com/articles/s41746-026-02676-5"><em>ConceptVLM</em></a>; <a href="https://www.nature.com/articles/s41746-026-02804-1"><em>Fundus2videoFM</em></a>. Congratulations to Weiyi and Ruoyu.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jan 2026</span>
-      <span class="news-title">One paper was published in <em>Medical Image Analysis</em>: <a href="https://doi.org/10.1016/j.media.2026.103942"><em>Predicting DME treatment responses</em></a>. Congrats to Weiyi.</span>
+      <span class="news-title">Our paper was published in <em>Medical Image Analysis</em>: <a href="https://doi.org/10.1016/j.media.2026.103942"><em>Predicting DME treatment responses</em></a>. Congratulations to Weiyi.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Nov 2025</span>
-      <span class="news-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/"><em>Retinomics & Multidisease</em></a> was published in <em>BMC Medicine</em>. <a href="https://github.com/Danli-vision/retinomics/tree/main">Code</a>. <a href="https://academic.oup.com/cardiovascres/article-abstract/122/5/637/8500123?redirectedFrom=fulltext"><em>Retinomics & Heart disease</em></a> was published in <em>Cardiovascular Research</em>. Congrats to Mayi.</span>
+      <span class="news-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12661837/"><em>Retinomics & Multidisease</em></a> was published in <em>BMC Medicine</em>. <a href="https://github.com/Danli-vision/retinomics/tree/main">Code</a>. <a href="https://academic.oup.com/cardiovascres/article-abstract/122/5/637/8500123?redirectedFrom=fulltext"><em>Retinomics & Heart disease</em></a> was published in <em>Cardiovascular Research</em>. Congratulations to Mayi.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Oct 2025</span>
@@ -92,7 +98,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
     </li>
     <li class="news-item">
       <span class="news-date">Jun 2025</span>
-      <span class="news-title"><a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600"><em>FFA SORA</em></a> was published in <em>JAMA Ophthalmology</em> and selected as Featured Paper. Big congrats to Xinyuan and Lili.</span>
+      <span class="news-title"><a href="https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2835600"><em>FFA SORA</em></a> was published in <em>JAMA Ophthalmology</em> and selected as a featured paper. Congratulations to Xinyuan and Lili.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jun 2025</span>
@@ -100,11 +106,11 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
     </li>
     <li class="news-item">
       <span class="news-date">Jun 2025</span>
-      <span class="news-title"><a href="https://www.nature.com/articles/s41746-025-01754-4"><em>Embodied AI in ophthalmology</em></a> was published in <em>npj Digital Medicine</em>. Big congrats to Yao, Xiaolan, and Xinyuan.</span>
+      <span class="news-title"><a href="https://www.nature.com/articles/s41746-025-01754-4"><em>Embodied AI in ophthalmology</em></a> was published in <em>npj Digital Medicine</em>. Congratulations to Yao, Xiaolan, and Xinyuan.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Mar 2025</span>
-      <span class="news-title"><a href="https://www.sciencedirect.com/science/article/pii/S2667102625000294"><em>Evaluating LLMs and agents in healthcare</em></a> was published in <em>Intelligent Medicine</em>. Big congrats to Xiaolan.</span>
+      <span class="news-title"><a href="https://www.sciencedirect.com/science/article/pii/S2667102625000294"><em>Evaluating LLMs and agents in healthcare</em></a> was published in <em>Intelligent Medicine</em>. Congratulations to Xiaolan.</span>
     </li>
   </ul>
 </div>
@@ -118,18 +124,18 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
   <div class="recruiting-requirements">
     <h3>Requirements</h3>
     <ol>
-      <li>Strong research interest, self-motivation, and leadership qualities.</li>
+      <li>A strong interest in research, self-motivation, and leadership qualities.</li>
       <li>Demonstrated excellence through <strong>at least one</strong> of the following:
         <ul>
           <li>A bachelor’s degree from a highly ranked university</li>
           <li>An exceptional GPA</li>
           <li>Multiple high-quality publications</li>
         </ul>
-      </li>
+    </li>
     </ol>
 
     <h3>How to Apply</h3>
-    <p>Email <a href="mailto:danli.shi@polyu.edu.hk">danli.shi@polyu.edu.hk</a> with your CV, transcript, a brief research proposal, and representative work. Subject: &ldquo;Prospective PhD / RA / Intern + your name + university&rdquo;.</p>
+    <p>Email <a href="mailto:danli.shi@polyu.edu.hk">danli.shi@polyu.edu.hk</a> with your CV, academic transcript, a brief research proposal, and examples of your work. Use the subject line: &ldquo;Prospective PhD / RA / Intern + your name + university&rdquo;.</p>
   </div>
 
   <p class="funding-note"><strong>HKPFS &middot; September 2027 entry:</strong> Apply to <a href="https://cerg1.ugc.edu.hk/hkpfs/InitApplication.jsp">RGC</a> by <strong>1 December 2026, 12:00 noon</strong>, then submit your <a href="https://rpgadmission.polyu.edu.hk/">PolyU application</a> with the HKPFS reference number by <strong>23:59 the same day</strong> (Hong Kong time, UTC+8). See the <a href="https://www.polyu.edu.hk/gs/hkpfs">official application guide</a>.</p>
@@ -145,7 +151,7 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
   <ul>
     <li><strong>Tuition fee waiver</strong> and <strong>HK$14,400 annual conference grant</strong>.</li>
     <li><strong>Cash award:</strong> HK$40,000 in Year 1; HK$20,000 per year thereafter during the normal study period.</li>
-    <li><strong>Guaranteed university accommodation place for 2 years.</strong></li>
+    <li><strong>Guaranteed university accommodation for 2 years.</strong></li>
   </ul>
   <a href="https://www.polyu.edu.hk/gs/hkpfs">HKPFS details &amp; application guide</a>
 </section>
@@ -169,40 +175,40 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 # Group Members
 
 <div class="member-list-panel">
-  <h3>Ph.D. Students</h3>
+  <h3>PhD Students</h3>
   <ul class="member-list">
-    <li>Kunhong Xiao (2026.09-) </li>
-    <li>Xinyu Hou (2026.09-) </li>
-    <li>Xuze Wang [Kuok Fellowship] (2026.09-) </li>
-    <li>Ying Zhang (2026.09-) </li>
-    <li>Zhongyu Chen (2026.09-): Robotics </li>
-    <li><a href="https://www.bj-yan.top/">Bingjie Yan</a> (2025.09-): Agentic AI</li>
-    <li>Ziyu Gao (2025.09-): Generative AI, World model</li>
-    <li>Zhenhan Wang (2025.09-): ChatMyopia </li>
-    <li>Zhuoran Liu (2025.09-): Digital biomarker</li>
-    <li>Xinyuan Wu (2025.09-): Embodied AI</li>
-    <li>Bowen Liu (2025.09-): Digital twin</li>
-    <li><a href="https://scholar.google.com/citations?user=iA-PvEsAAAAJ&hl=zh-CN">Xiaolan Chen</a> (2024.09-): Agentic AI</li>
-    <li>Yue Wu [PPPFS] (2024.09-): Generative AI, drug discovery</li>
+    <li>Kunhong Xiao (Sep 2026–present)</li>
+    <li>Xinyu Hou (Sep 2026–present)</li>
+    <li>Xuze Wang [Kuok Fellowship] (Sep 2026–present)</li>
+    <li>Ying Zhang (Sep 2026–present)</li>
+    <li>Zhongyu Chen (Sep 2026–present): Robotics</li>
+    <li><a href="https://www.bj-yan.top/">Bingjie Yan</a> (Sep 2025–present): Agentic AI</li>
+    <li>Ziyu Gao (Sep 2025–present): Generative AI, world models</li>
+    <li>Zhenhan Wang (Sep 2025–present): ChatMyopia</li>
+    <li>Zhuoran Liu (Sep 2025–present): Digital biomarkers</li>
+    <li>Xinyuan Wu (Sep 2025–present): Embodied AI</li>
+    <li>Bowen Liu (Sep 2025–present): Digital twins</li>
+    <li><a href="https://scholar.google.com/citations?user=iA-PvEsAAAAJ&hl=zh-CN">Xiaolan Chen</a> (Sep 2024–present): Agentic AI</li>
+    <li>Yue Wu [PPPFS] (Sep 2024–present): Generative AI, drug discovery</li>
 
   </ul>
 
   <h3>MPhil Students</h3>
   <ul class="member-list">
-    <li>Zhibo Wang (2026.01-): Robotics</li>
+    <li>Zhibo Wang (Jan 2026–present): Robotics</li>
   </ul>
 
   <h3>URIS</h3>
   <ul class="member-list">
-    <li>Theresa Shukrani Mulindwa, DSAI, 2026-2028 </li>
+    <li>Theresa Shukrani Mulindwa, DSAI, 2026–2028</li>
   </ul>
 
-  <h3>Visiting student</h3>
+  <h3>Visiting Students</h3>
   <ul class="member-list">
-    <li>Ke Li, PhD student, 2025-2026</li>
+    <li>Ke Li, PhD student, 2025–2026</li>
   </ul>
 
-  <h3>Capstone student, 2025-2026</h3>
+  <h3>Capstone Students, 2025–2026</h3>
   <ul class="member-list">
     <li>TONG Anson</li>
     <li>SO Kam Chun</li>
@@ -212,15 +218,15 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
   <h3>Alumni</h3>
   <ul class="member-list">
-    <li><a href="https://scholar.google.com/citations?user=HVdLUawAAAAJ&hl=en">Weiyi Zhang</a>, PhD student, Best Research Postgraduate Student of PolyU (2025), 2023-2026</li>
-    <li>Ruoyu Chen, PhD student, 2023-2026</li>
-    <li>Jie Li, Master student, MScVSI Innovative Research Project Group Award, 2025-2026</li>
-    <li>Yiqi Ma, Master student, MScVSI Innovative Research Project Group Award, 2025-2026</li>
-    <li>Qi Zhou, Master student, MScVSI Innovative Research Project Group Award, 2025-2026</li>
-    <li>Wanrong Yang, Research assistant, 2025-2026</li>
-    <li>Pusheng Xu, Research assistant, 2024-2025</li>
-    <li>Lili Wang, Student assistant, 2024-2025</li>
-    <li>Mayinuer Yusufu, Exchange student, 2024-2025</li>
+    <li><a href="https://scholar.google.com/citations?user=HVdLUawAAAAJ&hl=en">Weiyi Zhang</a>, PhD student, Best Research Postgraduate Student of PolyU (2025), 2023–2026</li>
+    <li>Ruoyu Chen, PhD student, 2023–2026</li>
+    <li>Jie Li, Master's student, MScVSI Innovative Research Project Group Award, 2025–2026</li>
+    <li>Yiqi Ma, Master's student, MScVSI Innovative Research Project Group Award, 2025–2026</li>
+    <li>Qi Zhou, Master's student, MScVSI Innovative Research Project Group Award, 2025–2026</li>
+    <li>Wanrong Yang, Research assistant, 2025–2026</li>
+    <li>Pusheng Xu, Research assistant, 2024–2025</li>
+    <li>Lili Wang, Student assistant, 2024–2025</li>
+    <li>Mayinuer Yusufu, Exchange student, 2024–2025</li>
   </ul>
 </div>
 
@@ -230,8 +236,8 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 
 ## Teaching
 
-- AI in Healthcare (SO1D02, CAR subject for undergraduates) - 2025 - present
-- Digital Health (SO5001, MSc in Vision Science and Innovation) - 2025 - present
+- AI in Healthcare (SO1D02, CAR subject for undergraduates) — 2025–present
+- Digital Health (SO5001, MSc in Vision Science and Innovation) — 2025–present
 
 ## Professional Activities
 
@@ -239,11 +245,6 @@ I am a Research Assistant Professor at The Hong Kong Polytechnic University. I r
 - Awards Officer, Women in MICCAI
 - Reviewer for <em>npj Digital Medicine</em>, <em>Nature Computational Science</em>, <em>Nature Communications</em>, <em>Progress in Retinal and Eye Research</em>, <em>British Journal of Ophthalmology</em>, <em>Ophthalmology Science</em>, <em>JMIR</em>, <em>Pattern Recognition Letters</em>, <em>Expert Systems with Applications</em>, <em>Biomedical Signal Processing and Control</em>, and MICCAI
 
-<span class="anchor" id="rmhas"></span>
-
-# RMHAS: Retina-Based Microvascular Health Assessment System
-
-**Demo website:** [https://translateretina.com/rmhas](https://translateretina.com/rmhas)
 
 <span class="anchor" id="contact"></span>
 
